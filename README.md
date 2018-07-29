@@ -15,17 +15,17 @@ The reading list gives you insights into what we're thinking about and how we're
 
 ### For potential advisers
 
-Please refer to the ADVISER deck.pdf presentation.
+Please refer to the [ADVISER deck.pdf](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/ADVISER%20deck.pdf) presentation.
 
 ### For SAIS alumni
 
-Please refer to the ALUMNI deck.pdf presentation.
+Please refer to the [ALUMNI deck.pdf](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/ALUMNI%20deck.pdf) presentation.
 
 ### For all questions
 
 Please refer to the about section or reach out to Leo Klenner at lklenne1[at]jhu.edu.
 
-Our website will be coming in September 2018 to saistechnology.com.
+Our website will be coming in September 2018 to [saistechnology.com].
 
 ### And lastly...
 We look forward to exciting collaborations to advance education and solve hard problems at the conjecture of technology and global policy.
