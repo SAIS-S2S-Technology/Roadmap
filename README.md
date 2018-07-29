@@ -33,6 +33,16 @@ Please refer to the version of the presentation listed under [ALUMNI deck](https
 
 Please refer to the [overview](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/Overview.md) or reach out to Leo Klenner at lklenne1[at]jhu.edu.
 
+## Who we are
+
+We're a group of five MA students currently enrolled in the Master of Arts program at the Paul H. Nitze School of Advanced International Studies (SAIS). 
+
+Leo Klenner
+Zoe Li
+Jonathan Liu
+Jun Park
+Chenny Zhang
+
 ## And lastly...
 
 We look forward to exciting collaborations to advance education and solve hard problems at the conjecture of technology and global policy.
