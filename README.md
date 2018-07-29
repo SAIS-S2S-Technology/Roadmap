@@ -1,6 +1,6 @@
 # START HERE
 
-Thank you for taking a look at SAIS.Technology S2S.
+Thank you for taking a look at SAIS.Technology S2S, a launching student-to-student (S2S) platform on technology-adapted policy education.
 
 This repository contains two versions of a short presentation on our activities and an additional About section. 
 
