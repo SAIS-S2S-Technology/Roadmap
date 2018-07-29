@@ -1,4 +1,4 @@
-# SAIS. Technology S2S
+# SAIS.Technology S2S
 
 Thank you for taking a look at SAIS.Technology S2S.
 
