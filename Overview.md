@@ -4,7 +4,16 @@
 
 ## Why we exist
 
-We belive that technology advancements are profoundly changing the conduct of global policy. Education has to adapt to this. 
+We belive that technology advancements are profoundly changing the conduct of global policy. Our university, the Johns Hopkins Paul H. Nitze School of Advanced International Studies (SAIS) is commitet to understanding and shaping global policymaking through its research and professional Master of Arts program. Extending this commitment into the conceptual domain and geopolitical realities of technologuical advancements requires an adaptive educational environment that 
+
+
+Merging the concepts and tools of technology and global policymaking requires an educational environment that 
+
+
+education is a way for pushing the commitment of SAIS into a fast-changing environment that requires 
+
+
+Education has to adapt to this. 
 
 Support and understand these changes.
 
