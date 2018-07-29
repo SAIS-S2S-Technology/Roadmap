@@ -3,7 +3,7 @@
 Thank you for taking a look at SAIS.Technology S2S, a launching student-to-student (S2S) learning platform on technology-adapted policy leadership.
 
 **This repository contains:**
-* two tailored versions of a short presentation outlining our activities
+* two versions of a short presentation outlining our activities
 * an additional about section
 * a readling list on technology and policy
 
