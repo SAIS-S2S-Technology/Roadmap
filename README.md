@@ -15,6 +15,12 @@ The overview contains details on our mission, tools and progress.
 
 The reading list gives you insights into what we're thinking about and how we're thinking about it.
 
+## How to proceed from here
+
+### For general information
+
+Please refer to the [overview](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/Overview.md).
+
 ### For potential advisers
 
 Please refer to the version of the presentation listed under [ADVISER deck](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/ADVISER%20deck.pdf).
