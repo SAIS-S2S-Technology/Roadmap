@@ -18,4 +18,4 @@ Please refer to the About section or reach out to Leo Klenner at lklenne1[at]jhu
 
 Our website will be coming in September 2018 to saistechnology.com.
 
-We look forward to an exciting collaboration to advance how policy students can learn about technology. 
+We look forward to an exciting collaboration to advance education and solve hard problems at the intersection of technology and global policy.
