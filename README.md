@@ -12,8 +12,10 @@ Please refer to the ADVISER deck.pdf.
 
 Please refer to the ALUMNI deck.pdf.
 
-# For additional questions
+# For all questions
 
 Please refer to the About section or reach out to Leo Klenner at lklenne1[at]jhu.edu.
 
 Our website will be coming in September 2018 to saistechnology.com.
+
+We look forward to an exciting collaboration to advance how policy students can learn about technology. 
