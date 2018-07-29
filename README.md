@@ -28,4 +28,9 @@ Please refer to the version of the presentation listed under [ALUMNI deck](https
 Please refer to the [overview](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/Overview.md) or reach out to Leo Klenner at lklenne1[at]jhu.edu.
 
 ### And lastly...
+
 We look forward to exciting collaborations to advance education and solve hard problems at the conjecture of technology and global policy.
+
+## License
+
+The contents of this repository are soucred under a [MIT license](https://choosealicense.com/licenses/mit/).
