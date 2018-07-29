@@ -2,7 +2,7 @@
 
 Thank you for taking a look at SAIS.Technology S2S.
 
-This repository contains two versions of a short presentation on our activities and an additional About section. 
+This repository contains two versions of a short presentation on our activities and an About section. 
 
 The presentation lays out who we are, what problems we aim to solve, what solutions we propose and how we want to partner with you. 
 
