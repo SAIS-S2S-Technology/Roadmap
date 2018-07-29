@@ -1,11 +1,11 @@
 # START HERE
 
-Thank you for taking a look at SAIS.Technology S2S, a launching student-to-student (S2S) learning platform on technology-adapted policy leadership.
+Thank you for taking a look at SAIS.Technology S2S, a launching student-to-student (S2S) learning platform on technology-adapted policy leadership. For the moment, we're only on GitHub but our main website is coming soon.
 
 **This repository contains:**
-* two versions of a short presentation outlining our activities
-* an additional about section
-* a readling list on technology and policy
+* two versions of a short presentation outlining our activities for [potential advisers](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/ADVISER%20deck.pdf) and [SAIS alumni](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/ALUMNI%20deck.pdf)
+* an additional [about section](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/About.md)
+* a [readling list](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/Reading%20list.md) on technology and policy
 
 The presentation lays out who we are, what problems we aim to solve, what solutions we propose and how we want to partner with you. 
 
@@ -23,7 +23,7 @@ Please refer to the ALUMNI deck.pdf presentation.
 
 ### For all questions
 
-Please refer to the About section or reach out to Leo Klenner at lklenne1[at]jhu.edu.
+Please refer to the about section or reach out to Leo Klenner at lklenne1[at]jhu.edu.
 
 Our website will be coming in September 2018 to saistechnology.com.
 
