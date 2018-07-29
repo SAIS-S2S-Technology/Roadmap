@@ -27,7 +27,5 @@ Please refer to the version of the presentation listed under [ALUMNI deck](https
 
 Please refer to the [about section](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/About.md) or reach out to Leo Klenner at lklenne1[at]jhu.edu.
 
-Our website will be coming in September 2018 to *saistechnology.com*.
-
 ### And lastly...
 We look forward to exciting collaborations to advance education and solve hard problems at the conjecture of technology and global policy.
