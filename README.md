@@ -6,7 +6,7 @@ For the moment, we're only on GitHub but our main website is coming soon.
 
 **This repository contains:**
 * two versions of a short presentation outlining our activities for [potential advisers](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/ADVISER%20deck.pdf) and [SAIS alumni](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/ALUMNI%20deck.pdf)
-* an additional [overview](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/Overview.md) of SAIS.Technology S2S
+* an longer [overview](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/Overview.md) of SAIS.Technology S2S
 * a [readling list](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/Reading%20list.md) on technology and policy
 
 The presentation lays out who we are, what problems we aim to solve, what solutions we propose and how we want to partner with you. 
