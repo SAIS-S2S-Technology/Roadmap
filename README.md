@@ -9,7 +9,7 @@ Thank you for taking a look at SAIS.Technology S2S, a launching student-to-stude
 
 The presentation lays out who we are, what problems we aim to solve, what solutions we propose and how we want to partner with you. 
 
-The About section contains further details on our mission, tools and progress.
+The About section contains details on our mission, tools and progress.
 
 The reading list gives you insights into what we're thinking about and how we're thinking about it.
 
