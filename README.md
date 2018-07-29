@@ -1,6 +1,8 @@
 # START HERE
 
-Thank you for taking a look at SAIS.Technology S2S, a launching student-to-student (S2S) learning platform on technology-adapted policy leadership located at the [Paul H. Nitze School of Advanced International Studies (SAIS)](https://www.sais-jhu.edu/). 
+Thank you for taking a look at SAIS.Technology S2S.
+
+SAIS.Technology S2S is a launching student-to-student (S2S) learning platform on technology-adapted policy leadership located at the [Paul H. Nitze School of Advanced International Studies (SAIS)](https://www.sais-jhu.edu/). 
 
 For the moment, we're only on GitHub but our main website is coming soon.
 
@@ -35,7 +37,7 @@ Please refer to the [overview](https://github.com/LeoQK/SAIS-Technology-S2S/blob
 
 ## Who we are
 
-We're a group of five students currently enrolled in the Master of Arts program at the [Paul H. Nitze School of Advanced International Studies (SAIS)](https://www.sais-jhu.edu/). 
+We're a group of five students currently enrolled in the Master of Arts program at [SAIS](https://www.sais-jhu.edu/). 
 
 Leo Klenner
 
