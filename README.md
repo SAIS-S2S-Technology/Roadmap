@@ -33,4 +33,4 @@ We look forward to exciting collaborations to advance education and solve hard p
 
 ## License
 
-The contents of this repository are soucred under a [MIT license](https://choosealicense.com/licenses/mit/).
+The contents of this repository are soucred under a [MIT License](https://choosealicense.com/licenses/mit/).
