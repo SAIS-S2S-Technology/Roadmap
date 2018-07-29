@@ -15,11 +15,11 @@ The reading list gives you insights into what we're thinking about and how we're
 
 ### For potential advisers
 
-Please refer to the ADVISER deck.pdf.
+Please refer to the ADVISER deck.pdf presentation.
 
 ### For SAIS alumni
 
-Please refer to the ALUMNI deck.pdf.
+Please refer to the ALUMNI deck.pdf presentation.
 
 ### For all questions
 
