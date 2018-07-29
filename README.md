@@ -17,23 +17,23 @@ The reading list gives you insights into what we're thinking about and how we're
 
 ## How to proceed from here
 
-### For general information
+### General information
 
 Please refer to the [overview](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/Overview.md).
 
-### For potential advisers
+### Potential advisers
 
 Please refer to the version of the presentation listed under [ADVISER deck](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/ADVISER%20deck.pdf).
 
-### For SAIS alumni
+### SAIS alumni
 
 Please refer to the version of the presentation listed under [ALUMNI deck](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/ALUMNI%20deck.pdf).
 
-### For all questions
+### Questions?
 
 Please refer to the [overview](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/Overview.md) or reach out to Leo Klenner at lklenne1[at]jhu.edu.
 
-### And lastly...
+## And lastly...
 
 We look forward to exciting collaborations to advance education and solve hard problems at the conjecture of technology and global policy.
 
