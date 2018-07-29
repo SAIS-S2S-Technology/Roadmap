@@ -17,11 +17,11 @@ The reading list gives you insights into what we're thinking about and how we're
 
 ### For potential advisers
 
-Please refer to the version of the presentation under [ADVISER deck](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/ADVISER%20deck.pdf).
+Please refer to the version of the presentation listed under [ADVISER deck](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/ADVISER%20deck.pdf).
 
 ### For SAIS alumni
 
-Please refer to the version of the presentation under [ALUMNI deck](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/ALUMNI%20deck.pdf).
+Please refer to the version of the presentation listed under [ALUMNI deck](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/ALUMNI%20deck.pdf).
 
 ### For all questions
 
