@@ -1,6 +1,6 @@
 # START HERE
 
-Thank you for taking a look at SAIS.Technology S2S, a launching student-to-student (S2S) learning platform on technology-adapted policy leadership. 
+Thank you for taking a look at SAIS.Technology S2S, a launching student-to-student (S2S) learning platform on technology-adapted policy leadership located at the [Paul H. Nitze School of Advanced International Studies (SAIS)](https://www.sais-jhu.edu/). 
 
 For the moment, we're only on GitHub but our main website is coming soon.
 
