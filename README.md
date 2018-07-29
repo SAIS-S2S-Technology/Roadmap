@@ -1,6 +1,8 @@
 # START HERE
 
-Thank you for taking a look at SAIS.Technology S2S, a launching student-to-student (S2S) learning platform on technology-adapted policy leadership. For the moment, we're only on GitHub but our main website is coming soon.
+Thank you for taking a look at SAIS.Technology S2S, a launching student-to-student (S2S) learning platform on technology-adapted policy leadership. 
+
+For the moment, we're only on GitHub but our main website is coming soon.
 
 **This repository contains:**
 * two versions of a short presentation outlining our activities for [potential advisers](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/ADVISER%20deck.pdf) and [SAIS alumni](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/ALUMNI%20deck.pdf)
