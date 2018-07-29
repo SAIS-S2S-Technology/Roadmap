@@ -6,7 +6,7 @@ This repository contains two versions of a short presentation on our activities 
 
 The presentation lays out who we are, what problems we aim to solve, what solutions we propose and how we want to partner with you. 
 
-The About section contains further details. 
+The About section contains further details on our mission and tools. 
 
 ### For potential advisers
 
