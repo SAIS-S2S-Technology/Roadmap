@@ -6,6 +6,8 @@ This repository contains two versions of a short presentation on our activities 
 
 The presentation lays out who we are, what problems we aim to solve, what solutions we propose and how we want to partner with you. 
 
+The About section contains additional details. 
+
 ### For potential advisers
 
 Please refer to the ADVISER deck.pdf.
