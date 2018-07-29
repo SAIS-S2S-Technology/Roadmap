@@ -16,4 +16,4 @@ Please refer to the ALUMNI deck.pdf
 
 Please reach out to Leo Klenner at lklenne1[at]jhu.edu.
 
-Our website will be coming in September to saistechnology.com
+Our website will be coming in September 2018 to saistechnology.com
