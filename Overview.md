@@ -4,7 +4,7 @@
 
 ## Why we exist
 
-We belive that rapid technology advancements are profoundly changing the conduct of global policy. Our university, the [Johns Hopkins Paul H. Nitze School of Advanced International Studies (SAIS)](https://www.sais-jhu.edu/) is deeply committed to supporting and understanding the dynamics of an open and stable world. Extending this commitment into the conceptual domain and geopolitical realities of technological advancements requires an adaptive educational environment equally capable of fast reconfiguration and scale. To create this environment and promote technology-adapted policymaking, we founded SAIS.Technology S2S. 
+We belive we are seeing profound changes in the conduct of global policy resultung from rapid technological advancements. Our university, the [Johns Hopkins Paul H. Nitze School of Advanced International Studies (SAIS)](https://www.sais-jhu.edu/) is deeply committed to supporting and understanding the dynamics of an open and stable world. Extending this commitment into the conceptual domain and geopolitical realities of technological advancements requires an adaptive educational environment equally capable of fast reconfiguration and scale. To create this environment and promote technology-adapted policymaking, we founded SAIS.Technology S2S. 
 
 SAIS.Technology S2S is a launching student-to-student (S2S) learning platform located at the [Johns Hopkins Paul H. Nitze School of Advanced International Studies (SAIS)](https://www.sais-jhu.edu/). 
 
