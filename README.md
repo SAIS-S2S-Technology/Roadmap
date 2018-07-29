@@ -12,7 +12,7 @@ Please refer to the ADVISER deck.pdf
 
 Please refer to the ALUMNI deck.pdf
 
-# For additional questions
+# For additional questions:
 
 Please reach out to Leo Klenner at lklenne1[at]jhu.edu.
 
