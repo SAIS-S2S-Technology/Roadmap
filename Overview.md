@@ -1,10 +1,14 @@
 # SAIS.Technology S2S
 
-Providing policy students with the tools they need to apply their geopolitical understanding to a world shaped by rapid technological advancements.
+*Providing policy students with the tools they need to apply their geopolitical understanding to a world shaped by rapid technological advancements.*
 
 ## Why we exist
 
-We belive that technology is changing the conduct of global policy and that these changes need to be reflected in education 
+We belive that technology advancements are profoundly changing the conduct of global policy. Education has to adapt to this. 
+
+Support and understand these changes.
+
+and that these changes need to be reflected in education 
 
 ## How we work
 
