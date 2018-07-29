@@ -35,12 +35,16 @@ Please refer to the [overview](https://github.com/LeoQK/SAIS-Technology-S2S/blob
 
 ## Who we are
 
-We're a group of five MA students currently enrolled in the Master of Arts program at the Paul H. Nitze School of Advanced International Studies (SAIS). 
+We're a group of five MA students currently enrolled in the Master of Arts program at the [Paul H. Nitze School of Advanced International Studies (SAIS)](https://www.sais-jhu.edu/). 
 
 Leo Klenner
+
 Zoe Li
+
 Jonathan Liu
+
 Jun Park
+
 Chenny Zhang
 
 ## And lastly...
