@@ -1,6 +1,6 @@
 # SAIS.Technology S2S
 
-Providing policy students with the tools to apply their geopolitical understanding to a world shaped by rapid technological advancements.
+Providing policy students with the tools they need to apply their geopolitical understanding to a world shaped by rapid technological advancements.
 
 ## Why we exist
 
