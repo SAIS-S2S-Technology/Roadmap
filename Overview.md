@@ -4,6 +4,8 @@ Providing policy students with the tools they need to apply their geopolitical u
 
 ## Why we exist
 
+We belive that technology is changing the conduct of global policy and that these changes need to be reflected in education 
+
 ## How we work
 
 ## Our view on education
