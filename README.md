@@ -52,6 +52,10 @@ Chenny Zhang — Strategic Studies // [LinkedIn](https://www.linkedin.com/in/che
 
 We are fortunate to be working closely with [Jean-Amiel Jourdan](https://www.linkedin.com/in/jeanamieljourdan), Director of Global Careers at SAIS. 
 
+## Where we work
+
+Washington, D.C. - 1740 Massachusetts Ave., NW
+
 ## Questions?
 
 Please refer to the [overview](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/Overview.md) or reach out to Leo Klenner at lklenne1[at]jhu.edu.
