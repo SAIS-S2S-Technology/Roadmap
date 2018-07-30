@@ -6,18 +6,18 @@ Thank you for taking a look at SAIS.Technology S2S.
 
 SAIS.Technology S2S is a launching student-to-student (S2S) learning platform on technology-adapted policy leadership located at the [Johns Hopkins Paul H. Nitze School of Advanced International Studies (SAIS)](https://www.sais-jhu.edu/). 
 
-For the moment, we're only on GitHub. We're launching in September 2018 and will have our main website up by then. 
+For the moment, we are only on GitHub. We are launching in September 2018 and will have our main website up by then. 
 
 **This repository contains:**
 * two versions of a short presentation outlining our activities for [potential advisers](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/ADVISER%20deck.pdf) and [SAIS alumni](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/ALUMNI%20deck.pdf)
 * a selfcontained [overview](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/Overview.md) of SAIS.Technology S2S
 * a [readling list](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/Reading%20list.md) on technology and policy
 
-The presentation lays out who we are, what problems we aim to solve, what solutions we propose and how we want to partner with you. 
+The presentation lays out who we are, what problems we aim to solve, what solutions we propose and what partnerships we seek. 
 
 The overview contains details on our mission, tools and progress.
 
-The reading list gives you insights into what we're thinking about and how we're thinking about it.
+The reading list gives additional insights into what we are thinking about.
 
 ## Our mission
 
@@ -38,7 +38,7 @@ Please refer to the version of the presentation listed under [ALUMNI deck](https
 
 ## Who we are
 
-We're a group of five students currently enrolled in the Master of Arts program at [SAIS](https://www.sais-jhu.edu/) pursuing concentrations in [Strategic Studies](https://www.sais-jhu.edu/content/strategic-studies#overview), [Energy, Ressources and Environment](http://www.sais-jhu.edu/content/energy-resources-and-environment#overview)  and [Conflict Management](http://www.sais-jhu.edu/content/conflict-management). 
+We are a group of five students currently enrolled in the Master of Arts program at [SAIS](https://www.sais-jhu.edu/) pursuing concentrations in [Strategic Studies](https://www.sais-jhu.edu/content/strategic-studies#overview), [Energy, Ressources and Environment](http://www.sais-jhu.edu/content/energy-resources-and-environment#overview)  and [Conflict Management](http://www.sais-jhu.edu/content/conflict-management). 
 
 Leo Klenner — Conflict Management // [LinkedIn](https://www.linkedin.com/in/leo-klenner-08029a168/)
 
@@ -50,7 +50,7 @@ Jun Park — Energy, Ressources and Environment // [LinkedIn](https://www.linked
 
 Chenny Zhang — Strategic Studies // [LinkedIn](https://www.linkedin.com/in/chennyzhang)
 
-We're fortunate to be working closely with [Jean-Amiel Jourdan](https://www.linkedin.com/in/jeanamieljourdan), Director of Global Careers at SAIS. 
+We are fortunate to be working closely with [Jean-Amiel Jourdan](https://www.linkedin.com/in/jeanamieljourdan), Director of Global Careers at SAIS. 
 
 ## Questions?
 
