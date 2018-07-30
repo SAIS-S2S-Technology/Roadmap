@@ -34,7 +34,7 @@ Please refer to the version of the presentation listed under [ALUMNI deck](https
 
 ## Who we are
 
-We're a group of five students currently enrolled in the Master of Arts program at [SAIS](https://www.sais-jhu.edu/) pursuing concentrations in [Strategic Studies](https://www.sais-jhu.edu/content/strategic-studies#overview), [ERE](http://www.sais-jhu.edu/content/energy-resources-and-environment#overview) (Energy, Ressources and Environment) and [Conflict Management](http://www.sais-jhu.edu/content/conflict-management). 
+We're a group of five students currently enrolled in the Master of Arts program at [SAIS](https://www.sais-jhu.edu/) pursuing concentrations in [Strategic Studies](https://www.sais-jhu.edu/content/strategic-studies#overview), [Energy, Ressources and Environment](http://www.sais-jhu.edu/content/energy-resources-and-environment#overview)  and [Conflict Management](http://www.sais-jhu.edu/content/conflict-management). 
 
 Leo Klenner - Conflict Management 
 
