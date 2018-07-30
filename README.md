@@ -10,7 +10,7 @@ SAIS.Technology S2S is a student-to-student (S2S) education platform located at 
 
 ### How to proceed from here
 
-We are excited about being on GitHub — we value the transparency and the open-source spirit. Sharing in this spirit, we aim for our work to contribute towards greater collaboration between the public sector and the technology sector. To advance this goal, we are seeking advisory-based partnerships with leaders in technology and government. We offer first-hand access to 600 experienced MA students striving to make an impact in a fast-changing world. We understand that our partners' time is precious. Hence, we provide a streamlined process of quarterly reports of our growth and operations, which we send to partners to receive critical feedback and ideas. 
+We are excited about being on GitHub — we value the transparency and the open-source spirit. Sharing in this spirit, we aim for our work to contribute towards greater collaboration between the public sector and the technology sector. To advance this goal, we are seeking advisory-based partnerships with leaders in technology and government. We offer first-hand access to 600 experienced MA students striving to make an impact in a fast-changing world. We understand that our partners' time is precious. Hence, we provide a streamlined process of quarterly reports on our growth and operations, which we send to partners to receive critical feedback and exchange ideas. 
 
 If you are a **potential adviser**, please refer to the [adviser presentation](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/ADVISER%20deck.pdf). 
 
