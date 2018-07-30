@@ -1,42 +1,18 @@
 # START HERE
 
-Thank you for taking tine to learn about SAIS.Technology S2S.
+SAIS.Technology S2S is a student-to-student (S2S) education platform focusing on tech-policy and located at the [Johns Hopkins Paul H. Nitze School of Advanced International Studies (SAIS)](https://www.sais-jhu.edu/). It provides policy students with the tools they need to apply their geopolitical understanding to a world shaped by rapid technological advancements. 
 
-SAIS.Technology S2S is a student-to-student (S2S) education platform on technology-adapted policy leadership located at the [Johns Hopkins Paul H. Nitze School of Advanced International Studies (SAIS)](https://www.sais-jhu.edu/). 
+For the moment, our web presence is only on GitHub. We are launching in September 2018 and will have our main website up by then. 
 
-For the moment, we are only on GitHub. We are launching in September 2018 and will have our main website up by then. 
+### Why we exist
 
-**This repository contains:**
-* two versions of a short presentation outlining our activities for [potential advisers](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/ADVISER%20deck.pdf) and [SAIS alumni](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/ALUMNI%20deck.pdf)
-* a selfcontained [overview](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/Overview.md) of SAIS.Technology S2S
-* a [readling list](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/Reading%20list.md) on technology and policy
+We believe that rapid technological advancements are leading to profound changes in the conduct of global policy. Founded near the end of World War II, our graduate school, the Johns Hopkins Paul H. Nitze School of Advanced International Studies (SAIS), is committed to supporting and understanding the dynamics of an open and stable world. Adapting this commitment to a world shaped by rapid technological advancements requires an educational environment capable of fast reconfiguration and scale. To make guiding contributions to this environment at SAIS, we founded SAIS.Technology S2S. **Below is a snapshot of how we think, including links to presentations for [potential advisors](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/ADVISER%20deck.pdf) and [SAIS alumni](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/ALUMNI%20deck.pdf) and a [guidebook] with details on how we work**. 
 
-The presentation lays out who we are, what problems we aim to solve, what solutions we propose and what partnerships we seek. 
+SAIS.Technology S2S is a launching student-to-student education platform, developing 
 
-The overview contains details on our mission, tools and progress.
+closely integrated into the SAIS student community
 
-The reading list gives additional insights into what we are thinking about.
-
-### Our mission
-
-We believe that rapid technological advancements are leading to profound changes in the conduct of global policy. Founded near the end of World War II, our graduate school, the Johns Hopkins Paul H. Nitze School of Advanced International Studies (SAIS), is committed to supporting and understanding the dynamics of an open and stable world. Adapting this commitment to a world shaped by rapid technological advancements requires an educational environment capable of fast reconfiguration and scale. To make guiding contributions to this environment at SAIS, we founded SAIS.Technology S2S.
-
-We look forward to exciting collaborations to advance education and solve hard problems at the conjecture of technology and global policy.
-
-### How to proceed from here
-
-#### General information
-
-Please refer to the [overview](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/Overview.md).
-
-#### Potential advisers
-
-Please refer to the version of the presentation listed under [ADVISER deck](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/ADVISER%20deck.pdf).
-
-#### SAIS alumni
-
-Please refer to the version of the presentation listed under [ALUMNI deck](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/ALUMNI%20deck.pdf).
-
+Bloomberg Beta is an early-stage venture firm backed by Bloomberg L.P., investing out of a $75M fund focused broadly on the future of work. (We are now investing out of our second fund. The first was the same size, so we now have $150M in total under management.) While we focus on general areas of interest to Bloomberg, we choose our investments independently, without preference for companies who have or want a relationship with Bloomberg. We invest for financial return. We do see Bloomberg as a template for startups — founded on a powerful idea, bringing transparency to markets, achieving global scale, with a strong and open culture that embraces technology, led by its founders for decades. To serve our founders, we seek — like the rest of Bloomberg — to bring different worlds together (business, technology, culture, the public sector, among others).
 
 ### Who we are
 
