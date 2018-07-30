@@ -38,7 +38,7 @@ Washington, DC — [1740 Massachusetts Ave., NW](https://www.google.com/maps/pla
 
 ### Questions?
 
-Please refer to the [overview](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/Overview.md) or reach out to Leo Klenner at lklenne1[at]jhu.edu.
+Please refer to the [roadmap](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/Overview.md) or reach out to Leo Klenner at lklenne1[at]jhu.edu.
 
 ## License
 
