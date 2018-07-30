@@ -31,9 +31,6 @@ Please refer to the version of the presentation listed under [ADVISER deck](http
 
 Please refer to the version of the presentation listed under [ALUMNI deck](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/ALUMNI%20deck.pdf).
 
-### Questions?
-
-Please refer to the [overview](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/Overview.md) or reach out to Leo Klenner at lklenne1[at]jhu.edu.
 
 ## Who we are
 
@@ -48,6 +45,10 @@ Jonathan Liu
 Jun Park
 
 Chenny Zhang
+
+## Questions?
+
+Please refer to the [overview](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/Overview.md) or reach out to Leo Klenner at lklenne1[at]jhu.edu.
 
 ## And lastly...
 
