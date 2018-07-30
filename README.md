@@ -19,6 +19,8 @@ The reading list gives additional insights into what we are thinking about.
 
 ### Our mission
 
+We believe that rapid technological advancements are leading to profound changes in the conduct of global policy. Founded near the end of World War II, our graduate school, the Johns Hopkins Paul H. Nitze School of Advanced International Studies (SAIS), is committed to supporting and understanding the dynamics of an open and stable world. Adapting this commitment to a world shaped by rapid technological advancements requires an educational environment capable of fast reconfiguration and scale. To make guiding contributions to this environment at SAIS, we founded SAIS.Technology S2S.
+
 We look forward to exciting collaborations to advance education and solve hard problems at the conjecture of technology and global policy.
 
 ### How to proceed from here
