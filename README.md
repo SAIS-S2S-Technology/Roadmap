@@ -36,15 +36,15 @@ Please refer to the version of the presentation listed under [ALUMNI deck](https
 
 We're a group of five students currently enrolled in the Master of Arts program at [SAIS](https://www.sais-jhu.edu/) pursuing concentrations in Strategic Studies, ERE (Energy, Ressources, Environment) and Conflict Management. 
 
-Leo Klenner
+Leo Klenner - Conflict Management 
 
-Zoe Li
+Zoe Li - ERE
 
-Jonathan Liu
+Jonathan Liu - Strategic Studies
 
-Jun Park
+Jun Park - ERE
 
-Chenny Zhang
+Chenny Zhang - Strategic Studies
 
 ## Questions?
 
