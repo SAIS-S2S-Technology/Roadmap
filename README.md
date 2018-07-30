@@ -54,7 +54,7 @@ We are fortunate to be working closely with [Jean-Amiel Jourdan](https://www.lin
 
 ## Where we work
 
-Washington, D.C. - 1740 Massachusetts Ave., NW
+Washington, DC — 1740 Massachusetts Ave., NW
 
 ## Questions?
 
