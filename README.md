@@ -1,8 +1,8 @@
 # START HERE
 
-Thank you for taking a look at SAIS.Technology S2S.
+Thank you for taking tine to learn about SAIS.Technology S2S.
 
-SAIS.Technology S2S is a launching student-to-student (S2S) learning platform on technology-adapted policy leadership and located at the [Johns Hopkins Paul H. Nitze School of Advanced International Studies (SAIS)](https://www.sais-jhu.edu/). 
+SAIS.Technology S2S is a student-to-student (S2S) education platform on technology-adapted policy leadership located at the [Johns Hopkins Paul H. Nitze School of Advanced International Studies (SAIS)](https://www.sais-jhu.edu/). 
 
 For the moment, we are only on GitHub. We are launching in September 2018 and will have our main website up by then. 
 
