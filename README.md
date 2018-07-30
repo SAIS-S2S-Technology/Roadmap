@@ -1,6 +1,6 @@
 # START HERE
 
-SAIS.Technology S2S is a student-to-student (S2S) education platform focusing on tech-policy and located at the [Johns Hopkins Paul H. Nitze School of Advanced International Studies (SAIS)](https://www.sais-jhu.edu/). It provides policy students with the tools they need to apply their geopolitical understanding to a world shaped by rapid technological advancements. 
+SAIS.Technology S2S is a student-to-student (S2S) education platform focusing on tech-policy and located at the [Johns Hopkins Paul H. Nitze School of Advanced International Studies (SAIS)](https://www.sais-jhu.edu/). We provide policy students with the tools they need to apply their geopolitical understanding to a world shaped by rapid technological advancements. 
 
 For the moment, our web presence is only on GitHub. We are launching in September 2018 and will have our main website up by then. 
 
@@ -8,11 +8,8 @@ For the moment, our web presence is only on GitHub. We are launching in Septembe
 
 We believe that rapid technological advancements are leading to profound changes in the conduct of global policy. Founded near the end of World War II, our graduate school, the Johns Hopkins Paul H. Nitze School of Advanced International Studies (SAIS), is committed to supporting and understanding the dynamics of an open and stable world. Adapting this commitment to a world shaped by rapid technological advancements requires an educational environment capable of fast reconfiguration and scale. To make guiding contributions to this environment at SAIS, we founded SAIS.Technology S2S. **Below is a snapshot of how we think, including links to presentations for [potential advisors](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/ADVISER%20deck.pdf) and [SAIS alumni](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/ALUMNI%20deck.pdf) and a [guidebook] with details on how we work**. 
 
-SAIS.Technology S2S is a launching student-to-student education platform, developing 
+SAIS.Technology S2S is a launching student-to-student (S2S) education platform at Johns Hopkins SAIS providing tools for technology-adapted leadership to 600 graduate-level policy students. (This is an expansion of the SAIS Technology Career Club, which we founded in February 2018, reaching 100+ members or ~17% of the SAIS MA student body in one month.) We work to ensure that SAIS students can optimally transfer their geopolitical knowledge to a world shaped by the developement and deployment of information technologies and artificial intelligence. We operate on a model of distributed learning — we teach from student to student and transfer knowledge through [tools] that are [built collaboratively, deployed fast and improved continously](http://agilemanifesto.org/principles.html). Our tools range from weekly newsletters to semester-long workshops. We are passionate about optimizing how we learn to thrive in an environment that is defined by low ressources, little time and a fast evolving subject. We see the work of Paul Nitze, the founder of SAIS, as a model for our work - bringing together different worlds (the public sector, technology, business, education, among others) to advance of openness and stability in times of change. 
 
-closely integrated into the SAIS student community
-
-Bloomberg Beta is an early-stage venture firm backed by Bloomberg L.P., investing out of a $75M fund focused broadly on the future of work. (We are now investing out of our second fund. The first was the same size, so we now have $150M in total under management.) While we focus on general areas of interest to Bloomberg, we choose our investments independently, without preference for companies who have or want a relationship with Bloomberg. We invest for financial return. We do see Bloomberg as a template for startups — founded on a powerful idea, bringing transparency to markets, achieving global scale, with a strong and open culture that embraces technology, led by its founders for decades. To serve our founders, we seek — like the rest of Bloomberg — to bring different worlds together (business, technology, culture, the public sector, among others).
 
 ### Who we are
 
