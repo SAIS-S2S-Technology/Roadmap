@@ -8,7 +8,17 @@
 
 We believe rapid technological advancements are leading to profound changes in the conduct of global policy. Founded near the end of World War II, our graduate school, the [Johns Hopkins Paul H. Nitze School of Advanced International Studies (SAIS)](https://www.sais-jhu.edu/), is committed to supporting and understanding the dynamics of an open and stable world. Extending this commitment across the conceptual and geopolitical domains created by recent advances in technology requires an adaptive educational environment equally capable of fast reconfiguration and scale. Hence, we founded SAIS.Technology S2S. 
 
-SAIS.Technology S2S is a launching student-to-student (S2S) learning platform on tech-policy located at Johns Hopkins SAIS in Washington, DC. The students who consitute our membership at SAIS are post-graduates from a diverse set of backgrounds in the public and private sectors pursuing degrees in economics, international policy areas and regional studies. As 
+SAIS.Technology S2S is a launching student-to-student (S2S) learning platform on tech-policy located at Johns Hopkins SAIS in Washington, DC. The students who consitute our membership at SAIS are post-graduates from a diverse set of backgrounds in the public and private sectors pursuing degrees in economics, international policy areas and regional studies. The geopolitical knowledge of SAIS students and their strategic skill set provide invaluable assets in resolving some of the core challenges of a fast changing world. Our job is to ensure that these assets are optimally transfered into a world that 
+
+
+of highly advanced technical systems. 
+
+
+*in a world shaped by instability and distruption. Our job is to ensure that these ressources are optimally transfered into a world shaped by highly advanced technical systems. 
+
+of SAIS students 
+
+*These skils are invaluable assets to providing a strategic well balanced open and clearly thought through world order in an age shaped by technology. To ensure optimal transfer of these assets into a world shaped by technological progress, we aim to give students tools that raise their awareness about technology, enable them to adapt to 
 
 
 Our job is to provide these students with knowledge and training related to technology.
