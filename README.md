@@ -38,15 +38,15 @@ Please refer to the version of the presentation listed under [ALUMNI deck](https
 
 We're a group of five students currently enrolled in the Master of Arts program at [SAIS](https://www.sais-jhu.edu/) pursuing concentrations in [Strategic Studies](https://www.sais-jhu.edu/content/strategic-studies#overview), [Energy, Ressources and Environment](http://www.sais-jhu.edu/content/energy-resources-and-environment#overview)  and [Conflict Management](http://www.sais-jhu.edu/content/conflict-management). 
 
-Leo Klenner - Conflict Management 
+Leo Klenner — Conflict Management // [LinkedIn](https://www.linkedin.com/in/leo-klenner-08029a168/)
 
-Zoe Li - ERE
+Zoe Li — Energy, Ressources and Environment // [LinkedIn](https://www.linkedin.com/in/zoe-li-8029bab7/)
 
-Jonathan Liu - Strategic Studies
+Jonathan Liu — Strategic Studies // [LinkedIn](https://www.linkedin.com/in/jonathan-liu-69087728/)
 
-Jun Park - ERE
+Jun Park — Energy, Ressources and Environment // [LinkedIn](https://www.linkedin.com/in/jiyunpark2018)
 
-Chenny Zhang - Strategic Studies
+Chenny Zhang — Strategic Studies // [LinkedIn](https://www.linkedin.com/in/chennyzhang)
 
 ## Questions?
 
