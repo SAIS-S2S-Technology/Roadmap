@@ -8,6 +8,8 @@ We belive rapid technological advancements are leading to profound changes in th
 
 SAIS.Technology S2S is a launching student-to-student (S2S) learning platform located at [Johns Hopkins Paul H. Nitze School of Advanced International Studies (SAIS)](https://www.sais-jhu.edu/) in Washington, D.C. 
 
+## Our univsersity, Johns Hopkins SAIS
+
 ## How we work
 
 ## What we believe about education
