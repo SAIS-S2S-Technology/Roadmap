@@ -48,7 +48,7 @@ Jun Park — Energy, Ressources and Environment // [LinkedIn](https://www.linked
 
 Chenny Zhang — Strategic Studies // [LinkedIn](https://www.linkedin.com/in/chennyzhang)
 
-At SAIS, we're fortunate to be working closely with [Jean-Amiel Jourdan](https://www.linkedin.com/in/jeanamieljourdan), Director of Global Careers.
+We're fortunate to be working closely with [Jean-Amiel Jourdan](https://www.linkedin.com/in/jeanamieljourdan), Director of Global Careers at SAIS. 
 
 ## Questions?
 
