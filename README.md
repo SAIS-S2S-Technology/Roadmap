@@ -17,6 +17,8 @@ The overview contains details on our mission, tools and progress.
 
 The reading list gives you insights into what we're thinking about and how we're thinking about it.
 
+## Our mission
+
 ## How to proceed from here
 
 ### General information
