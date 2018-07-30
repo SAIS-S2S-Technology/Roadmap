@@ -6,7 +6,9 @@
 
 ## Why we exist
 
-We believe that rapid technological advancements are leading to profound changes in the conduct of global policy. Founded near the end of World War II, our graduate school, the [Johns Hopkins Paul H. Nitze School of Advanced International Studies (SAIS)](https://www.sais-jhu.edu/), is committed to supporting and understanding the dynamics of an open and stable world. Extending this commitment across domains created by recent advances in technology...
+We believe that rapid technological advancements are leading to profound changes in the conduct of global policy. Founded near the end of World War II, our graduate school, the [Johns Hopkins Paul H. Nitze School of Advanced International Studies (SAIS)](https://www.sais-jhu.edu/), is committed to supporting and understanding the dynamics of an open and stable world. Adapting this commitment to a world shaped by rapdid technological advancements requires an educational environment that is capable of fast reconfiguration and scale. Hence, we founded SAIS.Technology S2S.
+
+Extending this commitment across domains created by recent advances in technology...
 
 Extending this commitment across domains created by recent advances in technology requires an educational environment equally capable of fast reconfiguration and scale. To make guiding contributions to this environment, we founded SAIS.Technology S2S. 
 
