@@ -1,8 +1,28 @@
-# SAIS.Technology S2S
+# SAIS.Technology S2S Roadmap
 
 ## Contents
 
 ## Our graduate school, Johns Hopkins SAIS
+
+We are located at and funded by the Johns Hopkins Paul H. Nitze School of Advanced International Studies (SAIS). Our official status at SAIS is that of a student organization and we are funded under these terms [link to partnerships].
+
+We appreciate the chance to act as part of the SAIS community. SAIS is 
+
+Bloomberg L.P. is our sole investor.
+
+We appreciate many things about our investor: Bloomberg is a different kind of company. Bloomberg is a pioneer -- it created one of the original SaaS businesses, the first professional social network, and invented many practices that are now widely adopted by startups. We hope startups will be inspired by Bloomberg’s example, as we are.
+
+Bloomberg knows and respects technology and technology companies, is set up to be independent-minded, and builds toward long-term value. Bloomberg was created three decades ago on a then-controversial idea — that information in financial markets should be more widely available. Bloomberg has reached global scale and influence, with more than 15,000 employees in almost 200 locations — and yet it is still a private company, held by its founders.
+
+Why did Bloomberg L.P. create Bloomberg Beta? Bloomberg wants a window into the world of startups to understand meaningful trends early, and know founders and companies long before it becomes obvious that they will be significant. To do this, Bloomberg wants a way to support founders and collaborate with them that doesn’t involve an ordinary commercial relationship. (Many startups are not ready to partner with Bloomberg — or any established, larger company — until they’ve grown, settled on a direction, and decided to make a partnership a priority. That can take as long as a few years after the company is founded.)
+
+Bloomberg L.P. invested in Bloomberg Beta to open that window to startups, and set up a structure that is rare for a corporate-sponsored firm — a true fund that invests for financial return, not an “operating division.” Bloomberg knows that great founders want investors whose interests are fully aligned with their own.
+
+So Bloomberg Beta is set up to choose its own investments, and back companies solely on their merits and financial potential, regardless of whether they have (or intend to have) a business relationship with Bloomberg. We do focus exclusively on areas that are of relevance to Bloomberg -- we wouldn’t invest in a videogame, or a consumer e-commerce site for example. One way to think of our focus: we look at the future of work. If you’re focused on making leisure or family life better, we’re probably not your people.
+
+We believe we can take the Bloomberg ethos and apply it to how we work with founders: putting our customers (founders!) first, developing deep expertise in our domain (the future of work), and convening different spheres (from every walk of life) to bring new experiences to our customers.
+
+Ultimately, Bloomberg L.P.’s founders have succeeded at doing what we hope to help other companies do — create something extraordinary.
 
 The students who consitute our membership at SAIS are post-graduates from a diverse set of backgrounds in the public and private sectors pursuing degrees in economics, international policy areas and regional studies. The geopolitical knowledge of SAIS students and their strategic skill set provide invaluable assets in resolving some of the core challenges of a fast changing world. Our job is to ensure that these assets are optimally transfered into a world where change is increasingly correlated with the developement and deployment of highly advanced technical systems.
 
