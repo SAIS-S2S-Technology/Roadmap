@@ -6,10 +6,11 @@
 
 The students who consitute our membership at SAIS are post-graduates from a diverse set of backgrounds in the public and private sectors pursuing degrees in economics, international policy areas and regional studies. The geopolitical knowledge of SAIS students and their strategic skill set provide invaluable assets in resolving some of the core challenges of a fast changing world. Our job is to ensure that these assets are optimally transfered into a world where change is increasingly correlated with the developement and deployment of highly advanced technical systems.
 
+Paul Nitze and his vision. 
 
 ## What we believe about technology and global policy
 
-Strategic level: new way to think about conflicts and their resolution.
+Strategic level: new way to think about conflicts and their resolution. Renewd need for international cooperation. 
 
 Tactical level: new tools for conducting the daily work of governance and diplomacy. In this regard the public sector is no different from other sectors. Cooperation between machines, based on quantitative data, delegated automation. 
 
