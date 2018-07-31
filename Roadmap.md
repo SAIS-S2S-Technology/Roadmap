@@ -6,11 +6,13 @@
 
 The students who consitute our membership at SAIS are post-graduates from a diverse set of backgrounds in the public and private sectors pursuing degrees in economics, international policy areas and regional studies. The geopolitical knowledge of SAIS students and their strategic skill set provide invaluable assets in resolving some of the core challenges of a fast changing world. Our job is to ensure that these assets are optimally transfered into a world where change is increasingly correlated with the developement and deployment of highly advanced technical systems.
 
-## How we work
-
-We work as a team. 
 
 ## What we believe about technology and global policy
+
+Strategic level: new way to think about conflicts and their resolution.
+
+Tactical level: new tools for conducting the daily work of governance and diplomacy. In this regard the public sector is no different from other sectors. Cooperation between machines, based on quantitative data, delegated automation. 
+
 
 We believe much individual work will be done in collaboration with software that makes its own choices. Broader trends affecting the future of work will also affect the conduct of global policy and diplomacy as well as see a deep integration into the strategic realm. 
 
@@ -28,10 +30,13 @@ Teaching as decisionmaking under uncertainty. / Create hybrid skill set. / Draw 
 
 Newsletter, Blog, Distributed Career Guide, Conferences and Events, CAPS, Career Assistance, Research Opportunities = open source and in partnership with other parts of JHU
 
-## Partnerships
+## What partnerships we seek
 
+We seek advisory-based partnerships. We want to partner with leaders and leading companies who see value in engaging with our students, who value an open debate, who are driving progress, who see the values of greater collaboration between public and private stakeholders. 
 
+## Contacting us
 
+Please reach out to us. 
 
 
 
