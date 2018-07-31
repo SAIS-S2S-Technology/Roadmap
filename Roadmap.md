@@ -8,9 +8,22 @@ We are located at and funded by the Johns Hopkins Paul H. Nitze School of Advanc
 
 We appreciate the chance to act as part of the SAIS community. For over 75 years SAIS has educated students in international relations and international economics. Emphasizing theory as well as practice, SAIS has graduated a highly diverse group of over 20,000 alumni with careers spanning academia, entrepreneurship, non-governmental work and diplomacy. In its pursuit to educate gloabl leaders, SAIS is guided by the vision of its founders, Paul H. Nitze and Christian A. Herter. Nitze and Herter sought new methods of preparing men and women to cope with the international responsibilities that would be thrust upon the United States following the end of World War II. As the accelerating pace of technological progress is creating new responsabilities and changing the geopolitical landscape, the  forward-thinking leadership of Nitze and Herter has inspired us to start SAIS.Technology S2S.
 
-Through his work in the Strategic Arms Limitation Talks (SALT) and his writings, Paul Nitze was intimitely familiar with many of the issues that govern today's 
+Through his work in the Strategic Arms Limitation Talks (SALT) and his numerous writings, Paul Nitze gained intimite familiarity with many of the challenges that shape today's discussions on the intersection of global policy and technological progress. In his writings on foreign policy Nitze developed four themes that closely guide SAIS.Technology S2S:
 
-Bloomberg knows and respects technology and technology companies, is set up to be independent-minded, and builds toward long-term value. Bloomberg was created three decades ago on a then-controversial idea — that information in financial markets should be more widely available. Bloomberg has reached global scale and influence, with more than 15,000 employees in almost 200 locations — and yet it is still a private company, held by its founders.
+* To educate generalists who have "the ability, on the one hand, to tap the wisdom of the past and give it continuity into the present, and, on the other hand, to sense the possibilities of the future as they emerge from the developing present" []
+* To develop a theory of international relations that is continously adjustable and provides a valuable practical tool
+* 
+
+
+In his writings on foreign policy Nitze emphasized the importance of an education that results in "the ability, on the one hand, to tap the wisdom of the past and give it continuity into the present, and, on the other hand, to sense the possibilities of the future as they emerge from the developing present". 
+
+Education
+Theory as a conceptual and adaptive tool to guide practive
+Ethics
+The effect of technological progress, specificially relating to new weapon systems, and its impact on alliances
+
+ the ability, on the one hand, to tap the wisdom of the past and give it continuity into the present, and, on the other hand, to sense the possibilities of the future as they emerge from the developing present". 
+
 
 Why did Bloomberg L.P. create Bloomberg Beta? Bloomberg wants a window into the world of startups to understand meaningful trends early, and know founders and companies long before it becomes obvious that they will be significant. To do this, Bloomberg wants a way to support founders and collaborate with them that doesn’t involve an ordinary commercial relationship. (Many startups are not ready to partner with Bloomberg — or any established, larger company — until they’ve grown, settled on a direction, and decided to make a partnership a priority. That can take as long as a few years after the company is founded.)
 
