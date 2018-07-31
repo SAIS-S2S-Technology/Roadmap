@@ -10,6 +10,23 @@ Paul Nitze and his vision.
 
 ## What we believe about technology and global policy
 
+In educating students at SAIS about tech, we are guided by a set of beliefs about developements that will take place at the conjecture of technology and global policy. These developements can be grouped into two groups strategic and tactical. 
+
+### Conceptual
+
+Concepts surrounding the implementation of AI will become implemented into policy debates, and will become integrated into the existing policy frameworks. Essentially, issues relating to AI safety and AI strategy will need to be made operational. 
+
+* AI safety
+* AI strategy
+* AI alignment 
+* renewd need for cooperation - what can we learn from the past in approaching a new technology?
+
+### Tactical
+
+* new workflows
+
+
+
 Strategic level: new way to think about conflicts and their resolution. Renewd need for international cooperation. 
 
 Tactical level: new tools for conducting the daily work of governance and diplomacy. In this regard the public sector is no different from other sectors. Cooperation between machines, based on quantitative data, delegated automation. 
