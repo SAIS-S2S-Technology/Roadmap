@@ -17,7 +17,7 @@ Through his work in the Strategic Arms Limitation Talks (SALT) and his numerous 
 * Guarantee that an ethical framework guides and gives meaning to analysis without reducing complexity
 * Advance a holistic strategy for the adaption of new technologies as they are being developed
 
-So why is SAIS.Technology S2S a valuable addition to the SAIS community? The geopolitical knowledge and strategic skill set of SAIS students provide invaluable assets in resolving some of the core challenges of a changing world. The continuous application and transfer of these assets depends on understanding and adapting to meaningful trends early. These trends are often complex and - from the perspective of policymaking - embedded in a broader set of concerns. Adapting requires the provision of a balance of understanding so that new trends can be understood within the set of existing concerns. 
+So why is SAIS.Technology S2S a valuable addition to the SAIS community? The geopolitical knowledge and strategic skill set of SAIS students provide invaluable assets in resolving some of the core challenges of a changing world. The continuous application and transfer of these assets depends on understanding and adapting to meaningful trends early. These trends are often complex and - from the perspective of policymaking - embedded in a broader set of concerns. So adapting first requires a balance of understanding that places trends within the existing set of concerns.
 
 
 Hence, adaption requires a balance of understanding so that new trends can be understood within the set of existing concerns. 
