@@ -8,7 +8,7 @@ We are located at and funded by the Johns Hopkins Paul H. Nitze School of Advanc
 
 We appreciate the opportunity to act as part of the SAIS community. For over 75 years SAIS has educated students in international relations and international economics. Emphasizing theory as well as practice, SAIS has graduated a highly diverse group of over 20,000 alumni with careers spanning academia, entrepreneurship, non-governmental organizations and diplomacy. In its pursuit to educate global leaders, SAIS is guided by the vision of its founders, Paul H. Nitze and Christian A. Herter. Nitze and Herter sought new methods of preparing men and women to cope with the international responsibilities that would be thrust upon the United States following the end of World War II. 
 
-As accelerating technological progress is creating new responsabilities in a changed geopolitical landscape, the vision of Nitze and Herter has inspired us to start SAIS.Technology S2S.
+As accelerating technological progress is creating new responsabilities in a changed geopolitical landscape, the forward-thinking leadership of Nitze and Herter has inspired us to start SAIS.Technology S2S.
 
 Through his work in the Strategic Arms Limitation Talks (SALT) and his numerous writings, Paul Nitze gained intimite familiarity with many of the challenges that shape today's discussions on global policy and technological progress. In his writings on foreign policy Nitze developed four themes that closely guide us:
 
