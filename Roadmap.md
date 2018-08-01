@@ -17,7 +17,15 @@ Through his work in the Strategic Arms Limitation Talks (SALT) and his numerous 
 * Guarantee that an ethical framework guides and gives meaning to analysis without reducing complexity
 * Advance a holistic strategy for the adaption of new technologies as they are being developed
 
-So why is SAIS.Technologz S2S a valuable addition to the SAIS community? The geopolitical knowledge and strategic skill set of SAIS students provide invaluable assets in resolving some of the core challenges of a changing world. The continuous application and transfer of these assets depends on understanding and adapting to meaningful trends early. These trends are often complex and, from the perspevtive of policymaking, embedded in a host of additional
+So why is SAIS.Technology S2S a valuable addition to the SAIS community? The geopolitical knowledge and strategic skill set of SAIS students provide invaluable assets in resolving some of the core challenges of a changing world. The continuous application and transfer of these assets depends on understanding and adapting to meaningful trends early. These trends are often complex and - from the perspective of policymaking - embedded in a broader set of concerns. 
+
+One of the persistent trends of the recent years is associated with information technologies and artificial intelligence. SAIS.Technology S2S enables students to ... moving forward with the context still in place, gives students unique opportunites to engage...
+
+
+cannot happen by default but must happen by design.
+
+
+The value proposition of SAIS.Technology is simple. To provide the needed intermediary co
 
 
 Why did Bloomberg L.P. create Bloomberg Beta? Bloomberg wants a window into the world of startups to understand meaningful trends early, and know founders and companies long before it becomes obvious that they will be significant. To do this, Bloomberg wants a way to support founders and collaborate with them that doesn’t involve an ordinary commercial relationship. (Many startups are not ready to partner with Bloomberg — or any established, larger company — until they’ve grown, settled on a direction, and decided to make a partnership a priority. That can take as long as a few years after the company is founded.)
