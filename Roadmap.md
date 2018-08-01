@@ -6,7 +6,7 @@
 
 We are located at and funded by the Johns Hopkins Paul H. Nitze School of Advanced International Studies (SAIS). Our official status at SAIS is that of a student organization and we are funded under corresponding terms [link to partnerships].
 
-We appreciate the opportunity to act as part of the SAIS community. For over 75 years SAIS has educated students in international relations and international economics. Emphasizing theory as well as practice, SAIS has graduated a highly diverse group of over 20,000 alumni with careers spanning academia, entrepreneurship, non-governmental organizations and diplomacy. In its pursuit to educate gloabl leaders, SAIS is guided by the vision of its founders, Paul H. Nitze and Christian A. Herter. Nitze and Herter sought new methods of preparing men and women to cope with the international responsibilities that would be thrust upon the United States following the end of World War II. 
+We appreciate the opportunity to act as part of the SAIS community. For over 75 years SAIS has educated students in international relations and international economics. Emphasizing theory as well as practice, SAIS has graduated a highly diverse group of over 20,000 alumni with careers spanning academia, entrepreneurship, non-governmental organizations and diplomacy. In its pursuit to educate global leaders, SAIS is guided by the vision of its founders, Paul H. Nitze and Christian A. Herter. Nitze and Herter sought new methods of preparing men and women to cope with the international responsibilities that would be thrust upon the United States following the end of World War II. 
 
 As accelerating technological progress is creating new responsabilities in a changed geopolitical landscape, the vision of Nitze and Herter has inspired us to start SAIS.Technology S2S.
 
@@ -17,7 +17,15 @@ Through his work in the Strategic Arms Limitation Talks (SALT) and his numerous 
 * Guarantee that an ethical framework guides and gives meaning to analysis without reducing complexity
 * Advance a holistic strategy for the adaption of new technologies as they are being developed
 
-So why is SAIS.Technology S2S a valuable addition to the SAIS community? The geopolitical knowledge and strategic skill set of SAIS students provide invaluable assets in resolving some of the core challenges of a changing world. The continuous application and transfer of these assets depends on understanding and adapting to meaningful trends early. These trends are often complex and - from the perspective of policymaking - embedded in a broader set of concerns. 
+So why is SAIS.Technology S2S a valuable addition to the SAIS community? The geopolitical knowledge and strategic skill set of SAIS students provide invaluable assets in resolving some of the core challenges of a changing world. The continuous application and transfer of these assets depends on understanding and adapting to meaningful trends early. These trends are often complex and - from the perspective of policymaking - embedded in a broader set of concerns. Hence, adaption is possible only if a balance of understanding is provided and new trends can be understood in the context of existing concerns. 
+
+
+
+
+provides a balance of understanding as new trends need to be understood trends in the context of broader and familiar concerns. 
+
+SAIS.Technology S2S
+
 
 One of the persistent trends of the recent years is associated with information technologies and artificial intelligence. SAIS.Technology S2S enables students to ... moving forward with the context still in place, gives students unique opportunites to engage...
 
