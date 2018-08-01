@@ -19,24 +19,12 @@ Through his work in the Strategic Arms Limitation Talks (SALT) and his numerous 
 
 So why is SAIS.Technology S2S a valuable addition to the SAIS community? The geopolitical knowledge and strategic skill set of SAIS students provide invaluable assets in resolving some of the core challenges of a changing world. The continuous application and transfer of these assets depends on understanding and adapting to meaningful trends early. These trends are often complex and - from the perspective of policymaking - embedded in a broader set of concerns. Hence, adaption is possible only if a balance of understanding is provided and new trends can be understood in the context of existing concerns. 
 
+SAIS.Technology S2S provides this balance of understanding for emerging information technology paradigms and artificial intelligence, both of which are certain to lead to fundamental shifts across the globe. 
 
 
-
-provides a balance of understanding as new trends need to be understood trends in the context of broader and familiar concerns. 
-
-SAIS.Technology S2S
+information technologies and artificial intelligence.
 
 
-One of the persistent trends of the recent years is associated with information technologies and artificial intelligence. SAIS.Technology S2S enables students to ... moving forward with the context still in place, gives students unique opportunites to engage...
-
-
-cannot happen by default but must happen by design.
-
-
-The value proposition of SAIS.Technology is simple. To provide the needed intermediary co
-
-
-Why did Bloomberg L.P. create Bloomberg Beta? Bloomberg wants a window into the world of startups to understand meaningful trends early, and know founders and companies long before it becomes obvious that they will be significant. To do this, Bloomberg wants a way to support founders and collaborate with them that doesn’t involve an ordinary commercial relationship. (Many startups are not ready to partner with Bloomberg — or any established, larger company — until they’ve grown, settled on a direction, and decided to make a partnership a priority. That can take as long as a few years after the company is founded.)
 
 Bloomberg L.P. invested in Bloomberg Beta to open that window to startups, and set up a structure that is rare for a corporate-sponsored firm — a true fund that invests for financial return, not an “operating division.” Bloomberg knows that great founders want investors whose interests are fully aligned with their own.
 
