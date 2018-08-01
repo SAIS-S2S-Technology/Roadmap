@@ -4,7 +4,7 @@
 
 ## Our graduate school, Johns Hopkins SAIS
 
-We are located at and funded by the Johns Hopkins Paul H. Nitze School of Advanced International Studies (SAIS). Our official status at SAIS is that of a student organization and we are funded under corresponding terms [link to partnerships].
+We are located at and funded by the Johns Hopkins Paul H. Nitze School of Advanced International Studies (SAIS). Our official status at SAIS is that of a student organization and we are funded under the corresponding terms [link to partnerships].
 
 We appreciate the opportunity to act as part of the SAIS community. For over 75 years SAIS has educated students in international relations and international economics. Emphasizing theory as well as practice, SAIS has graduated a highly diverse group of over 20,000 alumni with careers spanning academia, entrepreneurship, non-governmental organizations and diplomacy. In its pursuit to educate global leaders, SAIS is guided by the vision of its founders, Paul H. Nitze and Christian A. Herter. Nitze and Herter sought new methods of preparing men and women to cope with the international responsibilities that would be thrust upon the United States following the end of World War II. 
 
