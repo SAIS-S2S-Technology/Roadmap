@@ -42,8 +42,7 @@ The adoption of AI technologies offers renewed need for international cooperatio
 
 We believe in the approximate realization of a multilateral approach to AI technologies. Some aspects of existing frameworks may not be suitable for governance of AI and may need to be adjusted accordingly. But international cooperation -- to the extent that it is possible -- is invaluable in guiding how AI technologies are best integrated into the geopolitcal environment. 
 ### Transparency Drives Stability
-AI technologies are complex and this complexity can lead to unwanted tradeoffs -- operators may not understand how an AI enabled system makes its inferrences, executives may not be able to justify decisions based on these inferrences and citizens may lack the ressources to determine who is accountable for the decisions' outcome. 
-Hence, current efforts on explainable AI are crucial and need to continue at a broader scale. 
+AI technologies are complex and this complexity can lead to unwanted tradeoffs -- operators may not understand how an AI enabled system makes its inferrences, executives may not be able to justify decisions based on these inferrences and citizens may lack the ressources to determine who is accountable for the decisions' outcome. Hence, current efforts on explainable AI are crucial and need to continue on a broader scale. 
 
 In addition, we believe in the importance of open-source frameworks for ensuring transparency through collaboration. Where possible, the policy community at large should engage with the open-source tools of engineering to advance its mission and develop new solutions. 
 
