@@ -94,7 +94,8 @@ Purpose: provide students with assistance in finding technology-related work or 
 * **Research opportunities** -- engage stakeholders in the policy and technology communities to leverage the research skills of 600 SAIS graduate students for applied, research-based solution developement. 
 
 ## What we seek in partnerships
-
+## How we got here
+## Progress
 ## Contacting us
 
 
