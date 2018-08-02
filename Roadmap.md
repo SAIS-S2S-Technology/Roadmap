@@ -35,7 +35,7 @@ To know how we work, it helps to know how we think about the impact of technolog
 ### New Global Threat Streams
 AI technologies bring about new security challenges. These challenges are both technical -- issues pertaining to AI safety such as AI alignment or adversarial examples -- and strategic -- issues pertaining to the diffusion of AI military technology or the developement of AI enabled kinetic systems in a broader sense. Additional risk factors exist. These include economic shifts following wide-spread adoption of AI technologies or the deployment of AI for scaled disinformation campaigns. 
 
-We believe that successfully navigating this evolving thread landscape requires an open debate between a range of stakeholders. Solution development should equally leverage the strengths of the policy and engeneering communities.
+This is a complex threat landscape. We believe that an open debate between a range of stakeholders is fundamental to navigating this landscape succesfully. Solution development should equally leverage the strengths of the policy and engeneering communities.
 
 ### Renewed Need for Cooperation
 The adoption of AI technologies offers renewed need for international cooperation. To mitigate core risks, existing multilateral frameworks offer a platform that can guide development and deployment of AI technologies. Importantly, cooperation should be purused against the obstacles that multilateral approaches face in the present environment. 
