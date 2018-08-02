@@ -80,16 +80,18 @@ Purpose: reach a maxmimum number of SAIS students, introduce them to current tec
 
 ### Adaption
 
-Purpose:
+Purpose: guide students through relevant career opportunities in the technology sector and consolidate core skills that students can leverage to transfer their geopolitical knowledge into a technology-driven world
 
 * **Distributed career guide** -- conduct in-depth interviews with SAIS alumni working in the technology sector and compile these interviews into a dedicated report opens a window into how SAIS students can lerverage their skill set for a career in technology. 
-* **Computational Applications to Policy and Strategy (CAPS) workshop** -- hold a semester-long weekly workshop centered 
+* **Computational Applications to Policy and Strategy (CAPS) workshop** -- hold a semester-long weekly workshop focused on a high-level introduction to AI and critical issues around AI strategy with continuous applications in Python. Starting from a fast-paced intro to the Python language and object-oriented programming, students build hard-coded and learning-based game bots using the python-sc2 library for the online strategy game StarCraft II. The goal of this workshop is to ground students strategic reasoning about AI in hands-on programming experience. Students will write and present a technical memo as the workshop's capstone. 
 
 ### Advancement
 
-Career assistance
+Purpose: provide students with assistance in finding technology-related work or research opportunities, giving them the best possible chance to advance the field
 
-Research opportunities 
+* **Career assistance** -- provide students with tailored career advice based on their background and interests, feature their profile on our website and, where possible, network on their behalf. 
+
+* **Research opportunities** -- engage stakeholders in the policy and technology communities to leverage the research skills of 600 SAIS graduate students for applied, research-based solution developement. 
 
 ## What we seek in partnerships
 
