@@ -17,7 +17,7 @@ Through his work in the Strategic Arms Limitation Talks (SALT) and his numerous 
 
 The geopolitical knowledge and strategic skill set of SAIS students provide critical assets in resolving some of the core challenges of a changing world. The continuous application and transfer of these assets depends on understanding and adapting to meaningful trends early. These trends are often complex and - from the perspective of policymaking - embedded in a broader set of concerns. So adapting first requires a balance of understanding that places new trends within an existing set of concerns.
 
-SAIS.Technology S2S is built to provide that balance of understanding. It engages one of the most persistent trends in recent years -- emergent information technology paradigms and artificial intelligence technologies -- and provides a model of distributed, student-to-student (S2S) learning that prioritizes collaboration, continuous delivery of educational material and change-driven optimization. 
+SAIS.Technology S2S is built to provide that balance of understanding. It engages one of the most persistent trends in recent years -- emergent information technology paradigms and artificial intelligence technologies -- and provides a model of distributed, student-to-student (S2S) learning that prioritizes collaboration, rapid application of knowledge and continual optimization of learning. 
 
 We believe we can take the SAIS ethos and apply it to technological change: educating generalists, continuously adapting theory to enlighten decision-making, asking hard ethical questions and providing a holistic framework for integrating technological developements into policymaking. 
 
