@@ -19,7 +19,7 @@ So why is SAIS.Technology S2S a valuable addition to the SAIS community? The geo
 
 SAIS.Technology S2S is built to provide that balance of understanding. It engages one of the most persistent trends in recent years -- emergent information technology paradigms and AI technologies -- and provides a model of distributed, student-to-student (S2S) learning that prioritizes collaboration, rapid application of knowledge and continual optimization of learning. 
 
-We believe we can take the SAIS ethos and apply it to technological change: educating generalists, continuously adapting theory to enlighten decision-making, asking hard ethical questions and providing a holistic framework for integrating technological developements into policymaking. 
+We believe we can take the SAIS ethos and apply it to technology: educating generalists, continuously adapting theory to enlighten decision-making, asking hard ethical questions and providing a holistic framework for integrating technological developements into policymaking. 
 
 Ultimately, Nitze and Herter have succeded at doing what we hope to help students do - embrace change to advance the values of an open and stable world. 
 
