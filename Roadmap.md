@@ -40,7 +40,7 @@ This is a complex threat landscape. We believe that an open debate between a ran
 ### Renewed Need for Cooperation
 The adoption of AI technologies offers renewed need for international cooperation. To mitigate core risks, existing multilateral frameworks offer a platform that can guide development and deployment of AI technologies. Importantly, cooperation should be purused against the obstacles that multilateral approaches face in the present environment. 
 
-We believe in the approximate realization of a multilateral approach to AI technologies. Some aspects of existing frameworks may not be suitable for governance of AI and may need to be adjusted accordingly. But international cooperation -- to the extent that it is possible -- is invaluable in guiding how AI technologies integrate with the geopolitcal environment. 
+We believe in the approximate realization of a multilateral approach to AI technologies. Some aspects of existing frameworks may not be suitable for governance of AI and may need to be adjusted accordingly. But international cooperation -- to the extent that it is possible -- is invaluable in guiding how AI technologies are integrated into the geopolitcal environment. 
 ### Transparency Drives Stability
 AI technologies are complex and this complexity can lead to unwanted tradeoffs -- operators may not understand how an AI enabled system makes its inferrences, executives may not be able to justify decisions based on these inferrences and citizens may lack the ressources to determine who is accountable for the decisions' outcome. 
 Hence, current efforts on explainable AI are crucial and need to continue at a broader scale. 
