@@ -58,6 +58,37 @@ We believe it is vital that the policy community is prepared to adapt to these n
 
 ## How we build and transfer knowledge
 
+SAIS.Technology S2S is built around student-to-student (S2S) learning model and draws on a distributed set of tools. Our work is dedicated to continously solving one problem: transfering a complex, technical subject to graduate students who have no background in the field and limited time to read up on the fundamentals. 
+
+This problem works as the engine of SAIS.Technology S2S -- we do not see it as a constraint but as a feature that enables and validates our educational model. Why? Our environment -- defined by low resources, little time and a steep learning curve -- allows us to replicate core aspects of the adaptive workflows of software developement. We believe that experience with these workflows facilitates adapting to technological advancements more broadly. We do not start the semester with a finished, unified educational product -- such as a lecture. Instead, we provide students with a set of prototypes that will evolve from basic functionality to a tailored, useful product as the semester progresses and -- on a longer horizon -- as SAIS.Technology S2S grows over time. 
+
+We priotize that students, who particiapte in our programming workshops, build a minimum viable product fast -- outline a short memo on testing machine learning algorithms, modify a bot playing an online strategy game --,'ship' that product by presenting it in a professional context, improve based on feedback and iterate the process. 
+
+Importantly, there is no clear distinction between teaching and learning in this process -- and there shouldn't be as the ability to collaborate horizontally is our most valuable ressource. 
+
+We see our 'products' as a set of tools. They should be used as needed and re-build along the way. There are three groups of tools -- Awareness, Adaption and Advancement. 
+
+### Awareness
+
+Purpose: reach a maxmimum number of SAIS students, introduce them to current tech-policy issues and provide opportunities for students to develop a voice on technology
+
+* **Newsletter** -- feature news roundups, summaries of relevant papers and short guest-posts from students who want to share ideas that are longer than a tweet but shorter than a blog post. Published weekly and publicly accessible. 
+* **Global Scope blog** -- provide documentation of DC's views on technology through briefings on the frequent tech-policy events in the DC think-tank circuit. Currently there is no streamlined, centralized, archical source on these events and we aim to change that. 
+* **Events and conferences** -- engage students in conversations with leaders in the technology and policy communities through a steady stream of events and conferences hosted at SAIS. 
+
+### Adaption
+
+Purpose:
+
+* **Distributed career guide** -- conduct in-depth interviews with SAIS alumni working in the technology sector and compile these interviews into a dedicated report that gives students a window into how they can lerverage the SAIS skill set for a career in tech.
+* **Computational Applications to Policy and Strategy (CAPS) workshop** -- hold 
+
+### Advancement
+
+Career assistance
+
+Research opportunities 
+
 ## What we seek in partnerships
 
 ## Contacting us
