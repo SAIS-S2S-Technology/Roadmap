@@ -46,7 +46,7 @@ In addition, we believe in the importance of open-source frameworks for ensuring
 ### Reconceptualization of Policy Theory
 The policy community can draw on a range of well-tested conceputal tools to build and evaluate its decisions. Some of these tools -- such as game theory -- offer valuable points of contact with the engeneering behing AI technologies. Research should explore and consolidate this overlap. Other tools -- such as grand strategy or deterrence theory -- are unrelated to aspects of engineering but offer valuable frameworks for determining the impact of AI on the geopolitical landscape. 
 
-We believe both types of tools should be closely integrated with each other so that decision-makers will continue to derive reliable value from theory as AI technologies are changing operations on the ground and the geopolitcal environment at large. 
+We believe both types of tools should be closely integrated with each other so that decision-makers will continue to derive reliable value from theory as AI technologies become a feature of the geopolitical environment.
 
 ### Changing Workflows of Policymaking
 AI technologies will change how humans work. We believe that the policy community is no exception. This will lead to new workflows for the top and ground layers of policy work. New workflows will likely involve basing decisions on a continuous stream of quantitative data and automating away tasks through software. Arguably, much of this work will be done in collaboration with autonomous software. 
