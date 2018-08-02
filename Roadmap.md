@@ -1,6 +1,11 @@
 # SAIS.Technology S2S Roadmap
 
 ## Contents
+* Our graduate school, Johns Hopkins SAIS
+* What we believe about technology and global policy
+* How we build and transfer knowledge
+* Why we seek partnerships
+* Contacting us
 
 ## Our graduate school, Johns Hopkins SAIS
 
@@ -23,7 +28,7 @@ We believe we can take the SAIS ethos and apply it to technological change: educ
 
 Ultimately, Nitze and Herter have succeded at doing what we hope to help students do - embrace change to advance the values of an open and stable world. 
 
-## What We Believe about Technology and Global Policy
+## What we believe about technology and global policy
 
 To know how we work, it helps to know how we think about the impact of technology on global policy. The list below captures our beliefs -- both those about strategy on a broader scale and those about the changing nature of policy work. 
 
@@ -54,6 +59,10 @@ AI technologies will change how humans work. We believe that the policy communit
 We believe it is vital that the policy community is prepared to adapt to these new workflows. Recent discussions in the realm of military education present an important starting point. 
 
 ## How we build and transfer knowledge
+
+## What we seek in partnerships
+
+## Contacting us
 
 
 
