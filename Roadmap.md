@@ -23,7 +23,7 @@ We believe we can take the SAIS ethos and apply it to technological change: educ
 
 Ultimately, Nitze and Herter have succeded at doing what we hope to help students do - embrace change to advance the values of an open and stable world. 
 
-## What we believe about technology and global policy
+## What We Believe about Technology and Global Policy
 
 To know how we work, it helps to know how we think about the impact of technology on global policy. The list below captures the main set of our beliefs -- both those about strategy on a broader scale and those about the changing nature of policy work. 
 
@@ -37,7 +37,7 @@ The adoption of AI technologies offers renewed need for international cooperatio
 
 We believe in the approximate realization of a multilateral approach to AI technologies. Some aspects of existing frameworks may not be suitable for governance of AI and may need to be adjusted accordingly. But international cooperation -- to the extent that it is possible -- is invaluable. 
 
-### Transparency is fundamental to stability
+### Transparency is Fundamental to Stability
 AI technologies are complex and this complexity can lead to unwanted tradeoffs -- operators may not understand how an AI enabled system makes its inferrences, executives may not be able to justify decisions based on these inferrences and citizens may lack the ressources to determine who is accountable for the decisions' outcome. 
 Hence, current efforts on explainable AI are crucial and need to continue at a broader scale. 
 
@@ -49,7 +49,7 @@ The policy community can draw on a range of well-tested conceputal tools to buil
 ### Technology Changes the Workflows of Policymaking
 AI technologies will change how humans work. We believe that the policy community is no exception. This will lead to new workflows for the top and ground layers of policy work. New workflows will likely involve basing decisions on a continuous stream of quantitative data and automating away tasks through software. Arguably, much of this work will be done in collaboration with autonomous software. 
 
-We believe it is vital that the policy community is prepared to adapt to these new workflows. Discussions in the realm of military education should be taken as an important starting point. 
+We believe it is vital that the policy community is prepared to adapt to these new workflows. Discussions in the realm of military education are an important starting point. 
 
 ## How we build and transfer knowledge
 
