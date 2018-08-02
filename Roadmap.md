@@ -7,6 +7,8 @@
 * Why we seek partnerships
 * Contacting us
 
+## How to read this roadmap
+
 ## Our graduate school, Johns Hopkins SAIS
 
 We are located at and funded by the Johns Hopkins Paul H. Nitze School of Advanced International Studies (SAIS). Our official status at SAIS is that of a student organization and we are funded under the corresponding terms [link to partnerships].
