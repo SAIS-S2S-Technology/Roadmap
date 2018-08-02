@@ -26,7 +26,7 @@ SAIS.Technology S2S is built to provide that balance of understanding. It engage
 
 We believe we can take the SAIS ethos and apply it to technological change: educating generalists, continuously adapting theory to enlighten decision-making, asking hard ethical questions and providing a holistic framework for integrating technological developements into policymaking. 
 
-Ultimately, Nitze and Herter have succeded at doing what we hope to help students do - embrace change to advance the values of an open and stable world. 
+Throghout their careers Nitze and Herter have succeded at doing what we hope to help students do - embrace change to advance the values of an open and stable world. 
 
 ## What we believe about technology and global policy
 
