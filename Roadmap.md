@@ -60,11 +60,13 @@ We believe it is vital that the policy community is prepared to adapt to these n
 
 SAIS.Technology S2S is built around student-to-student (S2S) learning model and draws on a distributed set of tools. Our work is dedicated to continously solving one problem: transfering a complex, technical subject to graduate students who have no background in the field and limited time to read up on the fundamentals. 
 
-This problem works as the engine of SAIS.Technology S2S -- we do not see it as a constraint but as a feature that enables and validates our educational model. Why? Our environment -- defined by low resources, little time and a steep learning curve -- allows us to replicate core aspects of the adaptive workflows of software developement. We believe that experience with these workflows facilitates adapting to technological advancements more broadly. We do not start the semester with a finished, unified educational product -- such as a lecture. Instead, we provide students with a set of prototypes that will evolve from basic functionality to a tailored, useful product as the semester progresses and -- on a longer horizon -- as SAIS.Technology S2S grows over time. 
+Rather than being a constraint, this problem works as the engine of SAIS.Technology S2S -- it enables and validates our educational model. Why? The environment we operate in -- defined by low resources, little time and a steep learning curve -- allows us to implement aspects of the adaptive workflows of software developement. Here's how this works:
 
-We priotize that students, who particiapte in our programming workshops, build a minimum viable product fast -- outline a short memo on testing machine learning algorithms, modify a bot playing an online strategy game --,'ship' that product by presenting it in a professional context, improve based on feedback and iterate the process. 
+We do not start the semester with a finished, unified educational product -- such as a lecture. Instead, we provide students with a set of prototypes that will evolve from basic functionality to a tailored, useful product as the semester progresses and -- on a longer horizon -- as SAIS.Technology S2S grows over time. 
 
-Importantly, there is no clear distinction between teaching and learning in this process -- and there shouldn't be as the ability to collaborate horizontally is our most valuable ressource. 
+We priotize that students who particiapte in our programming workshops build a minimum viable product fast -- outline a short memo on testing machine learning algorithms, modify a bot playing an online strategy game --,'ship' that product by presenting it in a professional context, improve based on feedback and iterate the process. 
+
+Importantly, there is no clear distinction between teaching and learning in this process -- and there shouldn't be as the ability to collaborate horizontally is our most valuable ressource. We believe that experience with these workflows facilitates adapting to technological advancements more broadly. 
 
 We see our 'products' as a set of tools. They should be used as needed and re-build along the way. There are three groups of tools -- Awareness, Adaption and Advancement. 
 
