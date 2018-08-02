@@ -51,7 +51,7 @@ We believe both types of tools should be closely integrated with each other so t
 ### Changing Workflows of Policymaking
 AI technologies will change how humans work. We believe that the policy community is no exception. This will lead to new workflows for the top and ground layers of policy work. New workflows will likely involve basing decisions on a continuous stream of quantitative data and automating away tasks through software. Arguably, much of this work will be done in collaboration with autonomous software. 
 
-We believe it is vital that the policy community is prepared to adapt to these new workflows. Discussions in the realm of military education are an important starting point. 
+We believe it is vital that the policy community is prepared to adapt to these new workflows. Recent discussions in the realm of military education present an important starting point. 
 
 ## How we build and transfer knowledge
 
