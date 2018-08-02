@@ -25,7 +25,7 @@ Ultimately, Nitze and Herter have succeded at doing what we hope to help student
 
 ## What We Believe about Technology and Global Policy
 
-To know how we work, it helps to know how we think about the impact of technology on global policy. The list below captures the main set of our beliefs -- both those about strategy on a broader scale and those about the changing nature of policy work. 
+To know how we work, it helps to know how we think about the impact of technology on global policy. The list below captures our beliefs -- both those about strategy on a broader scale and those about the changing nature of policy work. 
 
 ### New Global Threat Streams
 AI technologies bring about new security challenges. These challenges are both technical -- issues pertaining to AI safety such as AI alignment or adversarial examples -- and strategic -- issues pertaining to the diffusion of AI military technology or the developement of AI enabled kinetic systems more broadly. Additional risk factors exist. Examples include economic shifts following wide-spread adoption of AI technologies or the deployment of AI for scaled disinformation campaigns. 
