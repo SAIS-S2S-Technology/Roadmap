@@ -37,18 +37,23 @@ Throghout their careers Nitze and Herter have succeded at doing what we hope to 
 To know how we work, it helps to know how we think about the impact of technology on global policy. The list below captures our beliefs -- both those about strategy on a broader scale and those about the changing nature of policy work. 
 
 ### New Global Threat Streams
-AI technologies bring about new security challenges. These challenges are both technical -- issues pertaining to AI safety such as AI alignment or adversarial examples -- and strategic -- issues pertaining to the diffusion of AI military technology or the developement of AI enabled kinetic systems in a broader sense. Additional risk factors exist. These include economic shifts following wide-spread adoption of AI technologies or the deployment of AI for scaled disinformation campaigns. 
+AI technologies bring about new security challenges. These challenges are both technical -- issues pertaining to AI safety such as AI alignment or adversarial examples -- and strategic -- issues pertaining to the diffusion of AI military technology or the developement of AI enabled kinetic systems in a broader sense. A range of additional risk factors exists. These include economic shifts following wide-spread adoption of AI technologies or the deployment of AI for scaled disinformation campaigns. 
 
 This is a complex threat landscape. We believe that an open debate between a range of stakeholders is fundamental to navigating this landscape succesfully. Solution development should equally leverage the strengths of the policy and engeneering communities.
 
 ### Renewed Need for Cooperation
-The adoption of AI technologies offers renewed need for international cooperation. To mitigate core risks, existing multilateral frameworks offer a platform that can guide development and deployment of AI technologies. Importantly, cooperation should be purused against the obstacles that multilateral approaches face in the present environment. 
+The adoption of AI technologies offers renewed need for international cooperation. To mitigate core risks, existing multilateral frameworks offer a platform that can guide the development and deployment of AI technologies. Importantly, cooperation should be purused against the obstacles that multilateral approaches face in the present environment. 
 
 We believe in the approximate realization of a multilateral approach to AI technologies. Some aspects of existing frameworks may not be suitable for governance of AI and may need to be adjusted accordingly. But international cooperation -- to the extent that it is possible -- is invaluable in guiding how AI technologies are best integrated into the geopolitcal environment. 
-### Transparency Drives Stability
-AI technologies are complex and this complexity can lead to unwanted tradeoffs -- operators may not understand how an AI enabled system makes its inferrences, executives may not be able to justify decisions based on these inferrences and citizens may lack the ressources to determine who is accountable for the decisions' outcome. Hence, current efforts on explainable AI are crucial and need to continue on a broader scale. 
 
-In addition, we believe in the importance of open-source frameworks for ensuring transparency through collaboration. Where possible, the policy community at large should engage with the open-source tools of engineering to advance its mission and develop new solutions. 
+### Operational Ethics
+
+Navigating the geopolitical landscape means making hard choices and minimizing tradeoffs. 
+AI technologies are complex and this complexity can lead to unwanted tradeoffs -- operators may not understand how an AI enabled system makes its inferrences, executives may not be able to justify decisions based on these inferrences and citizens may lack the ressources to determine who is accountable for the decisions' outcome. 
+
+Hence, current efforts on explainable AI are crucial and need to continue on a broader scale. Explanation, documentation, domain expertise.  
+
+Domain expertise. Realism. 
 
 ### Reconceptualization of Policy Theory
 The policy community can draw on a range of well-tested conceputal tools to build and evaluate its decisions. Some of these tools -- such as game theory -- offer valuable points of contact with the engeneering behing AI technologies. Research should explore and consolidate this overlap. Other tools -- such as grand strategy or deterrence theory -- are unrelated to aspects of engineering but offer valuable frameworks for determining the impact of AI on the geopolitical landscape. 
@@ -60,13 +65,15 @@ AI technologies will change how humans work. We believe that the policy communit
 
 We believe it is vital that the policy community is prepared to adapt to these new workflows. Recent discussions in the realm of military education present an important starting point. 
 
+In addition, we believe in the importance of open-source frameworks for ensuring transparency through collaboration. Where possible, the policy community at large should engage with the open-source tools of engineering to advance its mission and develop new solutions. 
+
 ## How we build and transfer knowledge
 
-SAIS.Technology S2S is built around student-to-student (S2S) learning model and draws on a distributed set of tools. Our work is dedicated to continously solving one problem: transfering a complex, technical subject to graduate students who have no background in the field and limited time to read up on the fundamentals. 
+SAIS.Technology S2S is built around student-to-student (S2S) learning model and draws on a distributed set of tools. Our work is dedicated to continously finding better solutions to one problem: transfering a complex, technical subject to graduate students who have no background in the field and limited time to read up on the fundamentals. 
 
-Rather than being a constraint, this problem works as the engine of SAIS.Technology S2S -- it enables and validates our educational model. Why? The environment we operate in -- defined by low resources, little time and a steep learning curve -- allows us to implement aspects of the adaptive workflows of software developement. Here's how this works:
+Rather than being a constraint, this problem works as the engine of SAIS.Technology S2S -- it enables and validates our educational model. Why? The environment we operate in -- defined by low resources, little time and a steep learning curve -- allows us to implement aspects of the adaptive workflows of software developement. Here's how:
 
-We do not start the semester with a finished, unified educational product -- such as a lecture. Instead, we provide students with a set of prototypes that will evolve from basic functionality to a tailored, useful product as the semester progresses and -- on a longer horizon -- as SAIS.Technology S2S grows over time. 
+We do not start the semester with a finished, unified educational product such as a lecture. Instead, we provide students with a set of prototypes that will evolve from basic functionality to a tailored, useful product as the semester progresses and -- on a longer horizon -- as SAIS.Technology S2S grows over time. 
 
 We priotize that students participating in our programming workshops build a minimum viable product fast -- outline a short memo on testing machine learning algorithms, modify a bot playing an online strategy game --,'ship' that product by presenting it in a professional context, improve based on feedback and iterate the process. 
 
