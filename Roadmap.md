@@ -40,19 +40,15 @@ AI technologies bring about new security challenges. These challenges are both t
 This is a complex threat landscape. We believe that an open debate between a range of stakeholders is fundamental to navigating this landscape succesfully. Solution development should equally leverage the strengths of the policy and engeneering communities.
 
 ### Renewed Need for Cooperation
-The adoption of AI technologies offers renewed need for international cooperation. To mitigate core risks, existing multilateral frameworks offer a platform that can guide the development and deployment of AI technologies. Importantly, cooperation should be purused against the obstacles that multilateral approaches face in the present environment. 
+The adoption of AI technologies offers renewed need for international cooperation. To mitigate core risks and leverage fundamental opportunities, existing multilateral frameworks offer a platform that can guide the development and deployment of AI technologies. Importantly, cooperation should be purused against the obstacles that multilateral approaches face in the present environment. 
 
 We believe in the approximate realization of a multilateral approach to AI technologies. Some aspects of existing frameworks may not be suitable for governance of AI and may need to be adjusted accordingly. But international cooperation -- to the extent that it is possible -- is invaluable in guiding how AI technologies are best integrated into the geopolitcal environment. 
 
-### Operational Ethics as Policy Domain Expertise
-An important debate has emerged 
-Fairness, accountability and transparency (FAT) have become 
-Navigating the geopolitical landscape means making hard choices and minimizing tradeoffs. 
-AI technologies are complex and this complexity can lead to unwanted tradeoffs -- operators may not understand how an AI enabled system makes its inferrences, executives may not be able to justify decisions based on these inferrences and citizens may lack the ressources to determine who is accountable for the decisions' outcome. 
+### Operational Ethics as Global Policy Domain Expertise
+It is crucial that the developement and deployment of AI technologies is complemented by a rigorous ethical debate. From this debate has emerged the important proposal of fair, accountable and transparent (FAT) AI that lays out rules of engagement for AI models that yield decision-relvant information in critical environments. An additional layer of this debate is consituted by research on the explainability or interpretability of AI models. In both cases 
 
-Hence, current efforts on explainable AI are crucial and need to continue on a broader scale. Explanation, documentation, domain expertise.  
 
-Domain expertise. Realism. 
+The intent of this debate is to provide a set of guidance so that AI can make just decisions in critical environments. We believe that global policy can add to this because it often evolves around making hard decisions in uncertain environments -- operational ethics. We believe that for guiding the ethical deployment of AI, the policy community has a lot of domain expertise. Explainable AI -- explore and see what modes of operation are possible most useful -- think from the ground up. 
 
 ### Reconceptualization of Policy Theory
 The policy community can draw on a range of well-tested conceputal tools to build and evaluate its decisions. Some of these tools -- such as game theory -- offer valuable points of contact with the engeneering behind AI technologies. Research should explore and consolidate this overlap. Other tools -- such as grand strategy or deterrence theory -- are unrelated to aspects of engineering but offer frameworks for determining the impact of AI on the geopolitical landscape. 
@@ -62,7 +58,7 @@ We believe it is vital for research efforts to closely integrate both of these t
 ### Changing Workflows of Policymaking
 AI technologies will change how humans work. We believe that the policy community is no exception. This will lead to new workflows for the top and ground layers of policy work. New workflows will likely involve basing decisions on a continuous stream of quantitative data and automating away tasks through software. Arguably, much of this work will be done in collaboration with autonomous software. 
 
-We believe it is vital that the policy community is prepared to adapt to these new workflows. Recent discussions in the realm of military education present a welcome starting point. In addition, we believe in the importance of open-source frameworks. Where possible, the policy community at large should engage with the open-source platforms of engineering to develop novel solutions. 
+We believe it is vital that the policy community is prepared to adapt to these new workflows. Recent discussions in the realm of military education present a welcome starting point. 
 
 ## How we build and transfer knowledge
 
@@ -90,7 +86,7 @@ We see our 'products' as a set of tools. They should be used as needed and re-bu
 
 ### Adaption
 
-* **Purpose:** guide students through relevant career opportunities in the technology sector and consolidate core skills that students can leverage to transfer their geopolitical knowledge into a technology-driven world
+**Purpose:** guide students through relevant career opportunities in the technology sector and consolidate core skills that students can leverage to transfer their geopolitical knowledge into a technology-driven world
 
 * **Distributed career guide:** The distributed career guide opens a window into careers in technology that draw on a SAIS skill set. The guide consists of career-focused interviews with alumni working in or with the technology sector that will be realised individually and as a compiled report. 
 
@@ -107,6 +103,7 @@ We see our 'products' as a set of tools. They should be used as needed and re-bu
 ## What we seek in partnerships
 ## How we got here
 ## Progress
+[] 
 ## Contacting us
 
 
