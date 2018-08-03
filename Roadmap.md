@@ -64,7 +64,7 @@ We believe it is vital that the policy community is prepared to adapt to these n
 
 SAIS.Technology S2S is built around student-to-student (S2S) learning model and draws on a distributed set of tools. Our work is dedicated to continously finding better solutions to one problem: transfering a complex, technical subject to graduate students who have no background in the field and limited time to read up on the fundamentals. 
 
-This problem works as the engine of SAIS.Technology S2S -- it enables and validates our educational model. Why? The environment we operate in -- defined by low resources, little time and a steep learning curve -- encourages us to pursue the adaptive workflows of software developement. We believe that experience with these workflows facilitates adapting to technological advancements more broadly. Here's how we strive to engage adaptive developer workflows:
+This problem works as the engine of SAIS.Technology S2S -- it enables and validates our educational model. Why? The environment we operate in -- defined by low resources, little time and a steep learning curve -- encourages us to pursue EDIT STRIVE TO ALIGN WITH the adaptive workflows of software developement. We believe that experience with these workflows facilitates adapting to technological advancements more broadly. Here's how we strive to engage adaptive developer workflows:
 
 We do not start the semester with a finished, unified educational product such as a lecture. Instead, we provide students with a set of prototypes that will evolve from basic functionality to a tailored, useful product as the semester progresses and -- on a longer horizon -- as SAIS.Technology S2S grows over time. 
 
