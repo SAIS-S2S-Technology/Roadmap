@@ -44,7 +44,7 @@ The adoption of AI technologies offers renewed need for international cooperatio
 
 We believe in the approximate realization of a multilateral approach to AI technologies. Some aspects of existing frameworks may not be suitable for governance of AI and may need to be adjusted accordingly. But international cooperation -- to the extent that it is possible -- is invaluable in guiding how AI technologies are best integrated into the geopolitcal environment. 
 
-### Operational Ethics and Policy Domain Expertise
+### Operational Ethics as Policy Domain Expertise
 An important debate has emerged 
 Fairness, accountability and transparency (FAT) have become 
 Navigating the geopolitical landscape means making hard choices and minimizing tradeoffs. 
