@@ -106,7 +106,15 @@ We see our 'products' as a set of tools. They should be used as needed and re-bu
 
 * **Research opportunities:** We engage stakeholders in the policy and technology communities to leverage the research skills of 600 SAIS graduate students for applied, research-based solution developement. 
 
-## What we seek in partnerships
+## Why we seek partnerships
+
+We seek partnerships because we believe SAIS students can make a substantial difference in a world driven by rapid technological change. We believe in the potential of each student and we want to ensure that this potential gets out into the world. Building meaningful connections between the policy and technology communities is hard -- forming partnerships with leaders in policy and technology and benefiting from their advice is the logical step and our best chance to succeed. 
+
+
+Our mission is to integrate technology into the advancement of an open and stable world and we belief that this mission 
+
+
+
 ## How we got here
 ## Progress
 [] 
