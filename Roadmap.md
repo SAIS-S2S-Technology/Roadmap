@@ -80,41 +80,27 @@ We see our 'products' as a set of tools. They should be used as needed and re-bu
 
 **Purpose:** reach a maxmimum number of SAIS students, introduce them to current tech-policy issues and provide opportunities for students to develop a voice on technology
 
-* **Newsletter** The newsletter features news roundups, summaries of relevant papers and short guest-posts from students who want to share ideas that are longer than a tweet but shorter than a blog post. Published weekly and publicly accessible. 
+* **Newsletter:** The newsletter features news roundups, summaries of relevant papers and short guest-posts from students who want to share ideas that are longer than a tweet but shorter than a blog post. Published weekly and publicly accessible. 
 
-**Global Scope blog**
+* **Global Scope blog:** The Global Scope blog documents DC's views on technology through briefings on the many tech-policy events happening in the local think-tank circuit. Currently there is no streamlined, centralized, archival source on these events. We aim to change that. 
 
-The Global Scope blog documents DC's views on technology through briefings on the many tech-policy events happening in the local think-tank circuit. Currently there is no streamlined, centralized, archival source on these events. We aim to change that. 
-
-**Events and conferences** 
-
-Through  events and conferences hosted at SAIS students are engaged in conversations with leaders in the technology and policy communities.
+* **Events and conferences:** Through  events and conferences hosted at SAIS students are engaged in conversations with leaders in the technology and policy communities.
 
 ### Adaption
 
-**Purpose:** guide students through relevant career opportunities in the technology sector and consolidate core skills that students can leverage to transfer their geopolitical knowledge into a technology-driven world
+* **Purpose:** guide students through relevant career opportunities in the technology sector and consolidate core skills that students can leverage to transfer their geopolitical knowledge into a technology-driven world
 
-**Distributed career guide**
+* **Distributed career guide:** The distributed career guide opens a window into careers in technology that draw on a SAIS skill set. The guide consists of career-focused interviews with alumni working in or with the technology sector that will be realised individually and as a compiled report. 
 
-The distributed career guide opens a window into careers in technology that draw on a SAIS skill set. The guide consists of career-focused interviews with alumni working in or with the technology sector that will be realised individually and as a compiled report. 
-
-**Computational Applications to Policy and Strategy (CAPS) workshop**
-
-CAPS is a semester-long weekly workshop focused on exposure to programming and a high-level introduction to AI and AI strategy. Starting from a fast-paced intro to the Python language and object-oriented programming, students build both scripted and learning-based game bots using the python-sc2 library for the online strategy game StarCraft II. 
-
-The goal of CAPS is to ground students strategic reasoning about AI in hands-on programming experience. Students will write and present a technical memo as the workshop's capstone. 
+* **Computational Applications to Policy and Strategy (CAPS) workshop:** CAPS is a semester-long weekly workshop focused on exposure to programming and a high-level introduction to AI and AI strategy. Starting from a fast-paced intro to the Python language and object-oriented programming, students build both scripted and learning-based game bots using the python-sc2 library for the online strategy game StarCraft II. The goal of CAPS is to ground students strategic reasoning about AI in hands-on programming experience. Students will write and present a technical memo as the workshop's capstone. 
 
 ### Advancement
 
 **Purpose:** provide students with assistance in finding technology-related work or research opportunities, giving them the best possible chance to advance the field
 
-**Career assistance** 
+* **Career assistance:** We provide students with tailored career advice based on their background and interests, feature their profile on our website and, where possible, network on their behalf. 
 
-We provide students with tailored career advice based on their background and interests, feature their profile on our website and, where possible, network on their behalf. 
-
-**Research opportunities** 
-
-We engage stakeholders in the policy and technology communities to leverage the research skills of 600 SAIS graduate students for applied, research-based solution developement. 
+* **Research opportunities:** We engage stakeholders in the policy and technology communities to leverage the research skills of 600 SAIS graduate students for applied, research-based solution developement. 
 
 ## What we seek in partnerships
 ## How we got here
