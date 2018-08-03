@@ -80,9 +80,7 @@ We see our 'products' as a set of tools. They should be used as needed and re-bu
 
 **Purpose:** reach a maxmimum number of SAIS students, introduce them to current tech-policy issues and provide opportunities for students to develop a voice on technology
 
-**Newsletter**
-
-The newsletter features news roundups, summaries of relevant papers and short guest-posts from students who want to share ideas that are longer than a tweet but shorter than a blog post. Published weekly and publicly accessible. 
+* **Newsletter** The newsletter features news roundups, summaries of relevant papers and short guest-posts from students who want to share ideas that are longer than a tweet but shorter than a blog post. Published weekly and publicly accessible. 
 
 **Global Scope blog**
 
