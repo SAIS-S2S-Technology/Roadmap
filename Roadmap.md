@@ -34,7 +34,7 @@ Throghout their careers Nitze and Herter have succeded at doing what we hope to 
 
 ## What we believe about technology and global policy
 
-To know how we work, it helps to know how we think about the impact of technology on global policy. The list below captures our beliefs -- both those about strategy on a broader scale and those about the changing nature of policy work. 
+To know how we work, it helps to know how we think about the impact of technology on global policy. The list below captures our beliefs -- specificially those about AI technologies as they relate to strategy and the changing nature of policy work. 
 
 ### New Global Threat Streams
 AI technologies bring about new security challenges. These challenges are both technical -- issues pertaining to AI safety such as AI alignment or adversarial examples -- and strategic -- issues pertaining to the diffusion of AI military technology or the developement of AI enabled kinetic systems in a broader sense. A range of additional risk factors exists. These include economic shifts following wide-spread adoption of AI technologies or the deployment of AI for scaled disinformation campaigns. 
@@ -46,8 +46,9 @@ The adoption of AI technologies offers renewed need for international cooperatio
 
 We believe in the approximate realization of a multilateral approach to AI technologies. Some aspects of existing frameworks may not be suitable for governance of AI and may need to be adjusted accordingly. But international cooperation -- to the extent that it is possible -- is invaluable in guiding how AI technologies are best integrated into the geopolitcal environment. 
 
-### Operational Ethics
-
+### Operational Ethics and Policy Domain Expertise
+An important debate has emerged 
+Fairness, accountability and transparency (FAT) have become 
 Navigating the geopolitical landscape means making hard choices and minimizing tradeoffs. 
 AI technologies are complex and this complexity can lead to unwanted tradeoffs -- operators may not understand how an AI enabled system makes its inferrences, executives may not be able to justify decisions based on these inferrences and citizens may lack the ressources to determine who is accountable for the decisions' outcome. 
 
@@ -56,9 +57,7 @@ Hence, current efforts on explainable AI are crucial and need to continue on a b
 Domain expertise. Realism. 
 
 ### Reconceptualization of Policy Theory
-The policy community can draw on a range of well-tested conceputal tools to build and evaluate its decisions. Some of these tools -- such as game theory -- offer valuable points of contact with the engeneering behing AI technologies. Research should explore and consolidate this overlap. Other tools -- such as grand strategy or deterrence theory -- are unrelated to aspects of engineering but offer valuable frameworks for determining the impact of AI on the geopolitical landscape. 
-
-We believe research should work towards integrating the two types of conceptual tools. It is vital that decision-makers can continue to derive guidance from theory as AI technologies become a feature of the geopolitical environment.
+The policy community can draw on a range of well-tested conceputal tools to build and evaluate its decisions. Some of these tools -- such as game theory -- offer valuable points of contact with the engeneering behind AI technologies. Research should explore and consolidate this overlap. Other tools -- such as grand strategy or deterrence theory -- are unrelated to aspects of engineering but offer frameworks for determining the impact of AI on the geopolitical landscape. We believe it is vital for research efforts to closely integrate both of these tools. Policy theory should not only be capable of framing AI technologies through established concepts but also capable of adjusting these concepts -- granually or fundamentally -- where appropriate. 
 
 ### Changing Workflows of Policymaking
 AI technologies will change how humans work. We believe that the policy community is no exception. This will lead to new workflows for the top and ground layers of policy work. New workflows will likely involve basing decisions on a continuous stream of quantitative data and automating away tasks through software. Arguably, much of this work will be done in collaboration with autonomous software. 
@@ -71,15 +70,15 @@ In addition, we believe in the importance of open-source frameworks for ensuring
 
 SAIS.Technology S2S is built around student-to-student (S2S) learning model and draws on a distributed set of tools. Our work is dedicated to continously finding better solutions to one problem: transfering a complex, technical subject to graduate students who have no background in the field and limited time to read up on the fundamentals. 
 
-Rather than being a constraint, this problem works as the engine of SAIS.Technology S2S -- it enables and validates our educational model. Why? The environment we operate in -- defined by low resources, little time and a steep learning curve -- requires us to pursue the adaptive workflows of software developement. We believe that experience with these workflows facilitates adapting to technological advancements more broadly. Here's how:
+Rather than being a constraint, this problem works as the engine of SAIS.Technology S2S -- it enables and validates our educational model. Why? The environment we operate in -- defined by low resources, little time and a steep learning curve -- requires us to pursue the adaptive workflows of software developement. We believe that experience with these workflows facilitates adapting to technological advancements more broadly. Here's how we strive to engage adaptive developer workflows:
 
 We do not start the semester with a finished, unified educational product such as a lecture. Instead, we provide students with a set of prototypes that will evolve from basic functionality to a tailored, useful product as the semester progresses and -- on a longer horizon -- as SAIS.Technology S2S grows over time. 
 
 We priotize that students participating in our programming workshops build a minimum viable product fast -- outline a short memo on testing machine learning algorithms, modify a bot playing an online strategy game --,'ship' that product by presenting it in a professional context, improve based on feedback and iterate the process. 
 
-Importantly, there is no clear distinction between teaching and learning in this process -- and there shouldn't be as the ability to collaborate horizontally is our most valuable ressource. 
+There is no clear distinction between teaching and learning in this process -- and there shouldn't be as the ability to collaborate horizontally is our most valuable ressource. 
 
-We see our 'products' as a set of tools. They should be used as needed and re-build along the way. There are three groups of tools -- Awareness, Adaption and Advancement. 
+We see our 'products' as a set of tools. They should be used as needed and re-build along the way. There are three groups of tools --awareness, adaption and advancement. 
 
 ### Awareness
 
