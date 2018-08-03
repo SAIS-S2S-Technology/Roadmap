@@ -2,6 +2,7 @@
 
 ## Contents
 * Our graduate school, Johns Hopkins SAIS
+* How we got here
 * What we believe about technology and global policy
 * How we build and transfer knowledge
 * Why we seek partnerships
@@ -29,6 +30,12 @@ SAIS.Technology S2S is built to provide that balance of understanding. It engage
 We believe we can take the SAIS ethos and apply it to technological change: educating generalists, continuously adapting theory to enlighten decision-making, asking hard ethical questions and providing a holistic framework for integrating technological developements into policymaking. 
 
 Throghout their careers Nitze and Herter have succeded at doing what we hope to help students do - embrace change to advance the values of an open and stable world. 
+
+## How we got here
+
+Before starting SAIS.Technology S2S we founded the SAIS Technology Career Club in February 2018. We reached 100+ memners, or ~17% of the SAIS MA student body, within one month. 
+
+Based on students' feedback and the clearly and present importance of connecting policymakers and the technology community to develop solution frameworks for a fast changing world, we decided to expand our activities. The result is SAIS.Technology S2S. 
 
 ## What we believe about technology and global policy
 
