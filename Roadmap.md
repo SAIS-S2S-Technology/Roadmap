@@ -90,7 +90,7 @@ We see our 'products' as a set of tools. They should be used as needed and re-bu
 
 * **Distributed career guide:** The distributed career guide opens a window into careers in technology that draw on a SAIS skill set. The guide consists of career-focused interviews with alumni working in or with the technology sector that will be realised individually and as a compiled report. 
 
-* **Computational Applications to Policy and Strategy (CAPS) workshop:** CAPS is a semester-long weekly workshop focused on exposure to programming and a high-level introduction to AI and AI strategy. The goal of CAPS is to ground students strategic reasoning about AI in hands-on programming experience. Students will write and present a technical memo as the workshop's capstone. The programming is all Python and focuses on the python-sc2 bot-developement environment for the online strategy game StarCraft II. 
+* **Computational Applications to Policy and Strategy (CAPS) workshop:** CAPS is a semester-long weekly workshop that aims to introduce students to AI and and ground that experience in hands-on programming. The programming is done in Python and focuses on the python-sc2 bot-developement environment for the online strategy game StarCraft II. Students write and present a technical memo as the workshop's capstone. 
 
 ### Advancement
 
