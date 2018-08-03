@@ -33,9 +33,9 @@ Throghout their careers Nitze and Herter have succeded at doing what we hope to 
 
 ## How we got here
 
-Before starting SAIS.Technology S2S we founded the SAIS Technology Career Club in February 2018. We reached 100+ memners, or ~17% of the SAIS MA student body, within one month. 
+In February 2018 we founded the SAIS Technology Career Club. We reached 100+ memners, or ~17% of the SAIS MA student body, within one month. We held events on cyber and information security, taught a lot of Python and wrote a lot of newsletters. Based on students' feedback and our firm belief in the opportunities of connecting policymakers and the technology community to develop solution frameworks for a fast changing world, we decided to expand our activities. 
 
-Based on students' feedback and the clearly and present importance of connecting policymakers and the technology community to develop solution frameworks for a fast changing world, we decided to expand our activities. The result is SAIS.Technology S2S. 
+The result is SAIS.Technology S2S. 
 
 ## What we believe about technology and global policy
 
