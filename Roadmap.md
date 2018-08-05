@@ -13,7 +13,7 @@
 
 ## How to read this roadmap
 
-This roadmap is detailed. It helps us navigate a complex landscape. As we continue to explore, the map will get updated and parts of it will change in the process. But this roadmap always represents our current thinking and we have worked hard to articulate it as best as we can. 
+This roadmap is detailed. It helps us navigate a complex landscape and build our operations. As we continue to explore the conjecture of global policy and technology, the map will get updated and parts of it will change in the process. But this roadmap always represents our current thinking. We have worked hard to lay things out as best as we can. 
 
 Hence, we hope this roadmap guides you as much as it guides us. There is no need to read all the sections (although we encourage you to do that). Just pick the section that is most relevant to you.
 
@@ -204,11 +204,11 @@ At the moment, here is how you can reach us:
 
 ### Thank you
 
-Time flies. We all want to spend our time on things that matter. 
+Time flies and we all want to spend our time on things that matter. 
 
 If you spent time reading this roadmap to learn about SAIS S2S Technology, we are grateful to you and sincerely hope you gained something out of it. 
 
-So, whether we'll end up working together or not -- thanks from the team!
+So, whether we'll end up working together or not -- thanks from the SAIS S2S Technology team!
 
 
 
