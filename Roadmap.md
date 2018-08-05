@@ -150,7 +150,7 @@ In addition, we provide a short documentation of our progress below, which we up
 
 How to read this documentation: 
 
-`['example task'] - 'deadline' -  ('completed', 'completed') - ('not completed', 'not completed') - ' % completed'` 
+`['example task'] - 'deadline' - <br/> ('completed', 'completed') - ('not completed', 'not completed') - ' % completed'` 
 
 Documentation of our operations:
 
