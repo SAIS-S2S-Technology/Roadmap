@@ -116,28 +116,15 @@ It's why we connect students at SAIS passionate about global policy and technolo
 
 It's why our web presence is on GitHub. We firmly believe in GitHub's open-source culture and hope to engage deeply with its  community by opening our tools to broad collaborations. 
 
-And it's why we strive to build parternships with our alumni and leaders in the policy and technology communities. We are convinced that our mission serves an important purpose and that this purpose is shared by the leaders and companies we admire. To navigatie the complex landscape of technological change and continously advance our mission, advice and guidance are invaluable to us. In our partnerships we seek this advice and guidance. In return, we offer first-hand access to 600 experienced post-grad global policy students looking to make an impact in a fast-changing world, 
+And it's why we strive to build parternships with our alumni and leaders in the policy and technology communities. We are convinced that our mission serves an important purpose and that this purpose is shared by the leaders and companies we admire. To navigatie the complex landscape of technological change and continously advance our mission, advice and guidance are invaluable to us. In our partnerships we seek this advice and guidance. In return, we offer first-hand access to 600 experienced post-grad global policy students looking to make an impact in a fast-changing world. 
 
-Here is how we want to partner with you:
+Here is how we want to partner with you (please also refer to the presentations for potential adviser and alumni):
 
-
-
-
-
-that we share this purpose with the leaders and companies we admire.
+If you are a potential adviser:
 
 
+If you are an alumni:
 
-and ensure that these connections can draw on a rich educational environment. 
-We're on GitHub because we strive to engage deeply with its open-source community and collaborative spirit. And we aim to build these connections with our alumni and leaders in the technology and policy communties. 
-
-And we 
-
-
-We seek partnerships because we believe SAIS students can make a substantial difference in a world driven by rapid technological change. We believe in the potential of each student and we want to ensure that this potential gets out into the world. Building meaningful connections between the policy and technology communities is hard -- forming partnerships with leaders in policy and technology and benefiting from their advice is the logical step and our best chance to succeed. 
-
-
-Our mission is to integrate technology into the advancement of an open and stable world and we belief that this mission 
 
 
 
