@@ -16,7 +16,7 @@ We aim for our work to contribute towards greater collaboration between the publ
 
 We operate on a model of distributed learning — we teach from student to student and transfer knowledge through tools that are [built collaboratively, deployed fast and improved continously](http://agilemanifesto.org/principles.html). We are passionate about optimizing our learning to thrive in an environment defined by low ressources, limited time and a fast evolving subject -- artificial intelligence and emerging information technology paradigms. 
 
-For details on our products and tools and the rationale behind them, please refer to this chapter of the roadmap.  
+For details on our products and tools and the rationale behind them, please refer to the [product section] of the roadmap.  
 
 Here is a breakdown of our operations:
 
@@ -29,11 +29,17 @@ Here is a breakdown of our operations:
 * Research opportunities
 
 
-### How to proceed from here
+### You are part of this
+
+We are a collaborative platform and we want to engage with you.
 
 If you are a **potential adviser**, please refer to the [adviser presentation](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/ADVISER%20deck.pdf). 
 
 If you are a **SAIS alumni**, please refer to the [alumni presentation](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/ALUMNI%20deck.pdf). 
+
+If you are a **SAIS student**, please refer to the [student section] of the raodmap.
+
+For additional information on our partnerships, please refer to the [partnership section] of the roadmap. 
 
 We greatly appreciate that you are taking the time to learn about us and hope that this information is useful to you. 
 
