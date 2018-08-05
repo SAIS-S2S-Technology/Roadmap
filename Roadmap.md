@@ -140,16 +140,30 @@ As a SAIS alumni working in or with the technology sector you have achieved what
 * In addition, we need targeted alumni donations to SAIS to augment our school allocated budget of USD 150 (one hundred fifty) per semester. While we work hard to achieve our goals with minimal resources, alumni donations allow us to maintain and eventually grow SAIS S2S Technology.
 * We offer you the chance to impact first-hand how SAIS students engage their future and leverage your background to shape a rising community working on an important mission 
 
-Please do not hesitate to contact us for further details. For a slide deck on our partnership, please refer to the [alumni deck]. As current students we greatly appreciate the chance to learn from SAIS thriving alumni community and are excited to join its ranks once we graduate.
-
-
-
-
-
-
+Please do not hesitate to contact us for further details. For a slide deck on our partnership, please refer to the [alumni deck]. As current SAIS students we greatly appreciate the chance to learn from our accomplished alumni and look forward to joining their ranks once we graduate.
 
 ## Progress
- 
+
+We track our progress through ZenHub and invite you to join for continuous updates on our operations. Please contact us if we can assisst you on this. 
+
+In addition, we provide a short documentation of our progress below, which we update regularly.
+
+How to read this documentation: 
+
+`['example task'] - 'deadline' - ('completed', 'completed') - ('not completed', 'not completed') - ' aprx. % completed'` 
+
+Documentation of our operations:
+
+`[Fall18 semester start] - SEP 04 - () - () - ''
+[Web presence] - SEP 04 - (GitHub setup, read me, roadmap, readinglist, ZenHub) - (Jekyll blog, official email, logo) - 70%
+[Team builiding session] - AUG 25 - (prepare agenda) - (find date, book room) - 25%
+[CAPS workshop] - SEP 04 - (2/10 slide sets, syllabus) - (8/10 slide sets, guest lecture, capstone host, upload to Git) - 10%
+[Recruitment] - SEP 18 - (contact 1/3 current students) - (contact 5/5 new students, host welcome session, print flyers) - 10%
+[Conference, December] - ongoing - (outline focus) - (finalize program and date, contact speakers, web presence, book room) - 5%
+[Fundraising] - ongoing - () - (receive alumni donations to augment USD 150 budget, place add in SAIS alumni magazine) - 0%
+[Partnerships] - ongoing - () - (contact 25/25 alumni, 5/5 potential advisers) - 0%
+[Global Scope blog] - ongoing - () - (report on OpenAI Five, ongoing events) - na%`
+
 ## Contacting us
 
 
