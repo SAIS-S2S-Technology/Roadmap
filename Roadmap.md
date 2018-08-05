@@ -14,7 +14,7 @@
 
 We are located at and funded by the Johns Hopkins Paul H. Nitze School of Advanced International Studies (SAIS). Our official status at SAIS is that of a student organization and we are funded under the corresponding terms [link to partnerships].
 
-We appreciate the opportunity to act as part of the SAIS community. For more than 75 years SAIS has been a pioneer in international relations and international economics education. Emphasizing theory as well as practice, SAIS has graduated a highly diverse group of over 20,000 alumni with careers spanning academia, entrepreneurship, non-governmental organizations and diplomacy. In its pursuit to educate global leaders, SAIS is guided by the vision of its founders, Paul H. Nitze and Christian A. Herter who sought new methods of preparing men and women to cope with the international responsibilities arising at end of World War II. As accelerating technological progress is changing the geopolitical landscape, the founding vision of Nitze and Herter has inspired us to create SAIS.Technology S2S.
+We appreciate the opportunity to act as part of the SAIS community. For more than 75 years SAIS has been a pioneer in international relations and international economics education. Emphasizing theory as well as practice, SAIS has graduated a highly diverse group of over 20,000 alumni with careers spanning academia, entrepreneurship, non-governmental organizations and diplomacy. In its pursuit to educate global leaders, SAIS is guided by the vision of its founders, Paul H. Nitze and Christian A. Herter who sought new methods of preparing men and women to cope with the international responsibilities arising at end of World War II. As accelerating technological progress is changing the geopolitical landscape, the founding vision of Nitze and Herter has inspired us to create SAIS S2S Technology.
 
 Through his work in the Strategic Arms Limitation Talks (SALT), Paul Nitze gained deep experience with many of the challenges that have come to shape today's discussions on global policy and technological progress. In response, Nitze developed four themes that closely guide our thinking:
 
@@ -23,19 +23,17 @@ Through his work in the Strategic Arms Limitation Talks (SALT), Paul Nitze gaine
 * Guarantee that an ethical framework guides and gives meaning to analysis without reducing complexity
 * Advance a holistic strategy for the adaption of new technologies as they are being developed
 
-So why is SAIS.Technology S2S a valuable addition to the SAIS community? The geopolitical knowledge and strategic skill set of SAIS students provide critical assets in resolving some of the core challenges of a changing world. The continuous application and transfer of these assets depends on understanding and adapting to meaningful trends early. These trends are often complex and - from the perspective of policymaking - embedded in a broader set of concerns. So adaption first requires a balance of understanding that places new trends within the existing set of concerns.
+So why is SAIS S2S Technology a valuable addition to the SAIS community? The geopolitical knowledge and strategic skill set of SAIS students provide critical assets in resolving some of the core challenges of a changing world. The continuous application and transfer of these assets depends on understanding and adapting to meaningful trends early. These trends are often complex and - from the perspective of policymaking - embedded in a broader set of concerns. So adaption first requires a balance of understanding that aligns new trends with the existing concerns.
 
-SAIS.Technology S2S is built to provide that balance of understanding. It engages one of the most persistent trends in recent years -- emergent information technology paradigms and AI technologies -- and provides a model of distributed, student-to-student (S2S) learning that prioritizes collaboration, rapid application of knowledge and continual optimization of learning. 
+SAIS S2S Technology is built to provide that balance of understanding. It engages one of the most persistent trends in recent years -- emergent information technology paradigms and AI technologies -- and provides a model of distributed, student-to-student (S2S) learning that prioritizes collaboration, rapid application of knowledge and continual optimization of learning. 
 
-We believe we can take the SAIS ethos and apply it to technological change: educating generalists, continuously adapting theory to enlighten decision-making, asking hard ethical questions and providing a holistic framework for integrating technological developements into policymaking. 
+We believe we can take the SAIS ethos and apply it to technological change: educating generalists, continuously adjusting theory to enlighten decision-making, asking hard ethical questions and providing a holistic framework for integrating technological developements into policymaking. 
 
 Throghout their careers Nitze and Herter have succeded at doing what we hope to help students do - embrace change to advance the values of an open and stable world. 
 
 ## How we got here
 
-In February 2018 we founded the SAIS Technology Career Club. We reached 100+ memners, or ~17% of the SAIS MA student body, within one month. We held events on cyber and information security, taught a lot of Python and wrote a lot of newsletters. Based on students' feedback and our firm belief in the opportunities of connecting policymakers and the technology community to develop solution frameworks for a fast changing world, we decided to expand our activities. 
-
-The result is SAIS.Technology S2S. 
+In February 2018 we founded the SAIS Technology Career Club. We reached 100+ members, or ~17% of the SAIS MA student body, within one month. We held events on cyber and information security, taught a lot of Python and wrote a lot of newsletters. Based on students' feedback and our firm belief in the opportunities of connecting policymakers and the technology community to develop solution frameworks for a fast changing world, we decided to expand our activities. The result is SAIS S2S Technology. 
 
 ## What we believe about technology and global policy
 
@@ -68,17 +66,21 @@ We believe it is vital that the policy community is prepared to adapt to these n
 
 ## How we build and transfer knowledge
 
-SAIS.Technology S2S is built around student-to-student (S2S) learning model and draws on a distributed set of tools. Our work is dedicated to continously finding better solutions to one problem: transfering a complex, technical subject to graduate students who have no background in the field and limited time to read up on the fundamentals. 
+SAIS S2S Technology is built around student-to-student (S2S) learning model and draws on a distributed set of tools. Our work is dedicated to continously finding better solutions to one problem: transfering a complex, technical subject to graduate students who have no background in the field and limited time to read up on the fundamentals. 
 
-This problem works as the engine of SAIS.Technology S2S -- it enables and validates our educational model. Why? The environment we operate in -- defined by low resources, little time and a steep learning curve -- encourages us to pursue EDIT STRIVE TO ALIGN WITH the adaptive workflows of software developement. We believe that experience with these workflows facilitates adapting to technological advancements more broadly. Here's how we strive to engage adaptive developer workflows:
+This problem works as the engine of SAIS S2S Technology. To deal with our resource constraints and provide educational value both fast and continuously, we strive to align our teching model with [modern software developer workflows](http://agilemanifesto.org/). Hence our resource constrains work as our engine -- we believe that experience with workflows defined around rapid application development and agile concepts are a fundamental part of the technological advancements reshaping our world. 
 
-We do not start the semester with a finished, unified educational product such as a lecture. Instead, we provide students with a set of prototypes that will evolve from basic functionality to a tailored, useful product as the semester progresses and -- on a longer horizon -- as SAIS.Technology S2S grows over time. 
+Here's how we strive to engage these workflows:
+
+We do not start the semester with a finished, unified educational product such as a lecture. Instead, we provide students with a set of prototypes that will evolve from basic functionality to a tailored, useful product as the semester progresses and -- on a longer horizon -- as SAIS S2S Technology grows over time. 
 
 We priotize that students participating in our programming workshops build a minimum viable product fast -- outline a short memo on testing machine learning algorithms, modify a bot playing an online strategy game --,'ship' that product by presenting it in a professional context, improve based on feedback and iterate the process. 
 
-There is no clear distinction between teaching and learning in this process -- and there shouldn't be as the ability to collaborate horizontally is our most valuable ressource. 
+Importantly, there is no clear distinction between teaching and learning in this process -- and there shouldn't be as the ability to collaborate horizontally is our most valuable ressource. 
 
-We see our 'products' as a set of tools. They should be used as needed and re-build along the way. There are three groups of tools --awareness, adaption and advancement. 
+## Our products = our tools
+
+We see our 'products' as a set of tools. They should be used as needed and re-build along the way. There are three groups of tools --awareness, adaption and advancement.
 
 ### Awareness
 
@@ -108,6 +110,30 @@ We see our 'products' as a set of tools. They should be used as needed and re-bu
 
 ## Why we seek partnerships
 
+Our mission is to solve a crucial problem -- to consolidate and leverage the overlap between global policy and technology -- through collaboration. 
+
+It's why we connect students at SAIS passionate about global policy and technology. We know that if these students work together in a dedicated educational environment they can achieve great things and advance important values in a fast-changing world. 
+
+It's why our web presence is on GitHub. We firmly believe in GitHub's open-source culture and hope to engage deeply with its  community by opening our tools to broad collaborations. 
+
+And it's why we strive to build parternships with our alumni and leaders in the policy and technology communities. We are convinced that our mission serves an important purpose and that this purpose is shared by the leaders and companies we admire. To navigatie the complex landscape of technological change and continously advance our mission, advice and guidance are invaluable to us. In our partnerships we seek this advice and guidance. In return, we offer first-hand access to 600 experienced post-grad global policy students looking to make an impact in a fast-changing world, 
+
+Here is how we want to partner with you:
+
+
+
+
+
+that we share this purpose with the leaders and companies we admire.
+
+
+
+and ensure that these connections can draw on a rich educational environment. 
+We're on GitHub because we strive to engage deeply with its open-source community and collaborative spirit. And we aim to build these connections with our alumni and leaders in the technology and policy communties. 
+
+And we 
+
+
 We seek partnerships because we believe SAIS students can make a substantial difference in a world driven by rapid technological change. We believe in the potential of each student and we want to ensure that this potential gets out into the world. Building meaningful connections between the policy and technology communities is hard -- forming partnerships with leaders in policy and technology and benefiting from their advice is the logical step and our best chance to succeed. 
 
 
@@ -115,7 +141,7 @@ Our mission is to integrate technology into the advancement of an open and stabl
 
 
 
-## How we got here
+
 ## Progress
 [] 
 ## Contacting us
