@@ -156,14 +156,14 @@ Documentation of our operations:
 
 * [Fall18 semester start] - SEP 04
 * [Web presence] - SEP 04 -  (GitHub setup, read me, roadmap, readinglist, ZenHub) - (Jekyll blog, official email, logo) - 70%
-* [Team builiding session] - AUG 25 - (prepare agenda) - (find date, book room) - 25%
-* [CAPS workshop] - SEP 04 - (2/10 slide sets, syllabus) - (8/10 slide sets, guest lecture, capstone host, upload to Git) - 10%
-* [Recruitment] - SEP 18 - (contact 1/3 current students) - (contact 5/5 new students, host welcome session, print flyers) - 10%
-* [Conference, December] - ongoing - (outline focus) - (finalize program and date, contact speakers, web presence, book room) - 5%
-* [Career guide] - OCT 15 - () - (25/25 interviews, preface, additional content, layout, launch event) - 0%
-* [Fundraising] - ongoing - () - (receive alumni donations to augment USD 150 budget, place add in SAIS alumni magazine) - 0%
-* [Partnerships] - ongoing - () - (contact 25/25 alumni, 5/5 potential advisers) - 0%
-* [Global Scope blog] - ongoing - () - (report on OpenAI Five, ongoing events) - na
+* [Team builiding session] - AUG 25 - <br/> (prepare agenda) - (find date, book room) - 25%
+* [CAPS workshop] - SEP 04 - <br/> (2/10 slide sets, syllabus) - (8/10 slide sets, guest lecture, capstone host, upload to Git) - 10%
+* [Recruitment] - SEP 18 - <br/> (contact 1/3 current students) - (contact 5/5 new students, host welcome session, print flyers) - 10%
+* [Conference, December] - ongoing - <br/> (outline focus) - (finalize program and date, contact speakers, web presence, book room) - 5%
+* [Career guide] - OCT 15 - <br/> () - (25/25 interviews, preface, additional content, layout, launch event) - 0%
+* [Fundraising] - ongoing - <br/> () - (receive alumni donations to augment USD 150 budget, place add in SAIS alumni magazine) - 0%
+* [Partnerships] - ongoing - <br/> () - (contact 25/25 alumni, 5/5 potential advisers) - 0%
+* [Global Scope blog] - ongoing - <br/> () - (report on OpenAI Five, ongoing events) - na
 
 ## Contacting us
 
