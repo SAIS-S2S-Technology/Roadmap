@@ -167,15 +167,13 @@ Documentation of our operations, sorted by level of completion, highest to lowes
 
 ## Contacting us
 
-If you would like to get in touch with us - please do so. We apreciate critical feedback, advice and strive to answer your questions on SAIS S2S Technology.
-
-So whether you are a potential adviser, SAIS alumni, current SAIS student or you just want to contribute to our operations, we look forward to talking!
+If you would like to get in touch with us -- please do so. We apreciate critical feedback and strive to answer your questions on SAIS S2S Technology. So whether you are a potential adviser, SAIS alumni, current SAIS student or you just want to contribute to our operations, we look forward to talking.
 
 At the moment, here is how you can reach us:
 
-Email: lklenne1[at] jhu.edu (This will change shortly to an official email.)
+**Email:** lklenne1[at] jhu.edu (This will change shortly to an official email.)
 
-In person: We are based at 1740 Massachusetts Ave NW, Washington, DC 20036. We are always happy to meet with you if you are in DC. 
+**In person:** We are based at 1740 Massachusetts Ave NW, Washington, DC 20036. We are always happy to meet with you if you are in DC. 
 
 ### Thank you
 
