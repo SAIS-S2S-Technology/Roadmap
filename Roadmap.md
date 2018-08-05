@@ -122,9 +122,9 @@ To navigatie the complex landscape of technological change and continously advan
 
 Here is how we want to partner with you:
 
-*Potential adviser*
+**Potential adviser**
 
-As a leader in technology or global policy you represent the 
+As a leader in technology or global policy you are at the forefront of the the change we strive to adapt to -- you are leading cutting-edge developments, building novel 
 
 * We need your expertise to adjust our tools so they best serve our mission and grow SAIS S2S Technology into a novel contribution to the tech-policy debate. 
 * We offer you the chance to impact how students at a leading global policy school learn about tech-policy, to leverage the exceptional SAIS student community for research and to advance your mission through our team in Washington, DC. 
@@ -132,9 +132,9 @@ As a leader in technology or global policy you represent the
 
 Please do not hesitate to contact us for further details. We greatly appreciate your time in considering to partner with SAIS S2S Technology. 
 
-*SAIS alumni*
+**SAIS alumni**
 
-As a SAIS alumni working in or with the technology sector, you have achieved what we hope to help students achieve -- adapt the SAIS skill set to a world driven by rapid technological advancements.
+As a SAIS alumni working in or with the technology sector you have achieved what we hope to help students achieve -- adapt the SAIS skill set to a world driven by rapid technological advancements.
 
 * We need to learn from you. To pass your knowledge onto current and future SAIS students, we conduct a career-focused interview with you. The interview will be released as part of our distributed career-guide. We also invite you to join our forming alumni board of advisers that supervises and shapes the growth of SAIS S2S Technology over time. 
 * In addition, we need targeted alumni donations to SAIS to augment our school allocated budget of USD 150 (one hundred fifty) per semester. While we work hard to achieve our goals with minimal resources, alumni donations allow us to maintain and eventually grow SAIS S2S Technology.
