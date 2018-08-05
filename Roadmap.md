@@ -150,19 +150,20 @@ In addition, we provide a short documentation of our progress below, which we up
 
 How to read this documentation: 
 
-`['example task'] - 'deadline' - ('completed', 'completed') - ('not completed', 'not completed') - ' aprx. % completed'` 
+`['example task'] - 'deadline' - ('completed', 'completed') - ('not completed', 'not completed') - ' % completed'` 
 
 Documentation of our operations:
 
-`[Fall18 semester start] - SEP 04 - () - () - ''
-[Web presence] - SEP 04 - (GitHub setup, read me, roadmap, readinglist, ZenHub) - (Jekyll blog, official email, logo) - 70%
-[Team builiding session] - AUG 25 - (prepare agenda) - (find date, book room) - 25%
-[CAPS workshop] - SEP 04 - (2/10 slide sets, syllabus) - (8/10 slide sets, guest lecture, capstone host, upload to Git) - 10%
-[Recruitment] - SEP 18 - (contact 1/3 current students) - (contact 5/5 new students, host welcome session, print flyers) - 10%
-[Conference, December] - ongoing - (outline focus) - (finalize program and date, contact speakers, web presence, book room) - 5%
-[Fundraising] - ongoing - () - (receive alumni donations to augment USD 150 budget, place add in SAIS alumni magazine) - 0%
-[Partnerships] - ongoing - () - (contact 25/25 alumni, 5/5 potential advisers) - 0%
-[Global Scope blog] - ongoing - () - (report on OpenAI Five, ongoing events) - na%`
+* [Fall18 semester start] - SEP 04 - () - () - na
+* [Web presence] - SEP 04 - (GitHub setup, read me, roadmap, readinglist, ZenHub) - (Jekyll blog, official email, logo) - 70%
+* [Team builiding session] - AUG 25 - (prepare agenda) - (find date, book room) - 25%
+* [CAPS workshop] - SEP 04 - (2/10 slide sets, syllabus) - (8/10 slide sets, guest lecture, capstone host, upload to Git) - 10%
+* [Recruitment] - SEP 18 - (contact 1/3 current students) - (contact 5/5 new students, host welcome session, print flyers) - 10%
+* [Conference, December] - ongoing - (outline focus) - (finalize program and date, contact speakers, web presence, book room) - 5%
+* [Career guide] - OCT 15 - () - (25/25 interviews, preface, additional content, layout, launch event) - 0%
+* [Fundraising] - ongoing - () - (receive alumni donations to augment USD 150 budget, place add in SAIS alumni magazine) - 0%
+* [Partnerships] - ongoing - () - (contact 25/25 alumni, 5/5 potential advisers) - 0%
+* [Global Scope blog] - ongoing - () - (report on OpenAI Five, ongoing events) - na
 
 ## Contacting us
 
