@@ -50,8 +50,8 @@ Come with a question or just to hear how we can contribute to your SAIS experien
 
 While you can find out more about our operations in the sections below, here is the roundup of how you can become a part of SAIS S2S Technology:
 
-* **Lead and contribute**. Want to drive how SAIS adapts to technological progress? Join our team. We are open, horizontal and mission-driven. Just contact us and we will find the best option for you. 
-* **Learn or teach**. Join the CAPS workshop taking place across 10 sessions in the Fall18 semester to learn about AI strategy and build and present advanced projects in Python. You can also go one step further and teach one of the CAPS sessions. 
+* **Lead and contribute**. Want to shape how SAIS adapts to technological progress? Join our team. We are open, horizontal and mission-driven. Just contact us and we will find the best option for you. 
+* **Learn or teach**. Join the CAPS workshop taking place across 10 sessions in the Fall18 semester to learn about AI strategy and build advanced projects in Python. You are also welcome to go one step further and teach one of the CAPS sessions. 
 * **Read and attend**. Subscribe to our newsletter to stay up to date on our events and receive dedicated tech-policy content.
 
 Hope to see you on campus!
