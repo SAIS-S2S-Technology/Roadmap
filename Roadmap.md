@@ -110,11 +110,13 @@ We see our 'products' as a set of tools. They should be used as needed and re-bu
 
 ## Why we seek partnerships
 
-Our mission is to solve a crucial problem -- to consolidate and leverage the overlap between global policy and technology -- through collaboration. 
+Our mission is to solve core challenges at the conjecture of technology and global policy. 
+
+We aim to solve these challenges through collaboration. 
 
 It's why we connect students at SAIS passionate about global policy and technology. We know that if these students work together in a dedicated educational environment they can achieve great things and advance important values in a fast-changing world. 
 
-It's why our web presence is on GitHub. We firmly believe in GitHub's open-source culture and hope to engage deeply with its  community by opening our tools to broad collaborations. 
+It's why our web presence is on GitHub. We firmly believe in GitHub's open-source culture and hope to engage deeply with its community by opening up our tools to broad collaborations. 
 
 And it's why we strive to build parternships with our alumni and leaders in the policy and technology communities. We are convinced that our mission serves an important purpose and that this purpose is shared by the leaders and companies we admire. To navigatie the complex landscape of technological change and continously advance our mission, advice and guidance are invaluable to us. In our partnerships, advice and guidance are what we seek. In return, we offer first-hand access to 600 experienced post-grad global policy students looking to make an impact in a fast-changing world. 
 
