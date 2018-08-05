@@ -169,7 +169,7 @@ Please do not hesitate to contact us for further details. For a slide deck on ou
 
 ## Progress
 
-We track our progress through ZenHub and invite you to join for continuous updates on our operations. Please contact us if we can assisst you on getting access to ZenHub.
+We track our progress through ZenHub and invite you to join for continuous updates on our operations. Please contact us if we can assisst you with getting access to ZenHub.
 
 In addition, we provide a short documentation of our progress below, which we update regularly.
 
