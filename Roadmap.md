@@ -167,7 +167,7 @@ Documentation of our operations, sorted by level of completion, highest to lowes
 
 ## Contacting us
 
-If you would like to get in touch with us -- please do so. We apreciate critical feedback and strive to answer your questions on SAIS S2S Technology. So whether you are a potential adviser, SAIS alumni, current SAIS student or you just want to contribute to our operations, we look forward to talking.
+If you would like to get in touch with us -- please do so. We apreciate critical feedback and strive to answer your questions on. So whether you are a potential adviser, SAIS alumni, current SAIS student or you just want to contribute to SAIS S2S Technology, we look forward to talking.
 
 At the moment, here is how you can reach us:
 
