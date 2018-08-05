@@ -124,7 +124,7 @@ Here is how we want to partner with you:
 
 **Potential adviser**
 
-As a leader in technology or global policy you are at the forefront of the the change we strive to adapt to -- you are leading cutting-edge developments, building novel 
+As a leader in technology or global policy you are at the forefront of the the change we strive to adapt to -- you build cutting-edge technology or ensure that technological advancements benefit humanity.
 
 * We need your expertise to adjust our tools so they best serve our mission and grow SAIS S2S Technology into a novel contribution to the tech-policy debate. 
 * We offer you the chance to impact how students at a leading global policy school learn about tech-policy, to leverage the exceptional SAIS student community for research and to advance your mission through our team in Washington, DC. 
