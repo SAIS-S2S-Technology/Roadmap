@@ -179,7 +179,9 @@ In person: We are based at 1740 Massachusetts Ave NW, Washington, DC 20036. We a
 
 ### Thank you
 
-Time flies. We all want to spend our time on things that matter. If you spent time reading this roadmap and learning about SAIS S2S Technology, we are grateful to you and sincerely hope you gained something out of it. So, whether we'll end up working together or not -- thanks from the team!
+Time flies. We all want to spend our time on things that matter. 
+
+If you spent time reading this roadmap to learn about SAIS S2S Technology, we are grateful to you and sincerely hope you gained something out of it. So, whether we'll end up working together or not -- thanks from the team.
 
 
 
