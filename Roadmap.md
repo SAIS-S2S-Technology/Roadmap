@@ -13,7 +13,7 @@
 
 ## How to read this roadmap
 
-This roadmap is detailed. It helps us navigate a complex landscape and build our operations. As we continue to explore the conjecture of global policy and technology, the map will get updated and parts of it will change in the process. But this roadmap always represents our current thinking. We have worked hard to lay things out as best as we can. 
+This roadmap is detailed. It helps us navigate a complex landscape and build our operations. As we continue to explore the conjecture of global policy and technology parts of the map will change in the process. But this roadmap always represents our current thinking. We have worked hard to lay things out as best as we can. 
 
 Hence, we hope this roadmap guides you as much as it guides us. There is no need to read all the sections (although we encourage you to do that). Just pick the section that is most relevant to you.
 
