@@ -46,7 +46,7 @@ Your insights are what makes SAIS a great place -- and SAIS S2S Technology is no
 
 This means you should get in touch with us. 
 
-Come with a question or just to hear how we can contribute to your SAIS experience. We know that your busy. But we think we can provide something unique and important -- and we want you to be a part of it. SAIS is a leading policy school. However, technology needs to gain more prominence in its curriculum and the larger on-campus discussions. Right now that's our job and we are excited to some great work. 
+Come with a question or just to hear how we can contribute to your SAIS experience. We know that your schedule is busy. But we think we can provide something unique and important -- and we want you to be a part of it. SAIS is a leading policy school. However, technology needs to gain more prominence in its curriculum and the larger on-campus discussions. Right now that's our job and we are excited to some great work. 
 
 While you can find out more about our operations in the sections below, here is the roundup of how you can become a part of SAIS S2S Technology:
 
