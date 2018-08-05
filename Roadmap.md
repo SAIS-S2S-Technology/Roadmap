@@ -1,10 +1,13 @@
 # SAIS.Technology S2S Roadmap
 
 ## Contents
+* How to read this roadmap
 * Our graduate school, Johns Hopkins SAIS
 * How we got here
+* For SAIS students, a short guide
 * What we believe about technology and global policy
 * How we build and transfer knowledge
+* Our products = our tools
 * Why we seek partnerships
 * Contacting us
 
@@ -33,7 +36,16 @@ Throghout their careers Nitze and Herter have succeded at doing what we hope to 
 
 ## How we got here
 
-In February 2018 we founded the SAIS Technology Career Club. We reached 100+ members, or ~17% of the SAIS MA student body, within one month. We held events on cyber and information security, taught a lot of Python and wrote a lot of newsletters. Based on students' feedback and our firm belief in the opportunities of connecting policymakers and the technology community to develop solution frameworks for a fast changing world, we decided to expand our activities. The result is SAIS S2S Technology. 
+In February 2018 we founded the SAIS Technology Career Club. We reached 100+ members, or ~17% of the SAIS MA student body, within one month. We held events on cyber and information security, taught a lot of Python and wrote a lot of newsletters. Based on students' feedback and our firm belief in the opportunities of connecting policymakers and the technology community to develop solution frameworks for a fast changing world, we decided to expand our activities. The result is SAIS S2S Technology.
+
+## For SAIS students, a short guide
+
+If you are a current SAIS student, we want to talk to you. Why? Your thoughts and insights are what makes SAIS a great place -- and SAIS S2S Technology is no different. We need your thoughts, insights, brainstorms, skepticism, passion, or concerns -- without these our mission looses its purpose. 
+
+This means you should get in touch with us. Come with a question or just to hear how we can contribute to your SAIS experience. We know that your busy. But we think we can provide something unique and important -- and we want you to be a part of it. SAIS is a leading policy school. However, technology needs to gain more prominence in its curriculum and the larger on-campus discussions. Right now that's our job and we are excited to some great work. 
+
+There is a range 
+
 
 ## What we believe about technology and global policy
 
