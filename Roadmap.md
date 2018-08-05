@@ -40,12 +40,21 @@ In February 2018 we founded the SAIS Technology Career Club. We reached 100+ mem
 
 ## For SAIS students, a short guide
 
-If you are a current SAIS student, we want to talk to you. Why? Your thoughts and insights are what makes SAIS a great place -- and SAIS S2S Technology is no different. We need your thoughts, insights, brainstorms, skepticism, passion, or concerns -- without these our mission looses its purpose. 
+If you are a current SAIS student, we want to talk to you.
 
-This means you should get in touch with us. Come with a question or just to hear how we can contribute to your SAIS experience. We know that your busy. But we think we can provide something unique and important -- and we want you to be a part of it. SAIS is a leading policy school. However, technology needs to gain more prominence in its curriculum and the larger on-campus discussions. Right now that's our job and we are excited to some great work. 
+Your insights are what makes SAIS a great place -- and SAIS S2S Technology is no different. We need your thoughts, insights, brainstorms, skepticism, passion, or concerns -- without these our mission looses its purpose. 
 
-There is a range 
+This means you should get in touch with us. 
 
+Come with a question or just to hear how we can contribute to your SAIS experience. We know that your busy. But we think we can provide something unique and important -- and we want you to be a part of it. SAIS is a leading policy school. However, technology needs to gain more prominence in its curriculum and the larger on-campus discussions. Right now that's our job and we are excited to some great work. 
+
+While you can find out more about our operations in the sections below, here is the roundup of how you can become a part of SAIS S2S Technology:
+
+* **Lead and contribute**. Want to drive how SAIS adapts to technological progress? Join our team. We are open, horizontal and mission-driven. Just contact us and we will find the best option for you. 
+* **Learn or teach**. Join the CAPS workshop taking place across 10 sessions in the Fall18 semester to learn about AI strategy and build and present advanced projects in Python. You can also go one step further and teach one of the CAPS sessions. 
+* **Read and attend**. Subscribe to our newsletter to stay up to date on our events and receive dedicated tech-policy content.
+
+Hope to see you on campus!
 
 ## What we believe about technology and global policy
 
