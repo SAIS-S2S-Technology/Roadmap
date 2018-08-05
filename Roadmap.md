@@ -122,15 +122,24 @@ Here is how we want to partner with you (please also refer to the presentations 
 
 *Potential adviser*
 
-* We need your expertise in technology or global policy to ask the right questions, adjust our tools so they best serve our mission and grow SAIS S2S Technology into a novel contribution to the tech-policy debate. 
-* We offer you the chance to directly impact how students at a leading global policy school learn about tech-policy, the opportunity to leverage the exceptional SAIS student community for research and other tasks and the continuous support of our team to advance your mission in Washington, DC. 
+* We need your expertise in technology or global policy to adjust our tools so they best serve our mission and grow SAIS S2S Technology into a novel contribution to the tech-policy debate. 
+* We offer you the chance to impact how students at a leading global policy school learn about tech-policy, to leverage the exceptional SAIS student community for research and to advance your mission through our team in Washington, DC. 
 * We understand that your time is precious. We pritotize accordingly. To streamline communications, we provide you with a quarterly report on our growth and operations. We adapt based on your feedback and advice. Importantly, this partnership is a modular process and we strive to find the structure that works best for you. 
 
 Please do not hesitate to contact us for further details. We greatly appreciate your time in considering to partner with SAIS S2S Technology. 
 
 *SAIS alumni*
 
-* As a SAIS alumni working in or with the technology sector, you are at the forefront of the change that SAIS S2S Technology is build around. You have succesfully leveraged the SAIS skill set
+* We need to learn from you. As a SAIS alumni working in or with the technology sector, you have achieved what we hope to help students achieve -- adapt the SAIS skill set to a world driven by rapid technological advancements. To learn from you we conduct a career-focused interview with you that will be compiled and released as part of our distributed career-guide. We also invite you to join our forming alumni board of advisers that supervises and shapes the growth of SAIS S2S Technology over time. 
+* In addition, we need targeted alumni donations to SAIS to augment our school allocated budget of USD 150 (one hundred fifty) per semester. While we work hard to achieve our goals with minimal resources, alumni donations are fundamental to enabling us to maintain and eventually grow SAIS S2S Technology.
+* We offer you the 
+
+
+To maintain our cycle of events and workshops
+
+
+
+To give current and future SAIS students access to your knowledge and experience, we want to conduct a career-focused interview with you, which we plan to release as a 'distributed career guide' for tech-policy. 
 
 
 
