@@ -13,6 +13,10 @@
 
 ## How to read this roadmap
 
+This roadmap is detailed. It helps us navigate a complex landscape. As we continue to explore, the map will get updated and parts of it will change in the process. But this roadmap always represents our current thinking and we have worked hard to articulate it as best as we can. 
+
+Hence, we hope this roadmap guides you as much as it guides us. There is no need to read all the sections (although we encourage you to do that). Just pick the section that is most relevant to you.
+
 ## Our graduate school, Johns Hopkins SAIS
 
 We are located at and funded by the Johns Hopkins Paul H. Nitze School of Advanced International Studies (SAIS). Our official status at SAIS is that of a student organization and we are funded under the corresponding terms [link to partnerships].
