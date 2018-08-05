@@ -204,7 +204,7 @@ At the moment, here is how you can reach us:
 
 ### Thank you
 
-Time flies. And we all want to spend our time on things that matter. 
+Time flies. We all want to spend our time on things that matter. 
 
 If you spent time reading this roadmap to learn about SAIS S2S Technology, we are grateful to you and sincerely hope you gained something out of it. 
 
