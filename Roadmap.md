@@ -130,7 +130,7 @@ As a leader in technology or global policy you are at the forefront of the the c
 * We offer you the chance to impact how students at a leading global policy school learn about tech-policy, to leverage the exceptional SAIS student community for research and to advance your mission through our team in Washington, DC. 
 * We understand that your time is precious. We pritotize accordingly. To streamline communications, we provide you with a quarterly report on our growth and operations. We adapt based on your feedback and advice. Importantly, this partnership is a modular process and we strive to find the structure that works best for you. 
 
-Please do not hesitate to contact us for further details. We greatly appreciate your time in considering to partner with SAIS S2S Technology. 
+Please do not hesitate to contact us for further details. For a slide deck on our partnership, please refer to the [adviser deck]. We greatly appreciate your time in considering to partner with SAIS S2S Technology. 
 
 **SAIS alumni**
 
@@ -138,14 +138,10 @@ As a SAIS alumni working in or with the technology sector you have achieved what
 
 * We need to learn from you. To pass your knowledge onto current and future SAIS students, we conduct a career-focused interview with you. The interview will be released as part of our distributed career-guide. We also invite you to join our forming alumni board of advisers that supervises and shapes the growth of SAIS S2S Technology over time. 
 * In addition, we need targeted alumni donations to SAIS to augment our school allocated budget of USD 150 (one hundred fifty) per semester. While we work hard to achieve our goals with minimal resources, alumni donations allow us to maintain and eventually grow SAIS S2S Technology.
-* We offer you the chance 
+* We offer you the chance to impact first-hand how SAIS students engage their future and leverage your background to shape a rising community working on an important mission 
 
+Please do not hesitate to contact us for further details. For a slide deck on our partnership, please refer to the [alumni deck]. As current students we greatly appreciate the chance to learn from SAIS thriving alumni community and are excited to join its ranks once we graduate.
 
-To maintain our cycle of events and workshops
-
-
-
-To give current and future SAIS students access to your knowledge and experience, we want to conduct a career-focused interview with you, which we plan to release as a 'distributed career guide' for tech-policy. 
 
 
 
