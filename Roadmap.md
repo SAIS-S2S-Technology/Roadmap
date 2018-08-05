@@ -118,31 +118,27 @@ It's why our web presence is on GitHub. We firmly believe in GitHub's open-sourc
 
 And it's why we strive to build parternships with our alumni and leaders in the policy and technology communities. We are convinced that our mission serves an important purpose and that this purpose is shared by the leaders and companies we admire. To navigatie the complex landscape of technological change and continously advance our mission, advice and guidance are invaluable to us. In our partnerships, advice and guidance are what we seek. In return, we offer first-hand access to 600 experienced post-grad global policy students looking to make an impact in a fast-changing world. 
 
-Here is how we want to partner with you (please also refer to the presentations for potential adviser and alumni):
+Here is how we want to partner with you (please also refer to the presentations for potential adviser and SAIS alumni):
 
 *Potential adviser*
 
 * We need your expertise in technology or global policy to ask the right questions, adjust our tools so they best serve our mission and grow SAIS S2S Technology into a novel contribution to the tech-policy debate. 
-* We offer you the chance to impact how students at a leading global policy school learn about tech-policy, the opportunity leverage the exceptional SAIS student community for research and other tasks and the continuous support of our team to advance your mission in Washington, DC.
-* We understand that your time is precious. We pritotize accordingly. 
+* We offer you the chance to directly impact how students at a leading global policy school learn about tech-policy, the opportunity to leverage the exceptional SAIS student community for research and other tasks and the continuous support of our team to advance your mission in Washington, DC. 
+* We understand that your time is precious. We pritotize accordingly. To streamline communications, we provide you with a quarterly report on our growth and operations. We adapt based on your feedback and advice. Importantly, this partnership is a modular process and we strive to find the structure that works best for you. 
 
-ask the right questions, adjust our tools to best serve our mission and grow SAIS S2S Technology into a 
+Please do not hesitate to contact us for further details. We greatly appreciate your time in considering to partner with SAIS S2S Technology. 
 
-can help us ask the right questions, approach the right people and grow SAIS S2S Technology into a valuable contribution to 
+*SAIS alumni*
 
-*Alumni*
+* As a SAIS alumni working in or with the technology sector, you are at the forefront of the change that SAIS S2S Technology is build around. You have succesfully leveraged the SAIS skill set
 
-
-
-
-If you are an alumni:
 
 
 
 
 
 ## Progress
-[] 
+ 
 ## Contacting us
 
 
