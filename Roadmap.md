@@ -171,7 +171,7 @@ If you would like to get in touch with us -- please do so. We apreciate critical
 
 At the moment, here is how you can reach us:
 
-* **Email:** lklenne1[at] jhu.edu (This will change shortly to an official email.)
+* **Email:** Contact Leo Klenner at lklenne1[at] jhu.edu (This will change shortly to an official email.)
 
 * **LinkedIn:** Get in touch on LinkedIn. You can find our accounts [here].
 
