@@ -150,12 +150,12 @@ In addition, we provide a short documentation of our progress below, which we up
 
 How to read this documentation: 
 
-`['example task'] - 'deadline' - ('completed', 'completed') - ('not completed', 'not completed') - ' % completed'` 
+`['example task'] - 'deadline' -  ('completed', 'completed') - ('not completed', 'not completed') - ' % completed'` 
 
 Documentation of our operations:
 
-* [Fall18 semester start] - SEP 04 - () - () - na
-* [Web presence] - SEP 04 - (GitHub setup, read me, roadmap, readinglist, ZenHub) - (Jekyll blog, official email, logo) - 70%
+* [Fall18 semester start] - SEP 04
+* [Web presence] - SEP 04 -  (GitHub setup, read me, roadmap, readinglist, ZenHub) - (Jekyll blog, official email, logo) - 70%
 * [Team builiding session] - AUG 25 - (prepare agenda) - (find date, book room) - 25%
 * [CAPS workshop] - SEP 04 - (2/10 slide sets, syllabus) - (8/10 slide sets, guest lecture, capstone host, upload to Git) - 10%
 * [Recruitment] - SEP 18 - (contact 1/3 current students) - (contact 5/5 new students, host welcome session, print flyers) - 10%
