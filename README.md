@@ -37,7 +37,7 @@ If you are a **potential adviser**, please refer to the [adviser presentation](h
 
 If you are a **SAIS alumni**, please refer to the [alumni presentation](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/ALUMNI%20deck.pdf). 
 
-If you are a **SAIS student**, please refer to the [student section] of the raodmap.
+If you are a **SAIS student**, please refer to the [student section] of the raodmap. We welcome studnets who want to teach, learn or contribute to SAIS S2S Technology. 
 
 We understand that our partners' time is precious. We prioritize accordingly and provide a streamlined communications process. For additional information on our partnerships, please refer to the [partnership section] of the roadmap. 
 
