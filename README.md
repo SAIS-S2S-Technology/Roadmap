@@ -16,9 +16,17 @@ We aim for our work to contribute towards greater collaboration between the publ
 
 We operate on a model of distributed learning — we teach from student to student and transfer knowledge through tools that are [built collaboratively, deployed fast and improved continously](http://agilemanifesto.org/principles.html). We are passionate about optimizing our learning to thrive in an environment defined by low ressources, limited time and a fast evolving subject -- artificial intelligence and emerging information technology paradigms. 
 
-#### list of things we do
+For details on our products and tools and the rationale behind them, please refer to this chapter of the roadmap.  
 
-For **general information** on SAIS S2S Technology, please refer to the [roadmap]. 
+Here is a breakdown of our operations:
+
+* Newsletter
+* Global Scope blog
+* Events and conferences
+* Distributed career guide
+* Computational Applications to Policy and Strategy (CAPS) workshop
+* Career assistance
+* Research opportunities
 
 
 ### How to proceed from here
