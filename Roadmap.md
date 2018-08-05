@@ -116,11 +116,23 @@ It's why we connect students at SAIS passionate about global policy and technolo
 
 It's why our web presence is on GitHub. We firmly believe in GitHub's open-source culture and hope to engage deeply with its  community by opening our tools to broad collaborations. 
 
-And it's why we strive to build parternships with our alumni and leaders in the policy and technology communities. We are convinced that our mission serves an important purpose and that this purpose is shared by the leaders and companies we admire. To navigatie the complex landscape of technological change and continously advance our mission, advice and guidance are invaluable to us. In our partnerships we seek this advice and guidance. In return, we offer first-hand access to 600 experienced post-grad global policy students looking to make an impact in a fast-changing world. 
+And it's why we strive to build parternships with our alumni and leaders in the policy and technology communities. We are convinced that our mission serves an important purpose and that this purpose is shared by the leaders and companies we admire. To navigatie the complex landscape of technological change and continously advance our mission, advice and guidance are invaluable to us. In our partnerships, advice and guidance are what we seek. In return, we offer first-hand access to 600 experienced post-grad global policy students looking to make an impact in a fast-changing world. 
 
 Here is how we want to partner with you (please also refer to the presentations for potential adviser and alumni):
 
-If you are a potential adviser:
+*Potential adviser*
+
+* We need your expertise in technology or global policy to ask the right questions, adjust our tools so they best serve our mission and grow SAIS S2S Technology into a novel contribution to the tech-policy debate. 
+* We offer you the chance to impact how students at a leading global policy school learn about tech-policy, the opportunity leverage the exceptional SAIS student community for research and other tasks and the continuous support of our team to advance your mission in Washington, DC.
+* We understand that your time is precious. We pritotize accordingly. 
+
+ask the right questions, adjust our tools to best serve our mission and grow SAIS S2S Technology into a 
+
+can help us ask the right questions, approach the right people and grow SAIS S2S Technology into a valuable contribution to 
+
+*Alumni*
+
+
 
 
 If you are an alumni:
