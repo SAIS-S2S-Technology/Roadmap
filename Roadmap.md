@@ -106,7 +106,7 @@ Importantly, there is no clear distinction between teaching and learning in this
 
 ## Our products = our tools
 
-We see our 'products' as a set of tools. They should be used as needed and re-build along the way. There are three groups of tools —awareness, adaption and advancement.
+We see our 'products' as a set of tools. They should be used as needed and rebuilt along the way. There are three groups of tools —awareness, adaption and advancement.
 
 ### Awareness
 
@@ -116,7 +116,7 @@ We see our 'products' as a set of tools. They should be used as needed and re-bu
 
 * **Global Scope blog:** The Global Scope blog documents DC's views on technology through briefings on the many tech-policy events happening in the local think-tank circuit. Currently there is no streamlined, centralized, archival source on these events. We aim to change that. 
 
-* **Events and conferences:** Through  events and conferences hosted at SAIS students are engaged in conversations with leaders in the technology and policy communities.
+* **Events and conferences:** Through events and conferences hosted at SAIS, students are engaged in conversations with leaders in the technology and policy communities.
 
 ### Adaption
 
@@ -124,7 +124,7 @@ We see our 'products' as a set of tools. They should be used as needed and re-bu
 
 * **Distributed career guide:** The distributed career guide opens a window into careers in technology that draw on a SAIS skill set. The guide consists of career-focused interviews with alumni working in or with the technology sector that will be realized individually and as a compiled report. 
 
-* **Computational Applications to Policy and Strategy (CAPS) workshop:** CAPS is a semester-long weekly workshop that aims to introduce students to AI and and ground that experience in hands-on programming. The programming is done in Python and focuses on the  [python-sc2](https://github.com/Dentosal/python-sc2) bot-development environment for the online strategy game StarCraft II. Students write and present a technical memo as the workshop's capstone. 
+* **Computational Applications to Policy and Strategy (CAPS) workshop:** CAPS is a semester-long weekly workshop that aims to introduce students to AI and and ground that experience in hands-on programming. The programming is done in Python and focuses on the [python-sc2](https://github.com/Dentosal/python-sc2) bot-development environment, for the online strategy game StarCraft II. Students write and present a technical memo as the workshop's capstone. 
 
 ### Advancement
 
