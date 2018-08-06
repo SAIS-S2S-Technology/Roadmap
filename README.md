@@ -33,9 +33,9 @@ Here is a breakdown of our operations:
 
 We are a collaborative platform and we want to engage with partners who can guide and advise us. 
 
-If you are a **potential adviser**, please refer to the [adviser presentation](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/ADVISER%20deck.pdf). 
+If you are a **potential adviser**, please refer to the [adviser presentation](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/ADVISER_deck.pdf).
 
-If you are a **SAIS alumni**, please refer to the [alumni presentation](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/ALUMNI%20deck.pdf). 
+If you are a **SAIS alumni**, please refer to the [alumni presentation](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/ALUMNI_deck.pdf).
 
 If you are a **SAIS student**, please refer to the [student section](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/Roadmap.md#for-sais-students-a-short-guide) of the raodmap. We welcome studnets who want to teach, learn or contribute to SAIS S2S Technology. 
 
