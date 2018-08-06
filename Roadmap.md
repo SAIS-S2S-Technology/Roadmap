@@ -8,7 +8,7 @@
 * [How we build and transfer knowledge](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/Roadmap.md#how-we-build-and-transfer-knowledge)
 * [Our products = our tools](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/Roadmap.md#our-products--our-tools)
 * [Why we seek partnerships](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/Roadmap.md#why-we-seek-partnerships)
-* [How to track our progess](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/Roadmap.md#how-to-track-our-progress)
+* [Tracking our progess](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/Roadmap.md#tracking-our-progress)
 * [Contacting us](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/Roadmap.md#contacting-us)
 
 ## How to read this roadmap
@@ -167,7 +167,7 @@ As a SAIS alumni working in or with the technology sector you have achieved what
 
 Please do not hesitate to contact us for further details. For a slide deck on our partnership, please refer to the [alumni deck]. As current SAIS students we greatly appreciate the chance to learn from our accomplished alumni and look forward to joining their ranks once we graduate.
 
-## How to track our progress
+## Tracking our progress
 
 We will soon track our process through the [projects](https://github.com/SAIS-S2S-Technology/Roadmap/projects) section. This will provide you with clear, accessible insights into our work.
 
