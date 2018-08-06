@@ -33,7 +33,7 @@ Through his work in the Strategic Arms Limitation Talks (SALT), Paul Nitze gaine
 
 So why is SAIS S2S Technology a valuable addition to the SAIS community? The geopolitical knowledge and strategic skill set of SAIS students provide critical assets in resolving some of the core challenges of a changing world. The continuous application and transfer of these assets depends on understanding and adapting to meaningful trends early. These trends are often complex and - from the perspective of policymaking - embedded in a broader set of concerns. So adaption first requires a balance of understanding that aligns new trends with the existing concerns.
 
-SAIS S2S Technology is built to provide that balance of understanding. It engages one of the most persistent trends in recent years -- emergent information technology paradigms and AI technologies -- and provides a model of distributed, student-to-student (S2S) learning that prioritizes collaboration, rapid application of knowledge and continual optimization of learning. 
+SAIS S2S Technology is built to provide that balance of understanding. It engages one of the most persistent trends in recent years — emergent information technology paradigms and AI technologies — and provides a model of distributed, student-to-student (S2S) learning that prioritizes collaboration, rapid application of knowledge and continual optimization of learning. 
 
 We believe we can take the SAIS ethos and apply it to technological change: educating generalists, continuously adjusting theory to enlighten decision-making, asking hard ethical questions and providing a holistic framework for integrating technological developements into policymaking. 
 
@@ -47,11 +47,11 @@ In February 2018 we founded the SAIS Technology Career Club. We reached 100+ mem
 
 If you are a current SAIS student, we want to talk to you.
 
-Your insights are what makes SAIS a great place -- and SAIS S2S Technology is no different. We need your thoughts, insights, brainstorms, skepticism, passion, or concerns -- without these our mission looses its purpose. 
+Your insights are what makes SAIS a great place — and SAIS S2S Technology is no different. We need your thoughts, insights, brainstorms, skepticism, passion, or concerns — without these our mission looses its purpose. 
 
 This means you should get in touch with us. 
 
-Come with a question or just to hear how we can contribute to your SAIS experience. We know that your schedule is busy. But we think we can provide something unique and important -- and we want you to be a part of it. SAIS is a leading policy school. However, technology needs to gain more prominence in its curriculum and the larger on-campus discussions. Right now that's our job and we are excited to some great work. 
+Come with a question or just to hear how we can contribute to your SAIS experience. We know that your schedule is busy. But we think we can provide something unique and important — and we want you to be a part of it. SAIS is a leading policy school. However, technology needs to gain more prominence in its curriculum and the larger on-campus discussions. Right now that's our job and we are excited to some great work. 
 
 While you can find out more about our operations in the sections below, here is the roundup of how you can become a part of SAIS S2S Technology:
 
@@ -66,14 +66,14 @@ Hope to see you on campus!
 To know how we work, it helps to know how we think about the impact of technology on global policy. The list below captures our beliefs -- specificially those about AI technologies as they relate to strategy and the changing nature of policy work. 
 
 ### New Global Threat Streams
-AI technologies give rise to new security challenges. The challenges are both technical -- issues pertaining to AI safety such as AI alignment or adversarial examples -- and strategic -- issues pertaining to the diffusion of AI military technology or the developement of AI enabled kinetic systems in a broader sense. Additional risk factors include economic shifts following wide-spread adoption of AI technologies or the deployment of AI for scaled disinformation campaigns. 
+AI technologies give rise to new security challenges. The challenges are both technical — issues pertaining to AI safety such as AI alignment or adversarial examples — and strategic — issues pertaining to the diffusion of AI military technology or the developement of AI enabled kinetic systems in a broader sense. Additional risk factors include economic shifts following wide-spread adoption of AI technologies or the deployment of AI for scaled disinformation campaigns. 
 
 The threat landsape of AI technologies is complex. We believe that an open debate between a range of stakeholders is fundamental to navigating this landscape. Solution development should equally leverage the strengths of the policy and engeneering communities.
 
 ### Renewed Need for Cooperation
 The adoption of AI technologies offers renewed need for international cooperation. To mitigate core risks and leverage fundamental opportunities, existing multilateral frameworks offer a platform that can guide the development and deployment of AI technologies. Importantly, cooperation should be purused against the obstacles that multilateral approaches face in the present environment. 
 
-We believe in the approximate realization of a multilateral approach to AI technologies. Some aspects of existing frameworks may not be suitable for governance of AI and may need to be adjusted accordingly. But international cooperation -- to the extent that it is possible -- is invaluable in guiding how AI technologies are best integrated into the geopolitcal environment. 
+We believe in the approximate realization of a multilateral approach to AI technologies. Some aspects of existing frameworks may not be suitable for governance of AI and may need to be adjusted accordingly. But international cooperation — to the extent that it is possible — is invaluable in guiding how AI technologies are best integrated into the geopolitcal environment. 
 
 ### Applications of Global Policy Domain Expertise
 It is vital that the developement and deployment of AI technologies is complemented by a rigorous ethical debate. From this debate has emerged the important proposal of fair, accountable and transparent (FAT) AI. FAT lays out rules of engagement for AI models that yield decision-relvant information in critical environments. An additional layer of this debate is compromised of research on the explainability or interpretability of AI models. In both cases, global policy can offer valuable domain expertise as it often evolves around making hard, justifiable decisions in uncertain environments.   
@@ -81,9 +81,9 @@ It is vital that the developement and deployment of AI technologies is complemen
 We believe it is crucial that the policy community develops clear proposals for translating its domain expertise into the debates surrounding AI technologies. Acting on the scale of geopolitics demands adherence to ethical standards in a highly operational context. Thhis connection - between ethics and operations - holds important insights for the debates on the ethical deployment of AI. 
 
 ### Reconceptualization of Policy Theory
-The policy community can draw on a range of well-tested conceputal tools to build and evaluate its decisions. Some of these tools -- such as game theory -- offer valuable points of contact with the engeneering behind AI technologies. Research should explore and consolidate this overlap. Other tools -- such as grand strategy or deterrence theory -- are unrelated to aspects of engineering but offer frameworks for determining the impact of AI on the geopolitical landscape. 
+The policy community can draw on a range of well-tested conceputal tools to build and evaluate its decisions. Some of these tools — such as game theory — offer valuable points of contact with the engeneering behind AI technologies. Research should explore and consolidate this overlap. Other tools — such as grand strategy or deterrence theory — are unrelated to aspects of engineering but offer frameworks for determining the impact of AI on the geopolitical landscape. 
 
-We believe it is vital for research efforts to closely integrate both of these tools. Policy theory should not only be capable of framing AI technologies through established concepts but also capable of adjusting these concepts -- granually or fundamentally -- to provide continued support for decision-making.
+We believe it is vital for research efforts to closely integrate both of these tools. Policy theory should not only be capable of framing AI technologies through established concepts but also capable of adjusting these concepts — granually or fundamentally — to provide continued support for decision-making.
 
 ### Changing Workflows of Policymaking
 AI technologies will change how humans work. We believe that the policy community is no exception. This will lead to new workflows for the top and ground layers of policy work. New workflows will likely involve basing decisions on a continuous stream of quantitative data and automating away tasks through software. Arguably, much of this work will be done in collaboration with autonomous software. 
@@ -94,19 +94,19 @@ We believe it is vital that the policy community is prepared to adapt to these n
 
 SAIS S2S Technology is built around student-to-student (S2S) learning model and draws on a distributed set of tools. Our work is dedicated to continously finding better solutions to one problem: transfering a complex, technical subject to graduate students who have no background in the field and limited time to read up on the fundamentals. 
 
-This problem works as the engine of SAIS S2S Technology. To deal with our resource constraints and provide educational value both fast and continuously, we strive to align our teching model with [modern software developer workflows](http://agilemanifesto.org/). Hence our resource constrains work as our engine -- we believe that experience with workflows defined around rapid application development and agile concepts are a fundamental part of the technological advancements reshaping our world. 
+This problem works as the engine of SAIS S2S Technology. To deal with our resource constraints and provide educational value both fast and continuously, we strive to align our teching model with [modern software developer workflows](http://agilemanifesto.org/). Hence our resource constrains work as our engine — we believe that experience with workflows defined around rapid application development and agile concepts are a fundamental part of the technological advancements reshaping our world. 
 
 Here's how we strive to engage these workflows:
 
-We do not start the semester with a finished, unified educational product such as a lecture. Instead, we provide students with a set of prototypes that will evolve from basic functionality to a tailored, useful product as the semester progresses and -- on a longer horizon -- as SAIS S2S Technology grows over time. 
+We do not start the semester with a finished, unified educational product such as a lecture. Instead, we provide students with a set of prototypes that will evolve from basic functionality to a tailored, useful product as the semester progresses and — on a longer horizon — as SAIS S2S Technology grows over time. 
 
-We priotize that students participating in our programming workshops build a minimum viable product fast -- outline a short memo on testing machine learning algorithms, modify a bot playing an online strategy game --,'ship' that product by presenting it in a professional context, improve based on feedback and iterate the process. 
+We priotize that students participating in our programming workshops build a minimum viable product fast — outline a short memo on testing machine learning algorithms, modify a bot playing an online strategy game —,'ship' that product by presenting it in a professional context, improve based on feedback and iterate the process. 
 
-Importantly, there is no clear distinction between teaching and learning in this process -- and there shouldn't be as the ability to collaborate horizontally is our most valuable ressource. 
+Importantly, there is no clear distinction between teaching and learning in this process — and there shouldn't be as the ability to collaborate horizontally is our most valuable ressource. 
 
 ## Our products = our tools
 
-We see our 'products' as a set of tools. They should be used as needed and re-build along the way. There are three groups of tools --awareness, adaption and advancement.
+We see our 'products' as a set of tools. They should be used as needed and re-build along the way. There are three groups of tools —awareness, adaption and advancement.
 
 ### Awareness
 
@@ -150,7 +150,7 @@ Here is how we want to partner with you:
 
 **Potential adviser**
 
-As a leader in technology or global policy you are at the forefront of the the change we strive to adapt to -- you build cutting-edge technology or ensure that technological advancements benefit humanity.
+As a leader in technology or global policy you are at the forefront of the the change we strive to adapt to — you build cutting-edge technology or ensure that technological advancements benefit humanity.
 
 * We need your expertise to adjust our tools so they best serve our mission and grow SAIS S2S Technology into a novel contribution to the tech-policy debate. 
 * We offer you the chance to impact how students at a leading global policy school learn about tech-policy, to leverage the exceptional SAIS student community for research and to advance your mission through our team in Washington, DC. 
@@ -160,7 +160,7 @@ Please do not hesitate to contact us for further details. For a slide deck on ou
 
 **SAIS alumni**
 
-As a SAIS alumni working in or with the technology sector you have achieved what we hope to help students achieve -- adapt the SAIS skill set to a world driven by rapid technological advancements.
+As a SAIS alumni working in or with the technology sector you have achieved what we hope to help students achieve — adapt the SAIS skill set to a world driven by rapid technological advancements.
 
 * We need to learn from you. To pass your knowledge onto current and future SAIS students, we conduct a career-focused interview with you. The interview will be released as part of our distributed career-guide. We also invite you to join our forming alumni board of advisers that supervises and shapes the growth of SAIS S2S Technology over time. 
 * In addition, we need targeted alumni donations to SAIS to augment our school allocated budget of USD 150 (one hundred fifty) per semester. While we work hard to achieve our goals with minimal resources, alumni donations allow us to maintain and eventually grow SAIS S2S Technology.
@@ -193,13 +193,13 @@ Documentation of our operations, sorted by level of completion, highest to lowes
 
 ## Contacting us
 
-If you would like to get in touch with us -- please do so. We apreciate critical feedback and strive to answer your questions on. So whether you are a potential adviser, SAIS alumni, current SAIS student or you just want to contribute to SAIS S2S Technology, we look forward to talking.
+If you would like to get in touch with us — please do so. We apreciate critical feedback and strive to answer your questions on. So whether you are a potential adviser, SAIS alumni, current SAIS student or you just want to contribute to SAIS S2S Technology, we look forward to talking.
 
 At the moment, here is how you can reach us:
 
 * **Email:** Contact Leo Klenner at lklenne1[at] jhu.edu (This will change shortly to an official email.)
 
-* **LinkedIn:** Get in touch on LinkedIn. You can find our accounts [here].
+* **LinkedIn:** Get in touch on LinkedIn. You can find our accounts [here](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/README.md#who-we-are).
 
 * **In person:** We are based at [1740 Massachusetts Ave. NW, Washington, DC](https://www.google.com/maps/place/1740+Massachusetts+Ave+NW,+Washington,+DC+20036/@38.90813,-77.0424677,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7b7c73f5c1699:0xe6712ae3855d83b2!8m2!3d38.90813!4d-77.040279). We are always happy to meet with you if you are in DC. 
 
@@ -209,7 +209,7 @@ Time flies and we all want to spend our time on things that matter.
 
 If you spent time reading this roadmap to learn about SAIS S2S Technology, we are grateful to you and sincerely hope you gained something out of it. 
 
-So, whether we'll end up working together or not -- thanks from the SAIS S2S Technology team!
+So, whether we'll end up working together or not — thanks from the SAIS S2S Technology team!
 
 
 
