@@ -66,7 +66,7 @@ Hope to see you on campus!
 To know how we work, it helps to know how we think about the impact of technology on global policy. The list below captures our beliefs — specificially those about AI technologies as they relate to strategy and the changing nature of policy work. 
 
 ### New Global Threat Streams
-AI technologies give rise to new security challenges. The challenges are both technical — issues pertaining to AI safety such as AI alignment or adversarial examples — and strategic — issues pertaining to the diffusion of AI military technology or the developement of AI enabled kinetic systems in a broader sense. Additional risk factors include economic shifts following wide-spread adoption of AI technologies or the deployment of AI for scaled disinformation campaigns. 
+AI technologies give rise to new security challenges. The challenges are both technical — issues pertaining to AI safety such as [AI alignment](https://intelligence.org/files/ai-alignment-problem-handoutHQ.pdf) or [adversarial examples](https://blog.openai.com/adversarial-example-research/) — and strategic — issues pertaining to the [diffusion](https://www.cnas.org/publications/reports/technology-roulette) of AI military technology or the developement of AI enabled kinetic systems in a broader sense. Additional risk factors include economic shifts following wide-spread adoption of AI technologies or the deployment of AI for scaled disinformation campaigns.
 
 The threat landsape of AI technologies is complex. We believe that an open debate between a range of stakeholders is fundamental to navigating this landscape. Solution development should equally leverage the strengths of the policy and engeneering communities.
 
@@ -76,25 +76,25 @@ The adoption of AI technologies offers renewed need for international cooperatio
 We believe in the approximate realization of a multilateral approach to AI technologies. Some aspects of existing frameworks may not be suitable for governance of AI and may need to be adjusted accordingly. But international cooperation — to the extent that it is possible — is invaluable in guiding how AI technologies are best integrated into the geopolitcal environment. 
 
 ### Applications of Global Policy Domain Expertise
-It is vital that the developement and deployment of AI technologies is complemented by a rigorous ethical debate. From this debate has emerged the important proposal of fair, accountable and transparent (FAT) AI. FAT lays out rules of engagement for AI models that yield decision-relvant information in critical environments. An additional layer of this debate is compromised of research on the explainability or interpretability of AI models. In both cases, global policy can offer valuable domain expertise as it often evolves around making hard, justifiable decisions in uncertain environments.   
+It is vital that the developement and deployment of AI technologies is complemented by a rigorous ethical debate. From this debate has emerged the important proposal of [fair, accountable and transparent (FAT)](https://www.fatml.org/) AI. FAT lays out rules of engagement for AI models that yield decision-relvant information in critical environments. An additional layer of this debate is compromised of research on the [explainability](https://arxiv.org/pdf/1710.00794.pdf) or [interpretability](https://arxiv.org/pdf/1606.03490.pdf) of AI models. In both cases, global policy can offer valuable domain expertise as it often evolves around making hard, justifiable decisions in uncertain environments. 
 
 We believe it is crucial that the policy community develops clear proposals for translating its domain expertise into the debates surrounding AI technologies. Acting on the scale of geopolitics demands adherence to ethical standards in a highly operational context. Thhis connection - between ethics and operations - holds important insights for the debates on the ethical deployment of AI. 
 
 ### Reconceptualization of Policy Theory
-The policy community can draw on a range of well-tested conceputal tools to build and evaluate its decisions. Some of these tools — such as game theory — offer valuable points of contact with the engeneering behind AI technologies. Research should explore and consolidate this overlap. Other tools — such as grand strategy or deterrence theory — are unrelated to aspects of engineering but offer frameworks for determining the impact of AI on the geopolitical landscape. 
+The policy community can draw on a range of well-tested conceputal tools to build and evaluate its decisions. Some of these tools — such as game theory — offer valuable [points of contact](https://www2.cs.duke.edu/courses/fall08/cps270/cps270_game_theory.pdf) with the engeneering behind AI technologies. Research should explore and consolidate this overlap. Other tools — such as grand strategy or deterrence theory — are unrelated to aspects of engineering but offer frameworks for determining the impact of AI on the geopolitical landscape. 
 
 We believe it is vital for research efforts to closely integrate both of these tools. Policy theory should not only be capable of framing AI technologies through established concepts but also capable of adjusting these concepts — granually or fundamentally — to provide continued support for decision-making.
 
 ### Changing Workflows of Policymaking
 AI technologies will change how humans work. We believe that the policy community is no exception. This will lead to new workflows for the top and ground layers of policy work. New workflows will likely involve basing decisions on a continuous stream of quantitative data and automating away tasks through software. Arguably, much of this work will be done in collaboration with autonomous software. 
 
-We believe it is vital that the policy community is prepared to adapt to these new workflows. Recent discussions in the realm of military education present a welcome starting point. 
+We believe it is vital that the policy community is prepared to adapt to these new workflows. Recent [discussions](https://warontherocks.com/2018/07/intellectual-preparation-for-future-war-how-artificial-intelligence-will-change-professional-military-education/) in the realm of military education present a welcome starting point.
 
 ## How we build and transfer knowledge
 
 SAIS S2S Technology is built around student-to-student (S2S) learning model and draws on a distributed set of tools. Our work is dedicated to continously finding better solutions to one problem: transfering a complex, technical subject to graduate students who have no background in the field and limited time to read up on the fundamentals. 
 
-This problem works as the engine of SAIS S2S Technology. To deal with our resource constraints and provide educational value both fast and continuously, we strive to align our teching model with [modern software developer workflows](http://agilemanifesto.org/). Hence our resource constrains work as our engine — we believe that experience with workflows defined around rapid application development and agile concepts are a fundamental part of the technological advancements reshaping our world. 
+This problem works as the engine of SAIS S2S Technology. To deal with our resource constraints and provide educational value both fast and continuously, we strive to align our teching model with modern software developer [workflows](http://agilemanifesto.org/). Hence our resource constrains work as our engine — we believe that experience with workflows defined around rapid application development and agile concepts are a fundamental part of the technological advancements reshaping our world. 
 
 Here's how we strive to engage these workflows:
 
@@ -124,7 +124,7 @@ We see our 'products' as a set of tools. They should be used as needed and re-bu
 
 * **Distributed career guide:** The distributed career guide opens a window into careers in technology that draw on a SAIS skill set. The guide consists of career-focused interviews with alumni working in or with the technology sector that will be realised individually and as a compiled report. 
 
-* **Computational Applications to Policy and Strategy (CAPS) workshop:** CAPS is a semester-long weekly workshop that aims to introduce students to AI and and ground that experience in hands-on programming. The programming is done in Python and focuses on the python-sc2 bot-developement environment for the online strategy game StarCraft II. Students write and present a technical memo as the workshop's capstone. 
+* **Computational Applications to Policy and Strategy (CAPS) workshop:** CAPS is a semester-long weekly workshop that aims to introduce students to AI and and ground that experience in hands-on programming. The programming is done in Python and focuses on the  [python-sc2](https://github.com/Dentosal/python-sc2) bot-developement environment for the online strategy game StarCraft II. Students write and present a technical memo as the workshop's capstone. 
 
 ### Advancement
 
