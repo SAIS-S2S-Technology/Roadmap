@@ -26,7 +26,7 @@ We appreciate the opportunity to act as part of the SAIS community. For more tha
 
 Through his work in the Strategic Arms Limitation Talks (SALT), Paul Nitze gained deep experience with many of the challenges that have come to shape today's discussions on global policy and technological progress. In response, Nitze developed four themes that closely guide our thinking:
 
-* Educate generalists who have "the ability, on the one hand, to tap the wisdom of the past and give it continuity into the present, and, on the other hand, [to sense the possibilities of the future as they emerge from the developing present](https://books.google.com/books/about/Paul_H_Nitze_on_Foreign_Policy.html?id=7NZ2AAAAMAAJ)"
+* Educate [generalists](https://books.google.com/books/about/Paul_H_Nitze_on_Foreign_Policy.html?id=7NZ2AAAAMAAJ) who have "the ability, on the one hand, to tap the wisdom of the past and give it continuity into the present, and, on the other hand, to sense the possibilities of the future as they emerge from the developing present"
 * Deploy theory as a conceptual tool for decision-making and ensure that this tool can be adjusted continuously 
 * Guarantee that an ethical framework guides and gives meaning to analysis without reducing complexity
 * Advance a holistic strategy for the adaption of new technologies as they are being developed
