@@ -168,9 +168,9 @@ Please do not hesitate to contact us for further details. For a slide deck on ou
 
 ## Progress
 
-We track our progress through ZenHub and invite you to join for continuous updates on our operations. Please contact us if we can assisst you with getting access to ZenHub.
+We will soon track our process through the [projects](https://github.com/SAIS-S2S-Technology/Roadmap/projects) section. This will provide you with clear, accessible insights into our work.
 
-In addition, we provide a short documentation of our progress below, which we update regularly.
+For the moment, we provide a short documentation of our progress below, which we update regularly until activate the projects section.
 
 How to read this documentation: 
 
