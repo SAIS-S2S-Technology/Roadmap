@@ -3,7 +3,7 @@
 ## Contents
 * [How to read this roadmap](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/Roadmap.md#how-to-read-this-roadmap)
 * [Our graduate school, Johns Hopkins SAIS](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/Roadmap.md#our-graduate-school-johns-hopkins-sais)
-* [How we got here](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/Roadmap.md#how-we-got-here)+
+* [How we got here](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/Roadmap.md#how-we-got-here)
 * [For SAIS students, a short guide](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/Roadmap.md#for-sais-students-a-short-guide)
 * [What we believe about technology and global policy](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/Roadmap.md#what-we-believe-about-technology-and-global-policy)
 * [How we build and transfer knowledge](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/Roadmap.md#how-we-build-and-transfer-knowledge)
