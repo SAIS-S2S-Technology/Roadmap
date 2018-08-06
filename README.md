@@ -10,13 +10,13 @@ We believe that rapid technological advancements are leading to profound changes
 
 We aim for our work to contribute towards greater collaboration between the public sector and the technology sector. We see the work of Paul Nitze, the founder of SAIS, as a model for our work — bringing together different worlds (the public sector, technology, business, education, among others) to advance openness and stability in times of significant change.
 
-To learn more about our mission and our background, please refer to the roadmap.
+To learn more about our mission and our background, please refer to the  [roadmap](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/Roadmap.md).
 
 ### What we do
 
 We operate on a model of distributed learning — we teach from student to student and transfer knowledge through tools that are [built collaboratively, deployed fast and improved continously](http://agilemanifesto.org/principles.html). We are passionate about optimizing our learning to thrive in an environment defined by low ressources, limited time and a fast evolving subject -- artificial intelligence and emerging information technology paradigms. 
 
-For details on our products and tools and the rationale behind them, please refer to the [product section] of the roadmap.  
+For details on our products and tools and the rationale behind them, please refer to the [product section](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/Roadmap.md#our-products--our-tools) of the roadmap.  
 
 Here is a breakdown of our operations:
 
@@ -37,9 +37,9 @@ If you are a **potential adviser**, please refer to the [adviser presentation](h
 
 If you are a **SAIS alumni**, please refer to the [alumni presentation](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/ALUMNI%20deck.pdf). 
 
-If you are a **SAIS student**, please refer to the [student section] of the raodmap. We welcome studnets who want to teach, learn or contribute to SAIS S2S Technology. 
+If you are a **SAIS student**, please refer to the [student section](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/Roadmap.md#for-sais-students-a-short-guide) of the raodmap. We welcome studnets who want to teach, learn or contribute to SAIS S2S Technology. 
 
-We understand that our partners' time is precious. We prioritize accordingly and provide a streamlined communications process. For additional information on our partnerships, please refer to the [partnership section] of the roadmap. 
+We understand that our partners' time is precious. We prioritize accordingly and provide a streamlined communications process. For additional information on our partnerships, please refer to the [partnership section](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/Roadmap.md#why-we-seek-partnerships) of the roadmap. 
 
 We greatly appreciate that you are taking the time to learn about us and hope that this information is useful to you. 
 
