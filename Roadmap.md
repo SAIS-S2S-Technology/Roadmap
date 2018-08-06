@@ -20,7 +20,7 @@ Hence, we hope this roadmap guides you as much as it guides us. There is no need
 
 ## Our graduate school, Johns Hopkins SAIS
 
-We are located at and funded by the Johns Hopkins Paul H. Nitze School of Advanced International Studies (SAIS). Our official status at SAIS is that of a student organization and we are funded under the corresponding terms [link to partnerships].
+We are located at and funded by the Johns Hopkins Paul H. Nitze School of Advanced International Studies (SAIS). Our official status at SAIS is that of a student organization and we are funded under the corresponding terms.
 
 We appreciate the opportunity to act as part of the SAIS community. For more than 75 years SAIS has been a pioneer in international relations and international economics education. Emphasizing theory as well as practice, SAIS has graduated a highly diverse group of over 20,000 alumni with careers spanning academia, entrepreneurship, non-governmental organizations and diplomacy. In its pursuit to educate global leaders, SAIS is guided by the vision of its founders, Paul H. Nitze and Christian A. Herter who sought new methods of preparing men and women to cope with the international responsibilities arising at end of World War II. As accelerating technological progress is changing the geopolitical landscape, the founding vision of Nitze and Herter has inspired us to create SAIS S2S Technology.
 
@@ -142,7 +142,7 @@ It's why we connect students at SAIS who are passionate about global policy and 
 
 It's why our web presence is on GitHub. We firmly believe in GitHub's open-source culture and hope to engage deeply with its community by opening our tools to broad collaborations. 
 
-And it's why we strive to build parternships with our alumni and leaders in the policy and technology communities. We are convinced that our mission serves an important purpose and that this purpose is shared by the leaders and companies we admire. Joining forces..
+And it's why we strive to build parternships with our alumni and leaders in the policy and technology communities. We are convinced that our mission serves an important purpose and that this purpose is shared by the leaders and companies we admire.
 
 To navigatie the complex landscape of technological change and continously advance our mission, the advice and guidance of our partners are invaluable to us. In return, we offer first-hand access to 600 experienced post-grad global policy students looking to make an impact in a fast-changing world. 
 
