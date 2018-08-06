@@ -20,7 +20,7 @@ Hence, we hope this roadmap guides you as much as it guides us. There is no need
 
 ## Our graduate school, Johns Hopkins SAIS
 
-We are located at and funded by the Johns Hopkins Paul H. Nitze School of Advanced International Studies (SAIS). Our official status at SAIS is that of a student organization and we are funded under the corresponding terms [link to partnerships].
+We are located at and funded by the Johns Hopkins Paul H. Nitze School of Advanced International Studies (SAIS). Our official status at SAIS is that of a student organization and we are funded under the corresponding [terms](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/Roadmap.md#sais-alumni).
 
 We appreciate the opportunity to act as part of the SAIS community. For more than 75 years SAIS has been a pioneer in international relations and international economics education. Emphasizing theory as well as practice, SAIS has graduated a highly diverse group of over 20,000 alumni with careers spanning academia, entrepreneurship, non-governmental organizations and diplomacy. In its pursuit to educate global leaders, SAIS is guided by the [vision](https://www.sais-jhu.edu/content/about-us#global-presence) of its founders, Paul H. Nitze and Christian A. Herter who sought new methods of preparing men and women to cope with the international responsibilities arising at end of World War II. As accelerating technological progress is changing the geopolitical landscape, the founding vision of Nitze and Herter has inspired us to create SAIS S2S Technology.
 
