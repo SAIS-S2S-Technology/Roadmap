@@ -148,7 +148,7 @@ To navigatie the complex landscape of technological change and continously advan
 
 Here is how we want to partner with you:
 
-**Potential adviser**
+### Potential adviser
 
 As a leader in technology or global policy you are at the forefront of the the change we strive to adapt to — you build cutting-edge technology or ensure that technological advancements benefit humanity.
 
@@ -158,7 +158,7 @@ As a leader in technology or global policy you are at the forefront of the the c
 
 Please do not hesitate to contact us for further details. For a slide deck on our partnership, please refer to the [adviser deck]. We greatly appreciate your time in considering to partner with SAIS S2S Technology. 
 
-**SAIS alumni**
+### SAIS alumni
 
 As a SAIS alumni working in or with the technology sector you have achieved what we hope to help students achieve — adapt the SAIS skill set to a world driven by rapid technological advancements.
 
