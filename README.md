@@ -2,7 +2,7 @@
 
 SAIS S2S Technology is a student-to-student (S2S) education platform focused on tech-policy and located at the [Johns Hopkins Paul H. Nitze School of Advanced International Studies (SAIS)](https://www.sais-jhu.edu/). We provide policy students with the tools they need to apply their geopolitical understanding to a world shaped by rapid technological advancements. 
 
-GitHub is our main web presence — we believe in collaboration, continuous improvements and strive to bring open-source thinking into the policy domain. Our official launch is in September 2018. **Below is a snapshot of what we think, including links to a [presentation for potential advisers](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/ADVISER%20deck.pdf) and [SAIS alumni](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/ALUMNI%20deck.pdf) and a [roadmap](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/Roadmap.md) with details on how we work**. 
+GitHub is our main web presence — we believe in collaboration, continuous improvements and strive to bring open-source thinking into the policy domain. Our official launch is in September 2018. **Below is a snapshot of what we think, including links to a presentation for [potential advisers](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/ADVISER_deck.pdf) and [SAIS alumni](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/ALUMNI_deck.pdf) and a [roadmap](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/Roadmap.md) with details on how we work**. 
 
 ### Why we exist
 
