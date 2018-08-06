@@ -24,7 +24,7 @@ Here is a breakdown of our operations:
 * Global Scope blog — documenting tech-policy events in DC
 * Events and conferences — hosting leaders at SAIS
 * Distributed career guide — interviewing alumni working in technology
-* Computational Applications to Policy and Strategy (CAPS) workshop — AI strategy and applications in python-sc2
+* Computational Applications to Policy and Strategy (CAPS) workshop — AI strategy and applications in [python-sc2](https://github.com/Dentosal/python-sc2)
 * Career assistance — tailored advice to students
 * Research opportunities — creating opportunities through partnerships
 
