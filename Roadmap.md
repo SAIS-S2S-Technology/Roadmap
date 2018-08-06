@@ -8,6 +8,7 @@
 * [How we build and transfer knowledge](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/Roadmap.md#how-we-build-and-transfer-knowledge)
 * [Our products = our tools](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/Roadmap.md#our-products--our-tools)
 * [Why we seek partnerships](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/Roadmap.md#why-we-seek-partnerships)
+* [Progess](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/Roadmap.md#progress)
 * [Contacting us](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/Roadmap.md#contacting-us)
 
 ## How to read this roadmap
