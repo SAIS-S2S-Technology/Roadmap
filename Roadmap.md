@@ -9,7 +9,7 @@
 * [How we build and transfer knowledge](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/Roadmap.md#how-we-build-and-transfer-knowledge)
 * [Our products = our tools](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/Roadmap.md#our-products--our-tools)
 * [Why we seek partnerships](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/Roadmap.md#why-we-seek-partnerships)
-* [Contacting us](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/Roadmap.md#contacting us)
+* [Contacting us](https://github.com/LeoQK/SAIS-Technology-S2S/blob/master/Roadmap.md#contacting-us)
 
 ## How to read this roadmap
 
