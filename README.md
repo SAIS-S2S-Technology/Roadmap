@@ -20,13 +20,13 @@ For details on our products and tools and the rationale behind them, please refe
 
 Here is a breakdown of our operations:
 
-* Newsletter
-* Global Scope blog
-* Events and conferences
-* Distributed career guide
-* Computational Applications to Policy and Strategy (CAPS) workshop
-* Career assistance
-* Research opportunities
+* Newsletter -- on tech and policy
+* Global Scope blog -- documenting tech-policy events in DC
+* Events and conferences -- hosting leaders at SAIS
+* Distributed career guide -- interviewing alumni working in technology
+* Computational Applications to Policy and Strategy (CAPS) workshop -- AI strategy and applications in python-sc2
+* Career assistance -- tailored advice to students
+* Research opportunities -- creating opportunities through partnerships
 
 
 ### You are part of this
