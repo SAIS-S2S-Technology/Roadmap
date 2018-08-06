@@ -94,7 +94,7 @@ We believe it is vital that the policy community is prepared to adapt to these n
 
 SAIS S2S Technology is built around student-to-student (S2S) learning model and draws on a distributed set of tools. Our work is dedicated to continously finding better solutions to one problem: transfering a complex, technical subject to graduate students who have no background in the field and limited time to read up on the fundamentals. 
 
-This problem works as the engine of SAIS S2S Technology. To deal with our resource constraints and provide educational value both fast and continuously, we strive to align our teching model with [modern software developer workflows](http://agilemanifesto.org/). Hence our resource constrains work as our engine — we believe that experience with workflows defined around rapid application development and agile concepts are a fundamental part of the technological advancements reshaping our world. 
+This problem works as the engine of SAIS S2S Technology. To deal with our resource constraints and provide educational value both fast and continuously, we strive to align our teching model with modern software developer [workflows](http://agilemanifesto.org/). Hence our resource constrains work as our engine — we believe that experience with workflows defined around rapid application development and agile concepts are a fundamental part of the technological advancements reshaping our world. 
 
 Here's how we strive to engage these workflows:
 
