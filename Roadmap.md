@@ -201,7 +201,7 @@ At the moment, here is how you can reach us:
 
 * **LinkedIn:** Get in touch on LinkedIn. You can find our accounts [here].
 
-* **In person:** We are based at [1740 Massachusetts Ave NW, Washington, DC 20036](https://www.google.com/maps/place/1740+Massachusetts+Ave+NW,+Washington,+DC+20036/@38.90813,-77.0424677,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7b7c73f5c1699:0xe6712ae3855d83b2!8m2!3d38.90813!4d-77.040279). We are always happy to meet with you if you are in DC. 
+* **In person:** We are based at [1740 Massachusetts Ave. NW, Washington, DC](https://www.google.com/maps/place/1740+Massachusetts+Ave+NW,+Washington,+DC+20036/@38.90813,-77.0424677,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7b7c73f5c1699:0xe6712ae3855d83b2!8m2!3d38.90813!4d-77.040279). We are always happy to meet with you if you are in DC. 
 
 ### Thank you
 
