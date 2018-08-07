@@ -1,5 +1,6 @@
 # 
 
+![alt text](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/Logo_dual_small.png)
 
 # START HERE
 
