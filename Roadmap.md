@@ -172,7 +172,7 @@ Please do not hesitate to contact us for further details. For a slide deck on ou
 
 We will soon track our progress through GitHub's [projects feature](https://github.com/SAIS-S2S-Technology/Roadmap/projects). This will provide you with clear, accessible insights into our work.
 
-For the moment, we provide a short documentation of our progress below, which we update regularly until activate the projects feature.
+For the moment, we provide a short documentation of our progress below, which we update regularly until we activate the projects feature.
 
 How to read this documentation: 
 
