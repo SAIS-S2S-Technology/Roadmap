@@ -106,6 +106,8 @@ We priotize that students participating in our programming workshops build a min
 
 Importantly, there is no clear distinction between teaching and learning in this process — and there shouldn't be as the ability to collaborate horizontally is our most valuable resource. 
 
+Take a look at our [reading list](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/Reading%20list.md) to see what we're thinking. 
+
 ## Our products = our tools
 
 We see our 'products' as a set of tools. They should be used as needed and rebuilt along the way. There are three groups of tools —awareness, adaption and advancement.
