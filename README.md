@@ -63,7 +63,7 @@ Chenny Zhang — Strategic Studies // [LinkedIn](https://www.linkedin.com/in/che
 
 We are fortunate to be working closely with [Jean-Amiel Jourdan](https://www.linkedin.com/in/jeanamieljourdan), Director of Global Careers at SAIS. 
 
-Follow SAIS S2S Technology on [Twitter](https://twitter.com/SAIStech).
+
 
 ### Where we work
 
@@ -72,6 +72,10 @@ Washington, DC — [1740 Massachusetts Ave., NW](https://www.google.com/maps/pla
 ### Questions?
 
 Please refer to the [roadmap](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/Roadmap.md) or reach out to Leo Klenner at lklenne1[at]jhu.edu.
+
+Interested in what we are thinking about? Take a look at our evolving [reading list](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/Reading%20list.md).
+
+You can also follow SAIS S2S Technology on [Twitter](https://twitter.com/SAIStech).
 
 ## License
 
