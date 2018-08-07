@@ -181,7 +181,7 @@ How to read this documentation:
 Documentation of our operations, sorted by level of completion, highest to lowest:
 
 * [**Fall18 semester start**] - SEP 04
-* [**Web presence**] - SEP 04 -  (GitHub setup, read me, roadmap, readinglist, ZenHub) - (Jekyll blog, official email, logo) - 70%
+* [**Web presence**] - SEP 04 -  (GitHub setup, read me, roadmap, readinglist, ZenHub, logo) - (Jekyll blog, official email) - 75%
 * [**Team builiding session**] - AUG 25 - <br/> (prepare agenda) - (find date, book room) - 25%
 * [**CAPS workshop**] - SEP 04 - <br/> (2/10 slide sets, syllabus) - (8/10 slide sets, guest lecture, capstone host, upload to Git) - 10%
 * [**Recruitment**] - SEP 18 - <br/> (contact 1/3 current students) - (contact 5/5 new students, host welcome session, print flyers) - 10%
