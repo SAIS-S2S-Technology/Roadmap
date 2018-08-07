@@ -49,7 +49,7 @@ We greatly appreciate that you are taking the time to learn about us and hope th
 
 We are a group of five students currently enrolled in the Master of Arts program at SAIS pursuing concentrations in [Strategic Studies](https://www.sais-jhu.edu/content/strategic-studies#overview), [Energy, Ressources and Environment](http://www.sais-jhu.edu/content/energy-resources-and-environment#overview)  and [Conflict Management](http://www.sais-jhu.edu/content/conflict-management). 
 
-Leo Klenner — Conflict Management // [LinkedIn](https://www.linkedin.com/in/leo-klenner-08029a168/)
+Leo Klenner — Conflict Management // [LinkedIn](https://www.linkedin.com/in/leo-klenner-08029a168/) // [Twitter](https://twitter.com/LeoKlenner)
 
 Zoe Li — Energy, Ressources and Environment // [LinkedIn](https://www.linkedin.com/in/zoe-li-8029bab7/)
 
