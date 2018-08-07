@@ -25,6 +25,8 @@ This list covers a range of topics that are relevant to our work. The purpose of
 
 ### On AI and Games
 
+* [OpenAI Five Benchmark](https://blog.openai.com/openai-five-benchmark-results/) and [Twitch stream](https://www.twitch.tv/videos/293517383?t=02s) (OpenAI — blog post and video)
+
 #### StarCraft 
 We're using StarCraft II (mainly via [python-sc2](https://github.com/Dentosal/python-sc2) and to some extent via [pysc2](https://github.com/deepmind/pysc2)) in our Computational Applications To Policy and Strategy (CAPS) workshop
 * [Approximation Models of Combat in StarCraft II](https://arxiv.org/ftp/arxiv/papers/1403/1403.1521.pdf) (Ian Helmke, Daniel Kreymer and Wiegand — paper) 
@@ -44,6 +46,8 @@ We're using StarCraft II (mainly via [python-sc2](https://github.com/Dentosal/py
 * [The Malicious Use of Artificial Intelligence: Forecasting, Prevention and Mitigation](https://arxiv.org/ftp/arxiv/papers/1802/1802.07228.pdf) (Miles Brundage et al. — report)
 
 ### On AI Explainability and Interpretability 
+
+* [What does Explainable AI really mean? A New Conceptualization of Perspectives](https://arxiv.org/pdf/1710.00794.pdf) (Derek Doran, Sarah Schulz and Tarek R. Besold — paper)
 
 ### On Education and Work
 
