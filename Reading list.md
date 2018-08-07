@@ -4,6 +4,6 @@ This list covers a range of topics that are relevant to our work. The purpose of
 
 ## Core
 
-* [Artificial Intelligence and Games](https://www.amazon.com/Artificial-Intelligence-Games-Georgios-Yannakakis/dp/3319635182/ref=sr_1_3?s=books&ie=UTF8&qid=1530642605&sr=1-3&keywords=Artificial+Intelligence+and+Games) by Georgis Yannakakis and Julian Togelius (book). The real world is comlpex — video games provide simulations of that complexity. Policy makers seeking to harness AI should start with games and this book serves as an excellent introduction to the field. 
+* [Artificial Intelligence and Games](https://www.amazon.com/Artificial-Intelligence-Games-Georgios-Yannakakis/dp/3319635182/ref=sr_1_3?s=books&ie=UTF8&qid=1530642605&sr=1-3&keywords=Artificial+Intelligence+and+Games) by Georgis Yannakakis and Julian Togelius (book). The real world is comlpex — video games provide simulations of that complexity. Policy makers seeking to harness AI should start with games. This book serves as an excellent introduction to the field. 
 
 ## Additions
