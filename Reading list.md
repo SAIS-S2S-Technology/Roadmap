@@ -36,7 +36,7 @@ We're using StarCraft II (mainly via [python-sc2](https://github.com/Dentosal/py
 * [pysc2 RL agents](https://github.com/greentfrapp/pysc2-RLagents) (Lim Swee Kiat — repository)
 * [Steven Brown's pysc2 Medium](https://itnext.io/@skjb) and [Github](https://github.com/skjb) (Steven Brown — tutorials and repos)
 * [Sentdex python-sc2 tutorial series](https://www.youtube.com/watch?v=oi6QBUZUgbc) (Harrison Kinsley — video tutorials)
-* Additional python-sc2 repos by [Dentosal](https://github.com/Dentosal/python-sc2/tree/master/examples) and [BurnySc2] (https://github.com/BurnySc2/burny-bots-python-sc2)
+* Additional python-sc2 repos by [Dentosal](https://github.com/Dentosal/python-sc2/tree/master/examples) and [BurnySc2](https://github.com/BurnySc2/burny-bots-python-sc2)
 * Additional pysc2 repos by [chauvinfish](https://github.com/chauvinfish) and [Devon Current](https://github.com/DevonCurrent)
 
 ### On AI Strategy and Safety
