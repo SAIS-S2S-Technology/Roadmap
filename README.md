@@ -71,4 +71,4 @@ Please refer to the [roadmap](https://github.com/SAIS-S2S-Technology/Roadmap/blo
 
 ## License
 
-The contents of this repository are soucred under a [MIT License](https://choosealicense.com/licenses/mit/).
+The contents of this repository are sourced under a [MIT License](https://choosealicense.com/licenses/mit/).
