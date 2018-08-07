@@ -26,17 +26,18 @@ This list covers a range of topics that are relevant to our work. The purpose of
 ### On AI and Games
 
 #### StarCraft 
-We're using StarCraft II in our Computational Applications To Policy and Strategy (CAPS) workshop
+We're using StarCraft II (mainly via [python-sc2](https://github.com/Dentosal/python-sc2) and to some extent via [pysc2](https://github.com/deepmind/pysc2)) in our Computational Applications To Policy and Strategy (CAPS) workshop
 * [Approximation Models of Combat in StarCraft II](https://arxiv.org/ftp/arxiv/papers/1403/1403.1521.pdf) (Ian Helmke, Daniel Kreymer and Wiegand — paper) 
 * [Using Logistic Regression to Analyze the Balance of a Game: The Case of StarCraft II](https://arxiv.org/pdf/1105.0755.pdf) (Hyokun Yun  — paper)
 * [Toward Foraging for Understanding of StarCraft Agents: An Empirical Study](https://arxiv.org/pdf/1711.08019.pdf) (Sean Penney et al. — paper)
 * [StarCraft II: A New Challenge for Reinforcement Learning](https://arxiv.org/pdf/1708.04782.pdf) (Orial Vinyals et al. — paper)
-* [Deep RL for Starcraft II] (http://cs229.stanford.edu/proj2017/final-reports/5234603.pdf) (Andrew G. Chang — course report)
-* [Starcraft II RL Tutorial 1] (http://chris-chris.ai/2017/08/30/pysc2-tutorial1/), [Starcraft II RL Tutorial 2](http://chris-chris.ai/2017/11/06/pysc2-tutorial2/) and [pysc2 examples](https://github.com/chris-chris/pysc2-examples) (Chris Hoyean Song — blog posts and repository)
+* [Deep RL for Starcraft II](http://cs229.stanford.edu/proj2017/final-reports/5234603.pdf) (Andrew G. Chang — course report)
+* [Starcraft II RL Tutorial 1](http://chris-chris.ai/2017/08/30/pysc2-tutorial1/), [Starcraft II RL Tutorial 2](http://chris-chris.ai/2017/11/06/pysc2-tutorial2/) and [pysc2 examples](https://github.com/chris-chris/pysc2-examples) (Chris Hoyean Song — blog posts and repository)
 * [pysc2 RL agents](https://github.com/greentfrapp/pysc2-RLagents) (Lim Swee Kiat — repository)
 * [Steven Brown's pysc2 Medium](https://itnext.io/@skjb) and [Github](https://github.com/skjb) (Steven Brown — tutorials and repos)
 * [Sentdex python-sc2 tutorial series](https://www.youtube.com/watch?v=oi6QBUZUgbc) (Harrison Kinsley — video tutorials)
-* Additional py-sc2 repos [chauvinfish](https://github.com/chauvinfish), [Devon Current](https://github.com/DevonCurrent)
+* Additional python-sc2 repos by [Dentosal](https://github.com/Dentosal/python-sc2/tree/master/examples) and [
+* Additional py-sc2 repos by [chauvinfish](https://github.com/chauvinfish) and [Devon Current](https://github.com/DevonCurrent)
 
 ### On AI Strategy and Safety
 
