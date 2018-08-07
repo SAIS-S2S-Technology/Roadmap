@@ -28,7 +28,7 @@ This list covers a range of topics that are relevant to our work. The purpose of
 * [OpenAI Five Benchmark](https://blog.openai.com/openai-five-benchmark-results/) and [Twitch stream](https://www.twitch.tv/videos/293517383?t=02s) (OpenAI — blog post and video)
 
 #### StarCraft 
-We're using StarCraft II (mainly via [python-sc2](https://github.com/Dentosal/python-sc2) and to some extent via [pysc2](https://github.com/deepmind/pysc2)) in our Computational Applications To Policy and Strategy (CAPS) workshop
+We're using StarCraft II (mainly via [python-sc2](https://github.com/Dentosal/python-sc2) and to some extent via [pysc2](https://github.com/deepmind/pysc2)) in our Computational Applications to Policy and Strategy (CAPS) workshop
 * [Approximation Models of Combat in StarCraft II](https://arxiv.org/ftp/arxiv/papers/1403/1403.1521.pdf) (Ian Helmke, Daniel Kreymer and Wiegand — paper) 
 * [Using Logistic Regression to Analyze the Balance of a Game: The Case of StarCraft II](https://arxiv.org/pdf/1105.0755.pdf) (Hyokun Yun  — paper)
 * [Toward Foraging for Understanding of StarCraft Agents: An Empirical Study](https://arxiv.org/pdf/1711.08019.pdf) (Sean Penney et al. — paper)
