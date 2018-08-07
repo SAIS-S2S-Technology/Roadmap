@@ -49,6 +49,9 @@ We're using StarCraft II (mainly via [python-sc2](https://github.com/Dentosal/py
 
 * [What does Explainable AI really mean? A New Conceptualization of Perspectives](https://arxiv.org/pdf/1710.00794.pdf) (Derek Doran, Sarah Schulz and Tarek R. Besold — paper)
 
+### On Information Assurance
+* [Cyber War Will Not Take Place](https://www.amazon.com/Cyber-War-Will-Take-Place/dp/0199330638) (Thomas Rid — book)
+
 ### On Education and Work
 
 * [Skill Shift: Automation and the Future of the Workforce](https://www.mckinsey.com/~/media/mckinsey/featured%20insights/future%20of%20organizations/skill%20shift%20automation%20and%20the%20future%20of%20the%20workforce/mgi-skill-shift-automation-and-future-of-the-workforce-may-2018.ashx) (McKinsey Global Institute — Report)
