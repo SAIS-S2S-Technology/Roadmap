@@ -16,7 +16,7 @@ To learn more about our mission and our background, please refer to the [roadmap
 
 ### What we do
 
-We operate on a model of distributed learning — we teach from student to student and transfer knowledge through tools that are [built collaboratively, deployed fast and improved continuously](http://agilemanifesto.org/principles.html). We are passionate about optimizing our learning to thrive in an environment defined by low resources, limited time and a fast evolving subject — artificial intelligence and emerging information technology paradigms. 
+We operate on a model of distributed learning — we teach from student to student and transfer knowledge through tools that are [built collaboratively, deployed fast and improved continuously](http://agilemanifesto.org/principles.html). We are passionate about optimizing our learning to thrive in an environment defined by low resources, limited time and the fast evolving subject of artificial intelligence and emerging information technology paradigms. 
 
 For details on our products and tools and the rationale behind them, please refer to the [product section](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/Roadmap.md#our-products--our-tools) of the roadmap.  
 
@@ -33,7 +33,7 @@ Here is a breakdown of our operations:
 
 ### You are part of this
 
-We are a collaborative platform and we want to engage with partners who can guide and advise us. 
+We want to build partnerships with you. We are a collaborative platform and strive to engage partners who can guide and advise us. 
 
 If you are a **potential adviser**, please refer to the [adviser presentation](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/ADVISER_deck.pdf).
 
