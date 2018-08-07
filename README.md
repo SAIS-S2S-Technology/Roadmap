@@ -1,5 +1,5 @@
 # 
-![](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/S2S_line.png)
+![](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/S2S_stacked.png)
 #
 
 **SAIS S2S Technology** is a student-to-student (S2S) education platform focused on tech-policy and located at the [Johns Hopkins Paul H. Nitze School of Advanced International Studies (SAIS)](https://www.sais-jhu.edu/). We provide policy students with the tools they need to apply their geopolitical understanding to a world shaped by rapid technological advancements. 
