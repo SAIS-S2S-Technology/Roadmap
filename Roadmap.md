@@ -59,6 +59,8 @@ While you can find out more about our operations in the sections below, here is 
 * **Learn or teach:** Join the CAPS workshop taking place across 10 sessions in the Fall18 semester to learn about AI strategy and build advanced projects in Python. You are also welcome to go one step further and teach one of the CAPS sessions. 
 * **Read and attend:** Subscribe to our newsletter to stay up to date on our events and receive dedicated tech-policy content.
 
+Also, follow us on [Twitter](https://twitter.com/SAIStech) for updates and news on tech-policy.
+
 Hope to see you on campus!
 
 ## What we believe about technology and global policy
