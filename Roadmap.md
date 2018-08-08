@@ -183,7 +183,7 @@ How to read this documentation:
 `['example task'] - 'deadline' -` <br/> `('completed', 'completed') - ('not completed', 'not completed') - ' % completed'` 
 
 Documentation of our operations, sorted by level of completion, highest to lowest:
-
+- [] Test
 * [**Fall18 semester start**] - SEP 04
 * [**Web presence**] - SEP 04 -  (GitHub setup, read me, roadmap, readinglist, ZenHub, logo) - (Jekyll blog, official email) - 75%
 * [**Team builiding session**] - AUG 25 - <br/> (prepare agenda) - (find date, book room) - 25%
