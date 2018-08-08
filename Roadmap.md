@@ -174,27 +174,7 @@ Please do not hesitate to contact us for further details. For a slide deck on ou
 
 ## Tracking our progress
 
-We will soon track our progress through GitHub's [projects feature](https://github.com/SAIS-S2S-Technology/Roadmap/projects). This will provide you with clear, accessible insights into our work.
-
-For the moment, we provide a short documentation of our progress below, which we update regularly until we activate the projects feature.
-
-How to read this documentation: 
-
-`['example task'] - 'deadline' -` <br/> `('completed', 'completed') - ('not completed', 'not completed') - ' % completed'` 
-
-Documentation of our operations, sorted by level of completion, highest to lowest:
-- [ ] Test
-* [**Fall18 semester start**] - SEP 04
-* [**Web presence**] - SEP 04 -  (GitHub setup, read me, roadmap, readinglist, ZenHub, logo) - (Jekyll blog, official email) - 75%
-* [**Team builiding session**] - AUG 25 - <br/> (prepare agenda) - (find date, book room) - 25%
-* [**CAPS workshop**] - SEP 04 - <br/> (2/10 slide sets, syllabus) - (8/10 slide sets, guest lecture, capstone host, upload to Git) - 10%
-* [**Recruitment**] - SEP 18 - <br/> (contact 1/3 current students) - (contact 5/5 new students, host welcome session, print flyers) - 10%
-* [**Conference, December**] - ongoing - <br/> (outline focus) - (finalize program and date, contact speakers, web presence, book room) - 5%
-* [**Career guide**] - OCT 15 - <br/> () - (25/25 interviews, preface, additional content, layout, launch event) - 0%
-* [**Fundraising**] - ongoing - <br/> () - (receive alumni donations to augment USD 150 budget, place add in SAIS alumni magazine) - 0%
-* [**Partnerships**] - ongoing - <br/> () - (contact 25/25 alumni, 5/5 potential advisers) - 0%
-* [**Global Scope blog**] - ongoing - <br/> () - (report on OpenAI Five, ongoing events) - na
-
+For the moment, we track our progress through GitHub's [Issues](https://github.com/SAIS-S2S-Technology/Roadmap/issues) feature. Eventually we will move from Issues to Projects. You can find a detailed list of our operations, their individual deadlines and subtasks [here](https://github.com/SAIS-S2S-Technology/Roadmap/issues). The best place to start is the [overview](https://github.com/SAIS-S2S-Technology/Roadmap/issues/12).
 ## Contacting us
 
 If you would like to get in touch with us — please do so. We appreciate critical feedback and strive to answer your questions on. So whether you are a potential adviser, SAIS alumni, current SAIS student or you just want to contribute to SAIS S2S Technology, we look forward to talking.
