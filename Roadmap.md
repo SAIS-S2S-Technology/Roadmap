@@ -183,7 +183,7 @@ At the moment, here is how you can reach us:
 
 * **Email:** Contact Leo Klenner at lklenne1[at] jhu.edu. (This will change shortly to an official email.)
 
-* **LinkedIn:** Get in touch on LinkedIn. You can find our accounts [here](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/README.md#who-we-are).
+* **LinkedIn:** Get in touch on LinkedIn. You can find our personal accounts [here](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/README.md#who-we-are) and the SAIS S2S Technology account [here](https://www.linkedin.com/company/sais-s2s-technology/).
 
 * **Twitter:** Follow us on Twitter. You can find our account [here](https://twitter.com/SAIStech).
 
