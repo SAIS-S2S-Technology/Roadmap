@@ -75,7 +75,7 @@ Please refer to the [roadmap](https://github.com/SAIS-S2S-Technology/Roadmap/blo
 
 Interested in what we are thinking about? Take a look at our evolving [reading list](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/Reading%20list.md).
 
-You can also follow SAIS S2S Technology on [Twitter](https://twitter.com/SAIStech).
+You can also follow SAIS S2S Technology on [Twitter](https://twitter.com/SAIStech) and [LinkedIn](https://www.linkedin.com/company/sais-s2s-technology/).
 
 ## License
 
