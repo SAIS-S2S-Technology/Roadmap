@@ -33,7 +33,7 @@ Here is a breakdown of our operations:
 
 ### You are part of this
 
-We want to build partnerships with you. We are a collaborative platform and strive to engage partners who can guide and advise us or seek to contribute in other ways. 
+We want to build partnerships with you. We are a collaborative platform and strive to engage partners who can guide and advise us or seek to contribute in other ways. In addition to the below links, please also refer to the [partnership section](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/Roadmap.md#why-we-seek-partnerships) of the roadmap.
 
 If you are a **potential adviser**, please refer to the [adviser presentation](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/ADVISER_deck.pdf).
 
@@ -42,8 +42,6 @@ If you are a **SAIS alumni**, please refer to the [alumni presentation](https://
 If you are a **SAIS student**, please refer to the [student section](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/Roadmap.md#for-sais-students-a-short-guide) of the raodmap. We welcome students who want to teach, learn or contribute to SAIS S2S Technology. 
 
 If you feel that none of the above apply to you but you still want to contribute or share your feedback, [please get in touch](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/README.md#questions).
-
-We understand that our partners' time is precious. We prioritize accordingly and provide a streamlined communications process. For additional information on our partnerships, please refer to the [partnership section](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/Roadmap.md#why-we-seek-partnerships) of the roadmap. 
 
 We greatly appreciate that you are taking the time to learn about us and hope that this information is useful to you. 
 
