@@ -57,7 +57,7 @@ Jonathan Liu — Strategic Studies // [LinkedIn](https://www.linkedin.com/in/jon
 
 Jun Park — Energy, Ressources and Environment // [LinkedIn](https://www.linkedin.com/in/jiyunpark2018)
 
-Matthew Reynolds - China Studies // [LinkedIn](https://www.linkedin.com/in/matt-reynolds-a06a62126)
+Matthew Reynolds — China Studies // [LinkedIn](https://www.linkedin.com/in/matt-reynolds-a06a62126)
 
 Chenny Zhang — Strategic Studies // [LinkedIn](https://www.linkedin.com/in/chennyzhang)
 
