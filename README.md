@@ -47,7 +47,7 @@ We greatly appreciate that you are taking the time to learn about us and hope th
 
 ### Who we are
 
-We are a group of five students currently enrolled in the Master of Arts program at SAIS pursuing concentrations in [Strategic Studies](https://www.sais-jhu.edu/content/strategic-studies#overview), [Energy, Ressources and Environment](http://www.sais-jhu.edu/content/energy-resources-and-environment#overview)  and [Conflict Management](http://www.sais-jhu.edu/content/conflict-management). 
+We are a group of six students currently enrolled in the Master of Arts program at SAIS pursuing concentrations in [Strategic Studies](https://www.sais-jhu.edu/content/strategic-studies#overview), [Energy, Ressources and Environment](http://www.sais-jhu.edu/content/energy-resources-and-environment#overview), [China Studies](https://www.sais-jhu.edu/content/china-studies#overview) and [Conflict Management](http://www.sais-jhu.edu/content/conflict-management). 
 
 Leo Klenner — Conflict Management // [LinkedIn](https://www.linkedin.com/in/leo-klenner-08029a168/) // [Twitter](https://twitter.com/LeoKlenner)
 
@@ -56,6 +56,8 @@ Zoe Li — Energy, Ressources and Environment // [LinkedIn](https://www.linkedin
 Jonathan Liu — Strategic Studies // [LinkedIn](https://www.linkedin.com/in/jonathan-liu-69087728/)
 
 Jun Park — Energy, Ressources and Environment // [LinkedIn](https://www.linkedin.com/in/jiyunpark2018)
+
+Matthew Reynolds - China Studies // [LinkedIn](https://www.linkedin.com/in/matt-reynolds-a06a62126)
 
 Chenny Zhang — Strategic Studies // [LinkedIn](https://www.linkedin.com/in/chennyzhang)
 
