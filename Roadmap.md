@@ -14,7 +14,7 @@
 
 ## How to read this roadmap
 
-This roadmap is detailed. It helps us navigate a complex landscape and build our operations. As we continue to explore the conjecture of global policy and technology parts of the map will change in the process. But this roadmap always represents our current thinking. We have worked hard to lay things out as best as we can. 
+This roadmap is detailed. It helps us navigate a complex landscape and build our operations. As we continue to explore the intersection of global policy and technology parts of the map will change in the process. But this roadmap always represents our current thinking. We have worked hard to lay things out as best as we can. 
 
 Hence, we hope this roadmap guides you as much as it guides us. There is no need to read all the sections (although we encourage you to do that). Just pick the section that is most relevant to you.
 
@@ -140,7 +140,7 @@ We see our 'products' as a set of tools. They should be used as needed and rebui
 
 ## Why we seek partnerships
 
-Our mission is to solve core challenges at the conjecture of technology and global policy. And we aim to solve these challenges through collaboration. 
+Our mission is to solve core challenges at the intersection of technology and global policy. And we aim to solve these challenges through collaboration. 
 
 It's why we connect students at SAIS who are passionate about global policy and technology. We know that if these students work together in a dedicated educational environment they can achieve great things and advance important values in a fast-changing world. 
 
