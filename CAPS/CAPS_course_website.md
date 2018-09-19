@@ -9,11 +9,11 @@ Current version of the [syllabus](https://github.com/SAIS-S2S-Technology/Roadmap
 
 [Slides](https://github.com/SAIS-S2S-Technology/Roadmap/tree/master/CAPS/Slides)
 - [x] Session 1 Introduction
-- [] Session 2 Python Primer
-- [] Session 3 Rule-based SCII Bot
-- [] Session 4 Learning SCII Bot
-- [] Session 5 Game Data Mining and AI Strategy and Policy
-- [] Session 6 Creating a Website with GitHub
+- [ ] Session 2 Python Primer
+- [ ] Session 3 Rule-based SCII Bot
+- [ ] Session 4 Learning SCII Bot
+- [ ] Session 5 Game Data Mining and AI Strategy and Policy
+- [ ] Session 6 Creating a Website with GitHub
 
 ### Additional Resources
 
