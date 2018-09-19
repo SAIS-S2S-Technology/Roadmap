@@ -9,13 +9,13 @@ GitHub is our main web presence — we believe in collaboration, continuous impr
 ### Features
 
 This repository contains
-* [Roadmap](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/Roadmap.md) with details on how we work
-* [Alumni deck](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/ADVISER_deck.pdf) outlining how we seek to engage JHU alumni
-* [Adviser deck](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/ADVISER_deck.pdf) outlining how we seek to engage third parties
-* [CAPS course website](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/CAPS_course_website.md) with links to the syllabus and slides for our Computational Applications to Policy (CAPS) workshop
-* [Reading list](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/Reading%20list.md) covering the intersection of AI and international relations
-* TBA Primer series with short reports on computational methods, AI and international relations
-* TBA Distributed career guide based on interviews with SAIS alumni working in the tech sector
+- [x] [Roadmap](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/Roadmap.md) with details on how we work
+- [x] [Alumni deck](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/ADVISER_deck.pdf) outlining how we seek to engage JHU alumni
+- [x] [Adviser deck](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/ADVISER_deck.pdf) outlining how we seek to engage third parties
+- [x] [CAPS course website](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/CAPS_course_website.md) with links to the syllabus and slides for our Computational Applications to Policy (CAPS) workshop
+- [x] [Reading list](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/Reading%20list.md) covering the intersection of AI and international relations
+- [ ] Primer series with short reports on computational methods, AI and international relations
+- [ ] Distributed career guide based on interviews with SAIS alumni working in the tech sector
 
 ### Why we exist
 
