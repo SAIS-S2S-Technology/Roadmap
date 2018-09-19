@@ -59,17 +59,7 @@ We greatly appreciate that you are taking the time to learn about us and hope th
 
 We are a group of six students currently enrolled in the Master of Arts program at SAIS pursuing concentrations in [Strategic Studies](https://www.sais-jhu.edu/content/strategic-studies#overview), [Energy, Ressources and Environment](http://www.sais-jhu.edu/content/energy-resources-and-environment#overview), [China Studies](https://www.sais-jhu.edu/content/china-studies#overview) and [Conflict Management](http://www.sais-jhu.edu/content/conflict-management). 
 
-Leo Klenner — Conflict Management // [LinkedIn](https://www.linkedin.com/in/leo-klenner-08029a168/) // [Twitter](https://twitter.com/LeoKlenner)
-
-Zoe Li — Energy, Ressources and Environment // [LinkedIn](https://www.linkedin.com/in/zoe-li-8029bab7/)
-
-Jonathan Liu — Strategic Studies // [LinkedIn](https://www.linkedin.com/in/jonathan-liu-69087728/)
-
-Jun Park — Energy, Ressources and Environment // [LinkedIn](https://www.linkedin.com/in/jiyunpark2018)
-
-Matt Reynolds — China Studies // [LinkedIn](https://www.linkedin.com/in/matt-reynolds-a06a62126)
-
-Chenny Zhang — Strategic Studies // [LinkedIn](https://www.linkedin.com/in/chennyzhang)
+[Leo Klenner](https://www.linkedin.com/in/leo-klenner-08029a168/) | [Jun Park](https://www.linkedin.com/in/jiyunpark2018) | [Matt Reynolds](https://www.linkedin.com/in/matt-reynolds-a06a62126) | [Chenny Zhang](https://www.linkedin.com/in/chennyzhang) | [Zoe Li](https://www.linkedin.com/in/zoe-li-8029bab7/) | [Jonathan Liu](https://www.linkedin.com/in/jonathan-liu-69087728/)
 
 We are fortunate to be working closely with [Jean-Amiel Jourdan](https://www.linkedin.com/in/jeanamieljourdan), Director of Global Careers at SAIS. 
 
