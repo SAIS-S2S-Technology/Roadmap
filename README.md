@@ -46,9 +46,7 @@ Here is a breakdown of our operations:
 We want to build partnerships with you. We are a collaborative platform and strive to engage partners who can guide and advise us or seek to contribute in other ways. In addition to the below links, please also refer to the [partnership section](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/Roadmap.md#why-we-seek-partnerships) of the roadmap.
 
 * SAIS alumni please refer to the [alumni deck](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/ADVISER_deck.pdf).
-
 * Potential advisers please refer to the [adviser deck](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/ADVISER_deck.pdf).
-
 * SAIS students please refer to the [student section](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/Roadmap.md#for-sais-students-a-short-guide) of the raodmap. We are always looking for students seeking to contribute to SAIS S2S Technology.
 
 We greatly appreciate that you are taking the time to learn about us and hope that this information is useful to you. 
