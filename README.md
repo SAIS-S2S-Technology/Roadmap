@@ -4,7 +4,18 @@
 ---
 **SAIS S2S Technology** is a student-to-student (S2S) education platform focused on tech-policy and located at the [Johns Hopkins Paul H. Nitze School of Advanced International Studies (SAIS)](https://www.sais-jhu.edu/). We provide policy students with the tools they need to apply their geopolitical understanding to a world shaped by rapid technological advancements. 
 
-GitHub is our main web presence — we believe in collaboration, continuous improvements and strive to bring open-source thinking into the policy domain. Our official launch is in September 2018. **Below is a snapshot of what we think, including links to a presentation for [potential advisers](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/ADVISER_deck.pdf) and [SAIS alumni](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/ALUMNI_deck.pdf) and a [roadmap](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/Roadmap.md) with details on how we work**. 
+GitHub is our main web presence — we believe in collaboration, continuous improvements and strive to bring open-source thinking into the policy domain. Our official launch is in September 2018. 
+
+### Features
+
+This repository contains
+* [Roadmap](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/Roadmap.md) with details on how we work
+* [Alumni deck](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/ADVISER_deck.pdf) outlining how alumni can engage
+* [Adviser deck](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/ADVISER_deck.pdf) outlining how third parties can engage
+* [CAPS course website](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/CAPS_course_website.md) with links to the syllabus and slides for our Computational Applications to Policy (CAPS) workshop
+* Primer series TBA with short reports on the intersection of computational methods, AI and international relations
+* [Reading list](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/Reading%20list.md)
+
 
 ### Why we exist
 
