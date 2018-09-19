@@ -33,8 +33,7 @@ For details on our products and tools and the rationale behind them, please refe
 
 Here is a breakdown of our operations:
 
-* Newsletter — on tech and policy
-* Global Scope blog — documenting tech-policy events in DC
+* Primer series — short reports on the intersection of AI and international relations
 * Events and conferences — hosting leaders at SAIS
 * Distributed career guide — interviewing alumni working in technology
 * Computational Applications to Policy and Strategy (CAPS) workshop — AI strategy and applications in [python-sc2](https://github.com/Dentosal/python-sc2)
