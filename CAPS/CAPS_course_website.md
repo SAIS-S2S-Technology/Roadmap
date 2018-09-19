@@ -8,7 +8,7 @@ The workshop will start in the second or third week of October with details TBA.
 Current version of the [syllabus](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/CAPS%20syllabus_09-09-18.pdf). Last update 09/09/2018.
 
 [Slides](https://github.com/SAIS-S2S-Technology/Roadmap/tree/master/CAPS/Slides)
-- [x] Session 1 Introduction
+- [x] [Session 1](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/Slides/CAPS%2001%20Introduction%2009-17.pdf) Introduction
 - [ ] Session 2 Python Primer
 - [ ] Session 3 Rule-based SCII Bot
 - [ ] Session 4 Learning SCII Bot
