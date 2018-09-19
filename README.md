@@ -10,8 +10,8 @@ GitHub is our main web presence — we believe in collaboration, continuous impr
 
 This repository contains
 * [Roadmap](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/Roadmap.md) with details on how we work
-* [Alumni deck](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/ADVISER_deck.pdf) outlining how alumni can engage
-* [Adviser deck](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/ADVISER_deck.pdf) outlining how third parties can engage
+* [Alumni deck](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/ADVISER_deck.pdf) outlining how we seek to engage JHU alumni
+* [Adviser deck](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/ADVISER_deck.pdf) outlining how we seek to engage third parties
 * [CAPS course website](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/CAPS_course_website.md) with links to the syllabus and slides for our Computational Applications to Policy (CAPS) workshop
 * Primer series TBA with short reports on the intersection of computational methods, AI and international relations
 * [Reading list](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/Reading%20list.md)
