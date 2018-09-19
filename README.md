@@ -13,9 +13,9 @@ This repository contains
 * [Alumni deck](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/ADVISER_deck.pdf) outlining how we seek to engage JHU alumni
 * [Adviser deck](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/ADVISER_deck.pdf) outlining how we seek to engage third parties
 * [CAPS course website](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/CAPS_course_website.md) with links to the syllabus and slides for our Computational Applications to Policy (CAPS) workshop
-* Primer series TBA with short reports on computational methods, AI and international relations
 * [Reading list](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/Reading%20list.md) covering the intersection of AI and international relations
-
+* TBA Primer series with short reports on computational methods, AI and international relations
+* TBA Distributed career guide based on interviews with SAIS alumni working in the tech sector
 
 ### Why we exist
 
