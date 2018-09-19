@@ -27,7 +27,7 @@ To learn more about our mission and our background, please refer to the [roadmap
 
 ### What we do
 
-We operate on a model of distributed learning — we teach from student to student and transfer knowledge through tools that are [built collaboratively, deployed fast and improved continuously](http://agilemanifesto.org/principles.html). We are passionate about optimizing our learning to thrive in an environment defined by low resources, limited time and the fast evolving subject of artificial intelligence and emerging information technology paradigms. 
+We operate on a model of distributed learning — we teach from student to student and transfer knowledge through tools that are built collaboratively, deployed fast and improved continuously. We are passionate about optimizing our learning to thrive in an environment defined by low resources, limited time and the fast evolving subject of artificial intelligence and emerging information technology paradigms. 
 
 For details on our products and tools and the rationale behind them, please refer to the [product section](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/Roadmap.md#our-products--our-tools) of the roadmap.  
 
@@ -45,13 +45,11 @@ Here is a breakdown of our operations:
 
 We want to build partnerships with you. We are a collaborative platform and strive to engage partners who can guide and advise us or seek to contribute in other ways. In addition to the below links, please also refer to the [partnership section](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/Roadmap.md#why-we-seek-partnerships) of the roadmap.
 
-If you are a **potential adviser**, please refer to the [adviser presentation](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/ADVISER_deck.pdf).
+SAIS alumni please refer to the [alumni deck](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/ADVISER_deck.pdf).
 
-If you are a **SAIS alumni**, please refer to the [alumni presentation](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/ALUMNI_deck.pdf).
+Potential advisers please refer to the [adviser deck](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/ADVISER_deck.pdf).
 
-If you are a **SAIS student**, please refer to the [student section](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/Roadmap.md#for-sais-students-a-short-guide) of the raodmap. We welcome students who want to teach, learn or contribute to SAIS S2S Technology. 
-
-If you feel that none of the above apply to you but you still want to contribute or share your feedback, [please get in touch](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/README.md#questions).
+SAIS students please refer to the [student section](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/Roadmap.md#for-sais-students-a-short-guide) of the raodmap. We are always looking for students seeking to contribute to SAIS S2S Technology.
 
 We greatly appreciate that you are taking the time to learn about us and hope that this information is useful to you. 
 
