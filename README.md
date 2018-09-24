@@ -4,7 +4,7 @@
 ---
 **SAIS S2S Technology** is a student-to-student (S2S) education platform focused on tech-policy and located at the [Johns Hopkins Paul H. Nitze School of Advanced International Studies (SAIS)](https://www.sais-jhu.edu/). We provide policy students with the tools they need to apply their geopolitical understanding to a world shaped by rapid technological advancements. 
 
-You can also find us at [saiss2stechnology.com](https://saiss2stechnology.com/)
+You can also find our website here: [saiss2stechnology.com](https://saiss2stechnology.com/)
 ### Features
 
 This repository contains
