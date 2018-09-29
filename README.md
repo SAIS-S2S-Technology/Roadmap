@@ -52,9 +52,9 @@ We greatly appreciate that you are taking the time to learn about us and hope th
 
 ### Who we are
 
-We are a group of six students currently enrolled in the Master of Arts program at SAIS pursuing concentrations in Strategic Studies, Energy, Ressources and Environment, China Studies and Conflict Management. 
+We are a group of students currently enrolled in the Master of Arts program at SAIS pursuing concentrations in Strategic Studies, Energy, Ressources and Environment, China Studies and Conflict Management. 
 
-[Leo Klenner](https://www.linkedin.com/in/leo-klenner-08029a168/) | [Jun Park](https://www.linkedin.com/in/jiyunpark2018) | [Matt Reynolds](https://www.linkedin.com/in/matt-reynolds-a06a62126) | [Chenny Zhang](https://www.linkedin.com/in/chennyzhang) | [Zoe Li](https://www.linkedin.com/in/zoe-li-8029bab7/) | [Jonathan Liu](https://www.linkedin.com/in/jonathan-liu-69087728/)
+[Leo Klenner](https://www.linkedin.com/in/leo-klenner-08029a168/) | [Jun Park](https://www.linkedin.com/in/jiyunpark2018) | [Matt Reynolds](https://www.linkedin.com/in/matt-reynolds-a06a62126) | [Chenny Zhang](https://www.linkedin.com/in/chennyzhang) | [Zoe Li](https://www.linkedin.com/in/zoe-li-8029bab7/) | [Jonathan Liu](https://www.linkedin.com/in/jonathan-liu-69087728/) | Jung-Ju Lee
 
 We are fortunate to be working closely with [Jean-Amiel Jourdan](https://www.linkedin.com/in/jeanamieljourdan), Director of Global Careers at SAIS. 
 
