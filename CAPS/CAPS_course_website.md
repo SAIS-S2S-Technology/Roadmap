@@ -3,7 +3,7 @@ A six session workshop that explores ways in which computational methods can adv
 
 ### Logistics
 
-* Starts Friday, October 26. 
+* Starts Friday, October 26
 * Six weekly sessions 
 * 4 - 5 pm 
 * BOB 756
