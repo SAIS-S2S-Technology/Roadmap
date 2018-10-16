@@ -7,6 +7,7 @@ A six session workshop that explores ways in which computational methods can adv
 * Six weekly sessions 
 * 4 - 5 pm 
 * BOB 756
+
 :mortar_board: Enroll at team@saiss2stechnology.com
 
 ### Course Material
