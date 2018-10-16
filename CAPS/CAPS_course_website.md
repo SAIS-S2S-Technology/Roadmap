@@ -8,8 +8,8 @@ The workshop starts October 26.
 Current version of the [syllabus](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/CAPS%20syllabus_09-09-18.pdf). Last update 09/09/2018.
 
 [Slides](https://github.com/SAIS-S2S-Technology/Roadmap/tree/master/CAPS/Slides)
-- [x] [Session 1](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/Slides/CAPS%2001%20Introduction%2009-17.pdf) Introduction
-- [ ] Session 2 Python Primer
+- [x] [Session 1 Introduction](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/Slides/CAPS%2001%20Introduction%2009-17.pdf) 
+- [x] [Session 2 Python Primer](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/Slides/CAPS%2002%20Python%20Primer_10-15.pdf)
 - [ ] Session 3 Rule-based SCII Bot
 - [ ] Session 4 Learning SCII Bot
 - [ ] Session 5 Game Data Mining and AI Strategy and Policy
