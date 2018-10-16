@@ -1,4 +1,4 @@
-# Computational Applications to Policy and Strategy (CAPS) 
+# :blue_book: Computational Applications to Policy and Strategy (CAPS) 
 A six session workshop that explores ways in which computational methods can advance the applications of policy and strategy research. The workshop focuses on the potential of video games – and intelligent agents programmed in Python to play these games – to study strategic behaviour in complex, simulated environments.
 
 The workshop starts Friday, October 26. 
@@ -63,7 +63,7 @@ Covers two topics, game data mining and the intersection of AI and IR on issues 
 
 *Optional Readings*
 
-1. Henry Kissinger[How the Enlightenment Ends]( https://www.theatlantic.com/magazine/archive/2018/06/henry-kissinger-ai-could-mean-the-end-of-human-history/559124/) (article)
+1. Henry Kissinger [How the Enlightenment Ends]( https://www.theatlantic.com/magazine/archive/2018/06/henry-kissinger-ai-could-mean-the-end-of-human-history/559124/) (article)
 2. Miles Brundage et al. [The Malicious Uses of Artificial Intelligence: Forecasting, Prevention and Mitigation](https://arxiv.org/ftp/arxiv/papers/1802/1802.07228.pdf) (report) 
 3. Mick Ryan [Intellectual Preparation for the Future of War: How Artificial Intelligence will Change Professional Military Education](https://warontherocks.com/2018/07/intellectual-preparation-for-future-war-how-artificial-intelligence-will-change-professional-military-education/) (article) 
 
