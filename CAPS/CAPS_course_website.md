@@ -23,7 +23,7 @@ Coming soon
 
 ### Course Overview
 
-#### Session 1 Introduction to CAPS
+#### :blue_book: Session 1 Introduction to CAPS
 Covers how games are studied within AI research and outlines the intersection of AI and IR in such as fields as AI Strategy and AI Policy. We also install the required software.
 
 *Optional readings*
