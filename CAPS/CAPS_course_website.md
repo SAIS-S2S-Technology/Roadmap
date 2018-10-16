@@ -7,7 +7,7 @@ A six session workshop that explores ways in which computational methods can adv
 * Six weekly sessions 
 * 4 - 5 pm 
 * BOB 756
-* :mortar_board: Enroll at team@saiss2stechnology.com
+:mortar_board: Enroll at team@saiss2stechnology.com
 
 ### Course Material
 
@@ -74,4 +74,3 @@ Covers two topics, game data mining and the intersection of AI and IR on issues 
 #### :blue_book: Session 6 Building and Hosting a Website Through GitHub
 Covers how to create and host a free personal website through GitHub. Afterwards we conclude with drinks and pizza.
 
-:gem:
