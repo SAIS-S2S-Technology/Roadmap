@@ -1,7 +1,7 @@
 # Computational Applications to Policy and Strategy (CAPS) 
 A six session workshop that explores ways in which computational methods can advance the applications of policy and strategy research. The workshop focuses on the potential of video games – and intelligent agents programmed in Python to play these games – to study strategic behaviour in complex, simulated environments.
 
-### Logistics
+## Logistics
 
 * Starts Friday, October 26
 * Six weekly sessions 
@@ -10,7 +10,7 @@ A six session workshop that explores ways in which computational methods can adv
 
 :mortar_board: Enroll at team@saiss2stechnology.com
 
-### Course Material
+## Course Material
 
 :page_with_curl: [Syllabus](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/CAPS%20syllabus_10-15-18.pdf) (pdf). Last update 10/15/2018.
 
@@ -22,11 +22,11 @@ A six session workshop that explores ways in which computational methods can adv
 - [ ] Session 5 Game Data Mining and AI Strategy and Policy
 - [ ] Session 6 Building and Hosting a Website Through GitHub
 
-### Additional Resources
+## Additional Resources
 
 Coming soon
 
-### Course Overview
+## Course Overview
 
 #### :blue_book: Session 1 Introduction to CAPS
 Covers how games are studied within AI research and outlines the intersection of AI and IR in such as fields as AI Strategy and AI Policy. We also install the required software.
