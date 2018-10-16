@@ -12,7 +12,7 @@ A six session workshop that explores ways in which computational methods can adv
 
 ### Course Material
 
-:page_with_curl: [Syllabus](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/CAPS%20syllabus_09-09-18.pdf) (pdf). Last update 09/09/2018.
+:page_with_curl: [Syllabus](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/CAPS%20syllabus_10-15-18.pdf) (pdf). Last update 10/15/2018.
 
 :file_folder: [Slides](https://github.com/SAIS-S2S-Technology/Roadmap/tree/master/CAPS/Slides) (pdf)
 - [x] [Session 1](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/Slides/CAPS%2001%20Introduction%2009-17.pdf) Introduction
