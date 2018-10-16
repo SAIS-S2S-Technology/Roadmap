@@ -19,17 +19,18 @@ Current version of the [syllabus](https://github.com/SAIS-S2S-Technology/Roadmap
 
 ### Additional Resources
 
-The below list serves as 
+Coming soon
 
 ### Course Overview
 
 #### Session 1 Introduction to CAPS
 Covers how games are studied within AI research and outlines the intersection of AI and IR in such as fields as AI Strategy and AI Policy. We also install the required software.
 
-[Optional readings]
-a. [DeepMind on StarCraft II](https://deepmind.com/blog/deepmind-and-blizzard-open-starcraft-ii-ai-research-environment/) (blog post)
-b. [StarCraft II’s Twitch channel]((https://www.twitch.tv/starcraft) with live streams from international pro gamer tournaments (videos)
-c. Detailed [career guide on AI Policy and AI Strategy](https://80000hours.org/articles/ai-policy-guide/) by 80,000 Hours (article) 
+*Optional readings*
+
+1. [DeepMind on StarCraft II](https://deepmind.com/blog/deepmind-and-blizzard-open-starcraft-ii-ai-research-environment/) (blog post)
+2. [StarCraft II’s Twitch channel]((https://www.twitch.tv/starcraft) with live streams from international pro gamer tournaments (videos)
+3. Detailed [career guide on AI Policy and AI Strategy](https://80000hours.org/articles/ai-policy-guide/) by 80,000 Hours (article) 
 
 #### Session 2 Python Primer
 Covers programming in Python from the ground up. Introduces object-oriented and asynchronous programming.
