@@ -9,7 +9,7 @@ A six session workshop that explores ways in which computational methods can adv
 * [Course Overview](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/CAPS_course_website.md#course-overview)
 * [Additional Resources](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/CAPS_course_website.md#additional-resources)
 * [Install Guidelines](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/CAPS_course_website.md#install-guidelines)
-* [Project Samples]
+* [Project Samples](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/CAPS_course_website.md#project-samples)
 
 ***
 
@@ -85,7 +85,7 @@ Covers how to create and host a free personal website through GitHub. Afterwards
 
 ***
 
-### Additional Resources
+### :satellite Additional Resources
 
 #### StarCraft Gameplay Research
 
@@ -93,7 +93,7 @@ Covers how to create and host a free personal website through GitHub. Afterwards
 * [How the Experts Do It: Assessing and Explaining Agent Behaviors in Real-Time Strategy Games](https://arxiv.org/pdf/1711.06953.pdf) J. Dodge, S. Penney, C. Hildebrand, A. Anderson, M. Burnett. 2017. 
 * [Toward Foraging for Understanding of StarCraft Agents: An Empirical Study](https://arxiv.org/pdf/1711.08019.pdf) S. Penney, J. Dodge, C. Hilderbrand, A. Anderson, L. Simpson, M. Burnett. 2017. 
 
-#### Ethics of Autonomous Weapon Systems
+#### Ethics of Autonomous Weapons Systems
 
 * ["Trust but Verify": The Difficulty of Trusting Autonomous Weapons Systems](https://www.andrew.cmu.edu/user/ddanks/papers/Roff_Danks-AWSandTrust-Final.pdf) H.M. Roff and D. Danks. 2018. 
 * [Lethal Autonomous Weapons and Jus Ad Bellum Proportionality](https://scholarlycommons.law.case.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1006&context=jil) H.M. Roff. 2015.
@@ -103,9 +103,9 @@ Covers how to create and host a free personal website through GitHub. Afterwards
 * [What Does Explainable AI Really Mean? A New Conceptualization of Perspectives](https://arxiv.org/pdf/1710.00794.pdf) D. Doran, S. Schulz, T.R. Besold. 2017. 
 * [The What, the Why, and the How of Artificial Intelligence Explanations in Automated Decision-Making](https://arxiv.org/pdf/1808.07074.pdf) T.R. Besold, S.L. Uckelman. 2018. 
 
-### Install Guidelines
+### :computer: Install Guidelines
 
-### Project Samples
+### :coffee: Project Samples
 
 * [Balancing Depth vs. Breadth Search Behavior in Explainable AI](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/Project%20Samples/CAPS_Project_Sample_Short_Report.pdf) This is an example of a **short report** project on information constraints for explainable AI in battlefield environments. No code, just analysis supported by basic references to search algortihms. Draws on research on autonomous weapons systems and StarCraft gameplay. 
 * More to come 
