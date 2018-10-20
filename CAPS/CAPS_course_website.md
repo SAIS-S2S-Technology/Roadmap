@@ -7,9 +7,9 @@ A six session workshop that explores ways in which computational methods can adv
 * [Logistics](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/CAPS_course_website.md#logistics)
 * [Course Material](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/CAPS_course_website.md#course-material)
 * [Course Overview](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/CAPS_course_website.md#course-overview)
-* [Additional Resources](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/CAPS_course_website.md#additional-resources)
-* [Install Guidelines](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/CAPS_course_website.md#install-guidelines)
-* [Project Samples](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/CAPS_course_website.md#project-samples)
+* [Additional Resources](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/CAPS_course_website.md#satellite-additional-resources)
+* [Install Guidelines](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/CAPS_course_website.md#computer-install-guidelines)
+* [Project Samples](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/CAPS_course_website.md#coffee-project-samples)
 
 ***
 
