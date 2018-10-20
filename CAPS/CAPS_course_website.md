@@ -107,5 +107,5 @@ Covers how to create and host a free personal website through GitHub. Afterwards
 
 #### Project Samples
 
-* Short Report [Balancing Depth vs. Breadth Search Behavior in Explainable AI](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/Project%20Samples/CAPS_Project_Sample_Short_Report.pdf) This is an example of a short report project on information constraints for explainable AI in battlefield environments. No code, just analysis supported by basic references to search algortihms. Draws on research on autonomous weapons systems and StarCraft gameplay. 
+* [Balancing Depth vs. Breadth Search Behavior in Explainable AI](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/Project%20Samples/CAPS_Project_Sample_Short_Report.pdf) This is an example of a **short report** project on information constraints for explainable AI in battlefield environments. No code, just analysis supported by basic references to search algortihms. Draws on research on autonomous weapons systems and StarCraft gameplay. 
 
