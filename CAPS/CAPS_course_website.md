@@ -83,6 +83,8 @@ Covers two topics, game data mining and the intersection of AI and IR on issues 
 #### :blue_book: Session 6 - Building and Hosting a Website Through GitHub
 Covers how to create and host a free personal website through GitHub. Afterwards we conclude with drinks and pizza.
 
+***
+
 ### Additional Resources
 
 #### StarCraft Gameplay Research
@@ -104,4 +106,6 @@ Covers how to create and host a free personal website through GitHub. Afterwards
 ### Install Guidelines
 
 #### Project Samples
+
+* Short Report [Balancing Depth vs. Breadth Search Behavior in Explainable AI](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/Project%20Samples/CAPS_Project_Sample_Short_Report.pdf) This is an example of a short report project on information constraints for explainable AI in battlefield environments. No code, just analysis supported by basic references to search algortihms. Draws on research on autonomous weapons systems and StarCraft gameplay. 
 
