@@ -89,7 +89,7 @@ Covers how to create and host a free personal website through GitHub. Afterwards
 
 #### StarCraft Gameplay Research
 
-* [Evaluation of StarCraft Artificial Intelligence Competition Bots by Experiences Human Players](http://www.cs.cmu.edu/~sjunikim/publications/CHI2016_LBW_Starcraft.pdf) M. Kim, S. Kim, K. Kim, A. Dey. 2016. 
+* [Evaluation of StarCraft Artificial Intelligence Competition Bots by Experienced Human Players](http://www.cs.cmu.edu/~sjunikim/publications/CHI2016_LBW_Starcraft.pdf) M. Kim, S. Kim, K. Kim, A. Dey. 2016. 
 * [How the Experts Do It: Assessing and Explaining Agent Behaviors in Real-Time Strategy Games](https://arxiv.org/pdf/1711.06953.pdf) J. Dodge, S. Penney, C. Hildebrand, A. Anderson, M. Burnett. 2017. 
 * [Toward Foraging for Understanding of StarCraft Agents: An Empirical Study](https://arxiv.org/pdf/1711.08019.pdf) S. Penney, J. Dodge, C. Hilderbrand, A. Anderson, L. Simpson, M. Burnett. 2017. 
 
