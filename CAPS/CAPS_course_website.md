@@ -85,7 +85,7 @@ Covers how to create and host a free personal website through GitHub. Afterwards
 
 ***
 
-### :satellite Additional Resources
+### :satellite: Additional Resources
 
 #### StarCraft Gameplay Research
 
