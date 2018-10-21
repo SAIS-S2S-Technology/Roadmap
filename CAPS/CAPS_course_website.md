@@ -105,6 +105,15 @@ Covers how to create and host a free personal website through GitHub. Afterwards
 
 ### :computer: Install Guidelines
 
+#### Download StarCraft II
+* Download StarCraft II from the [official Battlenet website](https://us.battle.net/account/download/). StarCraft II is free to play but requies you to set up an account at Battlenet
+* Where on your computer you install StarCraft does not matter
+
+#### Download StarCraft Maps
+* Download the maps from [Blizzard's GitHub](https://github.com/Blizzard/s2client-proto#map-packs). Any season is fine
+* Extract the map files into the "Maps" folder in your "StarCraft" folder. If you don't have a "Maps" folder, create it first 
+* When you extract the files, you will be asked for a password. The password is 'iagreetotheeula'
+
 ### :coffee: Project Samples
 
 * [Balancing Depth vs. Breadth Search Behavior in Explainable AI](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/Project%20Samples/CAPS_Project_Sample_Short_Report.pdf) This is an example of a **short report** project on information constraints for explainable AI in battlefield environments. No code, just analysis supported by basic references to search algortihms. Draws on research on autonomous weapons systems and StarCraft gameplay. 
