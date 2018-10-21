@@ -108,7 +108,7 @@ Covers how to create and host a free personal website through GitHub. Afterwards
 #### Download StarCraft II
 * Download StarCraft II from the [official Battlenet website](https://us.battle.net/account/download/). StarCraft II is free to play but requies you to set up an account at Battlenet
 * Install StarCraft into your ```C``` drive. 
-* You can also install StarCraft into a different drive. However, you will then need to update this location in the ```paths.py``` file of the ```SC2``` (python-sc2) folder. This folder is located in Python's ```site-packages``` folder. You can find it through your command line. Type ```python -c "import site; print(site.getsitepackages())```. In the ```SC2``` folder open ```paths.py``` and replace the default location with your chosen location for your respective operating system (Darwin for Apple). 
+* You can also install StarCraft into a different drive. However, you will then need to update this location in the ```paths.py``` file of the ```SC2``` (python-sc2) folder. This folder is located in Python's ```site-packages``` folder. You can find ```site-packages``` through your command line. Type ```python -c "import site; print(site.getsitepackages())```. In the ```SC2``` folder open ```paths.py``` and under ```BASEDIR = {``` replace the default location with your chosen location for your respective operating system (Darwin for Apple). 
 
 #### Download StarCraft Maps
 * Download the maps from [Blizzard's GitHub](https://github.com/Blizzard/s2client-proto#map-packs). Any season is fine
