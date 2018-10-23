@@ -47,7 +47,7 @@ class CapsBot(sc2.BotAI):  # CapsBot inherits methods from sc2.BotAI
         for vg in vgs:
             if not self.can_afford(REFINERY):
                 break
-            worker = self.select_build_worker(vg.position) #  Need to delegate worker to build REFINERY as locations are non-random
+            worker = self.select_build_worker(vg.position) #  Need to delegate worker to build REFINERY as locations require identification
             if worker is None:
                 break
             if not self.units(REFINERY).closer_than(1.0, vg).exists:
