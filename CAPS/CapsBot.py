@@ -38,7 +38,7 @@ class CapsBot(sc2.BotAI):  # CapsBot inherits methods from sc2.BotAI
                 near = self.units(COMMANDCENTER).first  # position first SUPPLYDEPOT near our first COMMANDCENTER 
                 await self.build(SUPPLYDEPOT, near)
             else:
-                near = self.units(SUPPLYDEPOT)[(self.units(SUPPLYDEPOT).amount - 1)] #  subsequent SUPPLYDEPOTs built near to previous one
+                near = self.units(SUPPLYDEPOT)[(self.units(SUPPLYDEPOT).amount - 1)] #  subsequent SUPPLYDs built near to previous one
                 await self.build(SUPPLYDEPOT, near)
     
     # build REFINERY to mine gas from vespene geysers if we can afford REFINERY
@@ -47,7 +47,7 @@ class CapsBot(sc2.BotAI):  # CapsBot inherits methods from sc2.BotAI
         for vg in vgs:
             if not self.can_afford(REFINERY):
                 break
-            worker = self.select_build_worker(vg.position) #  Need to delegate worker to build REFINERY as locations require identification
+            worker = self.select_build_worker(vg.position) #  Need to delegate worker as FACTORY locations require identification
             if worker is None:
                 break
             if not self.units(REFINERY).closer_than(1.0, vg).exists:
