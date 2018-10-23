@@ -65,7 +65,8 @@ class CapsBot(sc2.BotAI):  # CapsBot inherits methods from sc2.BotAI
                 if self.can_afford(MARINE) and self.units(MARINE).amount < 40:
                     await self.do(rax.train(MARINE))
                     
-    # build FACTORY to build CYCLONEs if amount of BARRACKS is larger than 1 and we can afford a FACTORY and we have no more than 1 FACTORY
+    # build FACTORY to build CYCLONEs if amount of BARRACKS is larger than 1
+    # and we can afford a FACTORY and we have no more than 1 FACTORY
     async def build_factory(self):
         if self.units(BARRACKS).amount > 0:
             if self.can_afford(FACTORY) and self.units(FACTORY).amount < 1 and not self.already_pending(FACTORY):
