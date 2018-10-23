@@ -53,25 +53,25 @@ class CapsBot(sc2.BotAI):  # CapsBot inherits methods from sc2.BotAI
             if not self.units(REFINERY).closer_than(1.0, vg).exists:
                 await self.do(worker.build(REFINERY, vg))
                 
-    # build BARRACKS to build MARINE if we can afford a BARRACKS and the amount of BARRACKS is less than 2
+    # build BARRACKS to build MARINEs if we can afford a BARRACKS and the amount of BARRACKS is less than 2
     async def build_barracks(self):
         if self.can_afford(BARRACKS) and self.units(BARRACKS).amount < 2:
             await self.build(BARRACKS, near=self.units(COMMANDCENTER).first)  # position BARRACKS next to first COMMANDCENTER
 
-    # for each BARRACKS build MARINE if we can afford a MARINE and the amount of MARINE is smaller than 40
+    # for each BARRACKS build MARINEs if we can afford a MARINE and the amount of MARINEs is smaller than 40
     async def build_marines(self):
         for rax in self.units(BARRACKS):
             if rax.is_ready and rax.noqueue:
                 if self.can_afford(MARINE) and self.units(MARINE).amount < 40:
                     await self.do(rax.train(MARINE))
                     
-    # build FACTORY to build CYCLONE if amount of BARRACKS is larger than 1 and we can afford a FACTORY and we have no more than 1 FACTORY
+    # build FACTORY to build CYCLONEs if amount of BARRACKS is larger than 1 and we can afford a FACTORY and we have no more than 1 FACTORY
     async def build_factory(self):
         if self.units(BARRACKS).amount > 0:
             if self.can_afford(FACTORY) and self.units(FACTORY).amount < 1 and not self.already_pending(FACTORY):
                 await self.build(FACTORY, near=self.units(BARRACKS).first)  # position FACTORY next to first BARRACKS
     
-    # for each FACTORY build CYCLONE if we can afford a CYCLONE and the amount of CYCLONE is smaller than 12
+    # for each FACTORY build CYCLONEs if we can afford a CYCLONE and the amount of CYCLONEs is smaller than 12
     async def build_cyclones(self):
         for fact in self.units(FACTORY):
             if fact.is_ready and fact.noqueue:
@@ -87,7 +87,7 @@ class CapsBot(sc2.BotAI):  # CapsBot inherits methods from sc2.BotAI
         else:
             return self.enemy_start_locations[0]  # else, the enemy start location is our target
     
-    # attack enemy once min 20 MARINE are built and min 4 CYCLONE are built
+    # attack enemy once min 20 MARINEs are built and min 4 CYCLONEs are built
     async def attack(self):
         # uncomment to break up second push into smaller MARINE segments
         # if self.units(MARINE).amount > 5:
