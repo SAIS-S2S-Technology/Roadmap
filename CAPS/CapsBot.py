@@ -88,7 +88,7 @@ class CapsBot(sc2.BotAI):  # CapsBot inherits methods from sc2.BotAI
     
     # attack enemy once min 20 MARINE are built and min 4 CYCLONE are built
     async def attack(self):
-        # uncommented to break up second push into smaller MARINE segments
+        # uncomment to break up second push into smaller MARINE segments
         # if self.units(MARINE).amount > 5:
         #     if len(self.known_enemy_units) > 0:
         #         for m in self.units(MARINE).idle:
