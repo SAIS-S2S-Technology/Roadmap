@@ -2,7 +2,7 @@
 Terran bot that stays on 1base, builds two barracks and a factory
 Pushes into enemy base with min 20 marines and 5 cyclones
 Repeats that push with same numbers if unsuccessful at first
-Generally defeats hard AI in TvT, TvP and TvZ
+Generally defeats hard AI in TvT, TvP and TvZ lineups
 
 Bot made by LeoQK
 """
