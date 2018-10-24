@@ -2,7 +2,7 @@
 Terran bot that stays on 1 base, builds 2 barracks and 1 factory
 Pushes into enemy base with min 20 marines and 5 cyclones
 Repeats that push with same numbers if unsuccessful at first
-First push takes place around 5:30 min mark
+First push takes place around 5:30 minute mark
 Generally defeats hard AI in TvT, TvP and TvZ lineups
 
 Bot made by Leo Klenner for CAPS workshop to explain rule-based agents
