@@ -18,7 +18,7 @@ A six session workshop that explores ways in which computational methods can adv
 * Starts Friday, October 26
 * Six weekly sessions 
 * 4 - 5 pm 
-* BOB 756
+* BOB 736
 
 :mortar_board: Enroll at team@saiss2stechnology.com
 
