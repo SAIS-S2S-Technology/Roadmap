@@ -1,4 +1,6 @@
-
+"""
+Simple examples to explore Python
+"""
 
 # Strings
 
