@@ -107,6 +107,9 @@ Covers how to create and host a free personal website through GitHub. Afterwards
 
 ### :computer: Install Guidelines
 
+#### python-sc2
+* Open your command line (if you do not know where the command line is on your system, search "cmd" in Windows explorer or "terminal" in Apple spotlight search). In your command line, type ```pip install sc2```. This will install python-sc2. To check whether you have installed python-sc2, open Python and type ```import sc2```. If you don't get an error at this stage, you're good. 
+
 #### Download StarCraft II
 * Download StarCraft II from the [official Battlenet website](https://us.battle.net/account/download/). StarCraft II is free to play but requies you to set up an account at Battlenet
 * Install StarCraft into your ```C``` drive. 
