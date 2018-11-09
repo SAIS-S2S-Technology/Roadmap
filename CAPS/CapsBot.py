@@ -91,7 +91,6 @@ class CapsBot(sc2.BotAI):  # CapsBot inherits methods from sc2.BotAI
     
     # attack enemy units through push with reinforcements
     async def attack(self):
-        
         # if min 16 MARINES and min 3 CYCLONES are produed and known enemy units exist, attack known enemy units
         # used to reinforce first attack push continously so long as unit levels do not fall below the respective minima
         if self.units(MARINE).amount > 15 and self.units(CYCLONE).amount > 2:
