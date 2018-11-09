@@ -88,15 +88,21 @@ class CapsBot(sc2.BotAI):  # CapsBot inherits methods from sc2.BotAI
         else:
             return self.enemy_start_locations[0]  # else, the enemy start location is our target
     
-    # attack enemy once min 20 MARINEs are built and min 4 CYCLONEs are built
+    
+    # attack enemy units through push with reinforcements
     async def attack(self):
-        # uncomment to break up second push into smaller MARINE segments
-        # if self.units(MARINE).amount > 5:
-        #     if len(self.known_enemy_units) > 0:
-        #         for m in self.units(MARINE).idle:
-        #             await self.do(m.attack(random.choice(self.known_enemy_units)))
+        
+        # if min 16 MARINES and min 3 CYCLONES are produed and known enemy units exist, attack known enemy units
+        # used to reinforce first attack push continously so long as unit levels do not fall below the respective minima
+        if self.units(MARINE).amount > 15 and self.units(CYCLONE).amount > 2:
+            if len(self.known_enemy_units) > 0:
+                for m in self.units(MARINE).idle:
+                    await self.do(m.attack(random.choice(self.known_enemy_units)))
+                for m in self.units(CYCLONE).idle:
+                    await self.do(m.attack(random.choice(self.known_enemy_units)))
 
-        if self.units(MARINE).amount > 20 and self.units(CYCLONE).amount > 4:  
+        # first attack push, attack enemy once min 21 MARINES and min 4 CYCLONES are produced
+        if self.units(MARINE).amount > 20 and self.units(CYCLONE).amount > 3:
             for m in self.units(MARINE).idle:
                 await self.do(m.attack(self.locate_target(self.state)))
             for c in self.units(CYCLONE).idle:
