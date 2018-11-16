@@ -30,7 +30,7 @@ A six session workshop that explores ways in which computational methods can adv
 - [x] [Session 1](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/Slides/CAPS%2001%20Introduction%2009-17.pdf) Introduction
 - [x] [Session 2](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/Slides/CAPS%2002%20Python%20Primer_reverse4.pdf) Python Primer
 - [x] [Session 3](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/Slides/CAPS%2003%20Building%20a%20Rule-Based%20StarCraft%20II%20Bot.pdf) + [code](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/CapsBot.py) Building a Rule-Based StarCraft II Bot
-- [ ] Session 4 Building a Learning-Based StarCraft II Bot
+- [x] [Session 4](https://github.com/SAIS-S2S-Technology/Roadmap/tree/master/CAPS/Slides) Building a Learning-Based StarCraft II Bot
 - [ ] Session 5 Game Data Mining and AI Strategy and Policy
 - [ ] Session 6 Building and Hosting a Website Through GitHub
 
