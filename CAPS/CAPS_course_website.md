@@ -9,7 +9,7 @@ We are currently expanding CAPS into a more dedicated learning environment and w
 
 **January 2019.** DeepMind releases [AlphaStar](https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/), solving the full game of StarCraft II.
 
-When we started CAPS in October 2018 this achievement seemed at least some years away. Fascinating to see the fast pace of AI research. The slides found in the course materials here are pre-Alpha Star. 
+When we started CAPS in October 2018, this achievement seemed at least some years away. Fascinating to see the fast pace of AI research. Note, that the slides found in the course materials here are pre-Alpha Star. 
 
 
 ***
