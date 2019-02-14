@@ -31,7 +31,7 @@ When we started CAPS in October 2018, this achievement seemed at least some year
 * Six weekly sessions 
 * 4 - 5 pm 
 * BOB 736
-* Instructors: Leo Klenner and Henry Fung. 
+* Instructors: Leo Klenner and Henry Fung
 
 :mortar_board: Enroll at team@saiss2stechnology.com
 
