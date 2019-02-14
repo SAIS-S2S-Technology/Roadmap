@@ -41,6 +41,10 @@ We are currently expanding CAPS into a more dedicated learning environment and w
 
 - [x] [Additional Python 101 Slides ](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/Slides/CAPS%2002%20Python%20Primer_10-15.pdf) + [code](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/primer.py)
 
+### Video Recordings
+
+Forthcoming in late February 2019. 
+
 ### Course Overview
 
 #### :blue_book: Session 1 - Introduction to CAPS
@@ -53,7 +57,7 @@ Covers how games are studied within AI research and outlines the intersection of
 3. [Career guide on AI Policy and AI Strategy](https://80000hours.org/articles/ai-policy-guide/) by 80,000 Hours (article) 
 
 #### :blue_book: Session 2 - Python Primer
-Covers programming in Python from the ground up. Introduces object-oriented and asynchronous programming.
+Covers programming in Python through reverse-engineering a StarCraft II bot. Introduces object-oriented and asynchronous programming.
 
 *Optional readings*
 
@@ -78,17 +82,15 @@ Introduces basic AI techniques. Covers the expansion of our bot so that it centr
 2. Oriol Vinyals et al. [StarCraft II: A New Challenge for Reinforcement Learning](https://arxiv.org/pdf/1708.04782.pdf) (paper) 
 3. [The GitHub repo of DeepMind’s pysc2 library](https://github.com/deepmind/pysc2) (documentation) 
 
-#### :blue_book: Session 5 - Game Data Mining and AI Strategy and Policy
-Covers two topics, game data mining and the intersection of AI and IR on issues such as AI interpretability. We start by analysing the performance of our bot through a set of tailored data mining tools. We conclude by discussing the potential of real-time strategy games for IR research and how AI and IR can interact.
+#### :blue_book: Session 5 - Introduction to Statistical Learning with Applications to StarCraft II
+Covers stastical learning from a technical perspective and dicusses applications of data mining to StarCraft II replays.
 
-*Optional Readings*
+#### :blue_book: Session 6 - Aspects of AI Strategy and Policy
+Covers the interaction between human stakeholders and AI systems through the lense of explainable AI and discusses the implications of human-AI interaction for policymaking and strategy.
 
 1. Henry Kissinger [How the Enlightenment Ends]( https://www.theatlantic.com/magazine/archive/2018/06/henry-kissinger-ai-could-mean-the-end-of-human-history/559124/) (article)
 2. Miles Brundage et al. [The Malicious Uses of Artificial Intelligence: Forecasting, Prevention and Mitigation](https://arxiv.org/ftp/arxiv/papers/1802/1802.07228.pdf) (report) 
 3. Mick Ryan [Intellectual Preparation for the Future of War: How Artificial Intelligence will Change Professional Military Education](https://warontherocks.com/2018/07/intellectual-preparation-for-future-war-how-artificial-intelligence-will-change-professional-military-education/) (article) 
-
-#### :blue_book: Session 6 - Building and Hosting a Website Through GitHub
-Covers how to create and host a free personal website through GitHub. Afterwards we conclude with drinks and pizza.
 
 ***
 
