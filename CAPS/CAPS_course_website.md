@@ -2,9 +2,10 @@
 A six session workshop that explores ways in which computational methods can advance the applications of policy and strategy research. The workshop focuses on the potential of video games – and intelligent agents programmed in Python to play these games – to study strategic behaviour in complex, simulated environments.
 
 ### Update
-**The first iteration of CAPS was completed in December 2018.**
+* **December 2018. The first iteration of CAPS was completed.**
 Thank you to all the students who participated and helped create a great environment for learning about computation, policy and strategy. Video recordings of the six sessions are forthcoming.
 We are currently expanding CAPS into a more dedicated learning environment and will start the next iteration in late March 2019. Stay tuned for updates!
+* January 2019. DeepMind releases [AlphaStar](https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/), solving the full game of StarCraft II.  
 
 ***
 
