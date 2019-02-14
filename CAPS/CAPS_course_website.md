@@ -17,6 +17,7 @@ When we started CAPS in October 2018, this achievement seemed at least some year
 ### Contents
 * [Logistics](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/CAPS_course_website.md#logistics)
 * [Course Material](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/CAPS_course_website.md#course-material)
+* [Video Recordings](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/CAPS_course_website.md#video-recordings)
 * [Course Overview](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/CAPS_course_website.md#course-overview)
 * [Additional Resources](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/CAPS_course_website.md#satellite-additional-resources)
 * [Install Guidelines](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/CAPS_course_website.md#computer-install-guidelines)
