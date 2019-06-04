@@ -13,6 +13,10 @@ We are currently expanding CAPS into a more dedicated learning environment and w
 
 When we started CAPS in October 2018, this achievement seemed at least some years away. Fascinating to see the fast pace of AI research. Note, that the slides found in the course materials here are pre-Alpha Star. 
 
+**May 2019** The second iteration of CAPS was completed.
+
+We have expanded CAPS, turning our workshop into an official professional developement course at Johns Hopkins. You can find the new home of CAPS on GitHub [here](https://github.com/capsseminar). 
+
 
 ***
 
